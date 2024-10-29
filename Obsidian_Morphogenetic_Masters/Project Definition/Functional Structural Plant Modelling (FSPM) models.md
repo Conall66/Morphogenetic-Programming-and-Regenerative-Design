@@ -1,4 +1,3 @@
-
 ## Existing Approaches
 ## Existing Models
 
