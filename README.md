@@ -6,3 +6,5 @@
 - Attempting to contextualise plant growths by providing environmental conditions, with the aim of possible BIM integration package output
 
 The broader aim of this project is to facilitate the uptake of regenerative design in urban landscapes, building a carbon negative future
+
+Conall Templeman
