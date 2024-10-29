@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction File.md",
+                "file": "Functional Structural Plant Modelling (FSPM) models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction File"
+              "title": "Functional Structural Plant Modelling (FSPM) models"
             }
           }
         ]
@@ -161,6 +161,10 @@
   },
   "active": "bfec0c32a73c414b",
   "lastOpenFiles": [
-    "Introduction File.md"
+    "Initial Project Directions.md",
+    "Project Brief.md",
+    "Architectural regenerative design.md",
+    "Functional Structural Plant Modelling (FSPM) models.md",
+    "Project Definition"
   ]
 }
