@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Definition/Initial Project Directions.md",
+                "file": "Project Definition/Project Brief.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initial Project Directions"
+              "title": "Project Brief"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -159,14 +159,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a8b7dec1e3f1550",
+  "active": "bfec0c32a73c414b",
   "lastOpenFiles": [
+    "Project Definition/Initial Project Directions.md",
     "Problem Identification",
     "Project Refinement",
     "Project Definition/Architectural regenerative design.md",
     "Project Definition/Functional Structural Plant Modelling (FSPM) models.md",
     "Project Definition/Project Brief.md",
-    "Project Definition/Initial Project Directions.md",
     "Project Definition/Stakeholder (Primary Research).md",
     "Project Definition"
   ]
