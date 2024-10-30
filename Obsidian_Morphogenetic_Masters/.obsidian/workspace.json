@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Project Brief"
             }
+          },
+          {
+            "id": "878acbe7a80159ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Definition/Key Assumptions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Assumptions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Definition/Project Brief.md",
+                "file": "Project Definition/Key Assumptions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Project Brief"
+              "title": "Backlinks for Key Assumptions"
             }
           },
           {
@@ -160,9 +175,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bfec0c32a73c414b",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
     "Project Definition/Project Brief.md",
+    "Project Definition/Key Assumptions.md",
     "Project Definition/Initial Project Directions.md",
     "Problem Identification",
     "Project Refinement",
