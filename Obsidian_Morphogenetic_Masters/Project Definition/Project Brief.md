@@ -1,4 +1,4 @@
-
 If we stopped all emissions today, the climate would continue to warm the planet for decades to come: it is vital we implement measures for carbon sequestration. [[Architectural Regenerative Design]] allows us to leverage the natural carbon sequestration properties of plant life, along with structural security and biodiversity gains. Until recently, we have struggled to model the seemingly random nature of biological growth, but advances in AI and morphogenetic programming have allowed us to identify the governing equations to accurately model these growth patterns. [[Functional Structural Plant Modelling (FSPM) models]] have not yet widely been applied to architectural or civil contexts: this project aims to assess the utility of regenerative measures in various construction and retrofit applications, modelling these structures and simulating their responses over time considering these environmental factors.
 
-[[Initial Project Directions]]
+- [[Initial Project Directions]]
+- [[Initial Key Assumptions]]

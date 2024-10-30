@@ -1,0 +1,5 @@
+- Regenerative architecture can have a significant positive impact on either climate change and sequestration or structural strength
+- Architects are facing problems regarding the implementation of regenerative design and would welcome innovation in the space
+- There is space for this project to advance the implementation of regenerative design in different landscapes
+- Urban environments are in greater need of ecological intervention and regeneration
+- 
