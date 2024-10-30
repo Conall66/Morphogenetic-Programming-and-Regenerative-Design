@@ -1,5 +1,5 @@
-- Regenerative architecture can have a significant positive impact on either climate change and sequestration or structural strength
+- Regenerative architecture can have a significant positive impact on either climate change and sequestration or structural strength, with regard to the effort of integration and implementation over the long term
 - Architects are facing problems regarding the implementation of regenerative design and would welcome innovation in the space
 - There is space for this project to advance the implementation of regenerative design in different landscapes
 - Urban environments are in greater need of ecological intervention and regeneration
-- 
+- There is room to pivot in this project, with a number of different project directions well suited to a design engineer

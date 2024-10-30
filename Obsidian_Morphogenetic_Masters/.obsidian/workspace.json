@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Definition/Initial Key Assumptions.md",
+                "file": "Project Definition/Architectural Regenerative Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initial Key Assumptions"
+              "title": "Architectural Regenerative Design"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Definition/Initial Key Assumptions.md",
+                "file": "Project Definition/Architectural Regenerative Design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Initial Key Assumptions"
+              "title": "Backlinks for Architectural Regenerative Design"
             }
           },
           {
@@ -178,13 +178,13 @@
   "active": "1ee549dc053416c9",
   "lastOpenFiles": [
     "Project Definition/Project Brief.md",
-    "Project Definition/Initial Key Assumptions.md",
     "Project Definition/Architectural Regenerative Design.md",
-    "Project Definition/Initial Project Directions.md",
+    "Project Definition/Functional Structural Plant Modelling (FSPM) models.md",
+    "Project Definition/Initial Project Ideas.md",
+    "Project Definition/Initial Key Assumptions.md",
     "Project Definition/Inside Folder",
     "Problem Identification",
     "Project Refinement",
-    "Project Definition/Functional Structural Plant Modelling (FSPM) models.md",
     "Project Definition/Stakeholder (Primary Research).md",
     "Project Definition"
   ]
