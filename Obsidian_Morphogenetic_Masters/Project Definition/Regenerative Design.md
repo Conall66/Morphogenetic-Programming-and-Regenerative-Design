@@ -21,6 +21,9 @@
 - Plant life is given space to grow
 - Consists of 94 homes
 - Carbon negative
+
+![[KondorWessels-Vastgoed_Habitat-Royale_benedenaanzicht_render-WAX.jpg | 300]]
+
 ## Where did it come from?
 ## What are some of the problems?
 
@@ -32,6 +35,10 @@
 	- Low embodied energy
 	- Natural resources can be naturally recycled
 	- High thermal mass for insulative properties
+
+## Regenerative Design in Engineering
+
+- 
 ## Useful Companies
 
 - [Entropic](https://entropic.es/about)
