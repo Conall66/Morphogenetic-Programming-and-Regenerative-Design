@@ -34,7 +34,8 @@
 - High upfront capital costs
 - Staffing difficulties
 - Legislation
-### Integrating Living Biology
+### [[Functional Structural Plant Modelling (FSPM) models]] in Regenerative Design
+
 
 ## Architectural Approaches
 
