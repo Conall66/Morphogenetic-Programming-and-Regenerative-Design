@@ -12,7 +12,10 @@
 - Bio-degradability of natural components
 - Green energy
 ## Why is it Important?
-- "The value of a regenerative design approach is in its potential to regenerate planetary health and deliver positive outcomes for both people and planet" [Arup](https://www.arup.com/insights/what-is-regenerative-design/)
+
+- The value of a regenerative design approach is in its potential to regenerate planetary health and deliver positive outcomes for both people and planet [Arup](https://www.arup.com/insights/what-is-regenerative-design/)
+- The most recent Intergovernmental Panel on Climate Change (IPCC) report indicates that a ‘build as usual’ mindset will lead to almost triple the CO2 output from 2015 to 2100, with a corresponding increase in global temperature of 4oC [**REGENERATIVE DESIGN: A SOLUTION FOR SUSTAINABLE DEVELOPMENT?**](https://www.acenet.co.uk/news/blog/regenerative-design-an-answer-to-the-challenges-of-sustainable-development/) 
+- 
 ## Where is it being done?
 ### Case Studies
 
@@ -44,6 +47,8 @@
 
 - 
 ## Useful Companies
+
+## Most Useful Contexts
 
 - [Entropic](https://entropic.es/about)
 
