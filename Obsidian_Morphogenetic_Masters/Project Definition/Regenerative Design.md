@@ -27,6 +27,10 @@
 ## Where did it come from?
 ## What are some of the problems?
 
+- High volume of concrete in built urban environments makes it difficult to implement/retrofit solutions [**REGENERATIVE DESIGN: A SOLUTION FOR SUSTAINABLE DEVELOPMENT?**](https://www.acenet.co.uk/news/blog/regenerative-design-an-answer-to-the-challenges-of-sustainable-development/)
+- High upfront capital costs
+- Staffing difficulties
+- Legislation
 ### Integrating Living Biology
 
 ## Architectural Approaches
