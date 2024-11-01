@@ -8,6 +8,7 @@
 - Positive ventilations schemes
 - Preventing harmful toxins leaking into environment
 - Bio-degradability of natural components
+- Green energy
 ## Why is it Important?
 - "The value of a regenerative design approach is in its potential to regenerate planetary health and deliver positive outcomes for both people and planet" [Arup](https://www.arup.com/insights/what-is-regenerative-design/)
 ## Where is it being done?
