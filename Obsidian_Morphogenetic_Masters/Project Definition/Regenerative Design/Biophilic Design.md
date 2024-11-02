@@ -21,3 +21,7 @@ Biophilia can also be achieved through these approaches: Prospect and Refuge, Or
 
 - Permissions/ legislation
 - Implementation cost
+
+## Technological Barriers
+
+

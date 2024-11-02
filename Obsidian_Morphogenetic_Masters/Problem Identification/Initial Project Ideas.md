@@ -13,3 +13,4 @@
 - BIM modelling software to aid architects in the design of regenerative infrastructure
 - Modelling package that assesses the regenerative nature of a project
 - Software plugin that models biological growths over time when left unattended
+- Mathematical models for assessing the strength properties of biomaterials through morphogenetic programming

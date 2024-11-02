@@ -46,7 +46,7 @@ If much of regenerative design is founded on biological growths and the natural 
 ![[insights-infographics_Umbrella-1080x660.webp | 400]]
 [RSK Group](https://rskgroup.com/insights/progressing-regenerative-design/)
 
-- Nature Based Solutions
+- [[Nature Based Solutions]]
 - Natural Climate Solutions
 - Green Infrastructure
 - Nature and Landscape Recovery Networks
