@@ -20,4 +20,4 @@ Biophilia can also be achieved through these approaches: Prospect and Refuge, Or
 ## Problems Facing Widespread Implementation
 
 - Permissions/ legislation
-- 
+- Implementation cost
