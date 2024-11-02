@@ -1,6 +1,6 @@
 ## What is Regenerative Design?
 
-- "Regenerative design is an approach in which human and natural systems are designed to co-exist and co-evolve over time" [Arup](https://www.arup.com/insights/what-is-regenerative-design/)
+- Regenerative design is an approach in which human and natural systems are designed to co-exist and co-evolve over time [Arup](https://www.arup.com/insights/what-is-regenerative-design/)
 ### Aims
 
 - Carbon negative design
@@ -14,7 +14,7 @@
 ## Why is it Important?
 
 - The value of a regenerative design approach is in its potential to regenerate planetary health and deliver positive outcomes for both people and planet [Arup](https://www.arup.com/insights/what-is-regenerative-design/)
-- The most recent Intergovernmental Panel on Climate Change (IPCC) report indicates that a ‘build as usual’ mindset will lead to almost triple the CO2 output from 2015 to 2100, with a corresponding increase in global temperature of 4oC [**REGENERATIVE DESIGN: A SOLUTION FOR SUSTAINABLE DEVELOPMENT?**](https://www.acenet.co.uk/news/blog/regenerative-design-an-answer-to-the-challenges-of-sustainable-development/) 
+- The most recent Intergovernmental Panel on Climate Change (IPCC) report indicates that a ‘build as usual’ mindset will lead to almost triple the CO2 output from 2015 to 2100, with a corresponding increase in global temperature of 4oC [**REGENERATIVE DESIGN: A SOLUTION FOR SUSTAINABLE DEVELOPMENT?**](https://www.acenet.co.uk/news/blog/regenerative-design-an-answer-to-the-challenges-of-sustainable-development/)  - **regenerative design can play a part in carbon sequestration**
 - 
 ## Where is it Being Done?
 ### Case Studies
@@ -41,13 +41,14 @@
 ## Incentivising Regenerative Design
 
 
-## Architectural Approaches
+## Regenerative Approaches
+
+![[insights-infographics_Umbrella-1080x660.webp | 400]]
 
 - **Rammed Earth**: Ramming a mixture of selected aggregates, including gravel, sand, silt, and a small amount of clay, into place between flat panels called formwork.
 	- Low embodied energy
 	- Natural resources can be naturally recycled
 	- High thermal mass for insulative properties
-
 ## Regenerative Design in Engineering
 
 - 
