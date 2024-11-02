@@ -7,6 +7,7 @@
 - Model carbon absorption, damaged incurred to bonded structure over time etc.
 - Inform the design of new structures aimed at working with regenerative plant growth
 - Establish the relative ‘randomness’ to build uncertainty values and enforce homogeneous design properties
+- Morphogenetic approach to smart cities layout (track how biological pathways form in order to minimise distance travelled between functional nodes)
 
 ## Project Outcomes
 
