@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Definition/Regenerative Design/Regenerative Design Intro.md",
+                "file": "Project Definition/Regenerative Design/Biophilic Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regenerative Design Intro"
+              "title": "Biophilic Design"
             }
           }
         ]
@@ -162,9 +162,9 @@
   },
   "active": "1b2acc998fd13395",
   "lastOpenFiles": [
-    "Documentation/Workflow.md",
-    "Project Definition/Regenerative Design/Biophilic Design.md",
     "Project Definition/Regenerative Design/Regenerative Design Intro.md",
+    "Project Definition/Regenerative Design/Biophilic Design.md",
+    "Documentation/Workflow.md",
     "Project Definition/Design Engineering in Regenerative Design.md",
     "Problem Identification/Initial Project Ideas.md",
     "Project Definition/Regenerative Design/Smart Cities and Regenerative Design.md",
