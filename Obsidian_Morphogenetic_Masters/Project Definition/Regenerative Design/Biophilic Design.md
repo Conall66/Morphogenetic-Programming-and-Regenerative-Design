@@ -11,16 +11,11 @@ Biophilic design seeks to connect our inherent need to affiliate with nature i
 ### Direct Experience of Nature
 Spaces that allow direct experience of Light, Air, Water, Plants, Animals, Weather, and Natural Landscapes and Ecosystems
 #### Examples
-- Hoge Veluwe pavillion in the Netherlands
+- Hoge Veluwe pavilion in the Netherlands
 - SFER IK art centre in Tulum, Mexico
-- 
-
 ### Indirect Experience of Nature
-
-
+Nature represented by these elements: Images of Nature, Natural Materials, Natural Colours, Mobility and Wayfinding, Cultural and, Ecological Attachment to Place, Simulating Natural Light and Air, Naturalistic Shapes and Forms, Evoking Nature, Information Richness, Natural Geometries, Biomimicry, and Age, Change, and the Patina of Time
 ### Experience of Space and Place
-
-### Viewpoints on Biophilia
-
-
+Biophilia can also be achieved through these approaches: Prospect and Refuge, Organized Complexity, Integration of Parts to Wholes, and Transitional Spaces
 ## Problems Facing Widespread Implementation
+
