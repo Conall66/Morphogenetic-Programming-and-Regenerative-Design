@@ -6,4 +6,21 @@ Biophilic design seeks to connect our inherent need to affiliate with nature i
 - Focus on the interconnected nature of an environment - showing a **clear consideration for the total environmental impact** (the ecosystem 'performs' better as part of a collective)
 - Must be **continually connected to natural world**
 - Fosters sustained **emotional connections with the space**
+## Applications
+
+### Direct Experience of Nature
+Spaces that allow direct experience of Light, Air, Water, Plants, Animals, Weather, and Natural Landscapes and Ecosystems
+#### Examples
+- Hoge Veluwe pavillion in the Netherlands
+- SFER IK art centre in Tulum, Mexico
+- 
+
+### Indirect Experience of Nature
+
+
+### Experience of Space and Place
+
+### Viewpoints on Biophilia
+
+
 ## Problems Facing Widespread Implementation
