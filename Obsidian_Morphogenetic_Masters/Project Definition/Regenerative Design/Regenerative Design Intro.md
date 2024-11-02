@@ -37,7 +37,7 @@
 - I think we can claim to be able to measure biodiversity, for example, but how do you measure happiness? How do you measure social cohesion or the feeling of being connected with nature? There are a lot of intangibles as well as hard metrics [RSK Group](https://rskgroup.com/insights/progressing-regenerative-design/)
 ### [[Functional Structural Plant Modelling (FSPM) models]] in Regenerative Design
 
- - If much of regenerative design is founded on biological growths and the natural environment, it's important to be able model those growths
+If much of regenerative design is founded on biological growths and the natural environment, it's important to be able model those growths to determine the resilience of the ecosystem to natural and synthetic stimuli (i.e. exposure to sunlight, car fumes etc.), in order to assess the real growth against projected to inform detection of harmful contaminants, inform further treatment/growth mechanisms, 
 ## Incentivising Regenerative Design
 
 
