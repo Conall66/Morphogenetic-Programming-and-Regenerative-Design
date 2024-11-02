@@ -16,7 +16,7 @@
 - The value of a regenerative design approach is in its potential to regenerate planetary health and deliver positive outcomes for both people and planet [Arup](https://www.arup.com/insights/what-is-regenerative-design/)
 - The most recent Intergovernmental Panel on Climate Change (IPCC) report indicates that a ‘build as usual’ mindset will lead to almost triple the CO2 output from 2015 to 2100, with a corresponding increase in global temperature of 4oC [**REGENERATIVE DESIGN: A SOLUTION FOR SUSTAINABLE DEVELOPMENT?**](https://www.acenet.co.uk/news/blog/regenerative-design-an-answer-to-the-challenges-of-sustainable-development/) 
 - 
-## Where is it being done?
+## Where is it Being Done?
 ### Case Studies
 
 **[Habitat Royale](https://kondorwessels.nl/en/portfolio/habitat-royale/)**:
@@ -27,15 +27,17 @@
 
 ![[KondorWessels-Vastgoed_Habitat-Royale_benedenaanzicht_render-WAX.jpg | 300]]
 
-## Where did it come from?
-## What are some of the problems?
+## Where Did it Come From?
+## What are Some of the Problems?
 
 - High volume of concrete in built urban environments makes it difficult to implement/retrofit solutions [**REGENERATIVE DESIGN: A SOLUTION FOR SUSTAINABLE DEVELOPMENT?**](https://www.acenet.co.uk/news/blog/regenerative-design-an-answer-to-the-challenges-of-sustainable-development/)
 - High upfront capital costs
 - Staffing difficulties
 - Legislation
+- I think we can claim to be able to measure biodiversity, for example, but how do you measure happiness? How do you measure social cohesion or the feeling of being connected with nature? There are a lot of intangibles as well as hard metrics [RSK Group](https://rskgroup.com/insights/progressing-regenerative-design/)
 ### [[Functional Structural Plant Modelling (FSPM) models]] in Regenerative Design
 
+- 
 
 ## Architectural Approaches
 
