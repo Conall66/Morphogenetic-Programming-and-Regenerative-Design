@@ -19,3 +19,5 @@ Nature represented by these elements: Images of Nature, Natural Materials, Natur
 Biophilia can also be achieved through these approaches: Prospect and Refuge, Organized Complexity, Integration of Parts to Wholes, and Transitional Spaces
 ## Problems Facing Widespread Implementation
 
+- Permissions/ legislation
+- 
