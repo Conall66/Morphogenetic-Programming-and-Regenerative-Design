@@ -6,7 +6,8 @@ This paper summarises the applications of different bio-materials in the constru
 - "A significant hurdle lies in the commercial viability of biomaterials, as some presently entail higher production costs than traditional materials, posing a challenge in terms of market competitiveness. To overcome this, **efforts are needed to optimize production processes and reduce costs while maintaining biomaterials' environmental benefits and performance**."
 - "Biomaterials hold the potential to revolutionize the construction industry, offering ecologically sustainable and efficacious substances"
 - Research case studies have shown the potential to sound proof buildings, prevent heat loss, resist water damages and chemicals, and repair damages
-- "Many of these substrates **fail to attain the same levels of resilience and longevity** as their conventional construction counterparts. They often exhibit susceptibility to factors such as biodegradation, insect infestation, and humidity, thereby engendering potential hazards to the structural robustness and longevity of edifices constructed from these materials" 
+- "Many of these substrates **fail to attain the same levels of resilience and longevity** as their conventional construction counterparts. They often exhibit susceptibility to factors such as biodegradation, insect infestation, and humidity, thereby engendering potential hazards to the structural robustness and longevity of edifices constructed from these materials"
+- Utilizing biomaterials within the construction sector is a viable approach toward attaining a **circular economy and fostering environmental sustainability**
 
 - Evaluation of key bio materials:
 ![[Table Benefits and Challenges Biomaterials.png | 400]]
