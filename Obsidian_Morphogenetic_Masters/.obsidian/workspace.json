@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Bio-mimetic building envelopes"
             }
+          },
+          {
+            "id": "979d005c1f145d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Definition/Key Terms/Vernacular Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vernacular Architecture"
+            }
+          },
+          {
+            "id": "064526d5adfe384d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Definition/Papers_Textbooks/Bio-mimetic building envelopes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bio-mimetic building envelopes"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,11 +189,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1c3ed73326b54f95",
+  "active": "064526d5adfe384d",
   "lastOpenFiles": [
-    "Project Definition/Papers_Textbooks/Biomaterials technology and policies in the building sector.md",
+    "Project Definition/Key Terms/Stigmergic Ecologies.md",
+    "Project Definition/Key Terms/Bio-materials.md",
+    "Project Definition/Key Terms/Vernacular Architecture.md",
+    "Project Definition/Key Terms",
     "Project Definition/Papers_Textbooks/Bio-mimetic building envelopes.md",
-    "Project Definition/Bio-materials.md",
+    "Project Definition/Papers_Textbooks/Biomaterials technology and policies in the building sector.md",
     "Reference Images/Share of Building Construction.png",
     "Reference Images/Fungi Repair Strategies.png",
     "Reference Images/Table Benefits and Challenges Biomaterials.png",
@@ -174,17 +206,15 @@
     "Pasted image 20241104175559.png",
     "Problem Identification/Bio-Material Simulation.md",
     "Pasted image 20241104175116.png",
-    "Untitled.md",
     "Problem Identification/Stigmergic Ecologies and Regenerative Architecture.md",
     "Problem Identification/Initial Project Ideas.md",
-    "Project Definition/Morphogenetic Programming.md",
+    "Project Definition/Key Terms/Morphogenetic Programming.md",
     "Papers_Articles_Textbooks/Papers Articles and Textbooks.md",
     "Papers_Articles_Textbooks",
     "Project Definition/Papers_Textbooks",
     "Project Definition/Initial Project Brief.md",
     "Project Definition/Initial Key Assumptions.md",
-    "Project Definition/Stigmergic Ecologies.md",
-    "Project Definition/Functional Structural Plant Modelling (FSPM) models.md",
+    "Project Definition/Key Terms/Functional Structural Plant Modelling (FSPM) models.md",
     "Problem Identification/Untitled.md",
     "Project Definition/Regenerative Design/Regenerative Design Intro.md",
     "Project Definition/Regenerative Design/Nature Based Solutions.md",
@@ -203,7 +233,6 @@
     "Project Definition/Inside Folder",
     "Problem Identification",
     "Project Refinement",
-    "Project Definition/Stakeholder (Primary Research).md",
-    "Project Definition"
+    "Project Definition/Stakeholder (Primary Research).md"
   ]
 }

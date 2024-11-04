@@ -1,0 +1,1 @@
+Vernacular architecture is **a term used to categorize architectural design which uses locally available resources and traditions to address local building and design needs** https://greenbrierliving.com/vernaculararchitecture/
