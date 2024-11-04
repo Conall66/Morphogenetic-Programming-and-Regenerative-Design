@@ -1,0 +1,12 @@
+/* Rotate images with the 'rotate' class */
+.rotate-90 img {
+    transform: rotate(90deg);
+}
+
+.rotate-180 img {
+    transform: rotate(180deg);
+}
+
+.rotate-270 img {
+    transform: rotate(270deg);
+}
