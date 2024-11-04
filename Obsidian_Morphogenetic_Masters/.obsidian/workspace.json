@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Identification/Bio-Material Simulation.md",
+                "file": "Project Definition/Bio-materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bio-Material Simulation"
+              "title": "Bio-materials"
             }
           }
         ],
@@ -219,19 +219,20 @@
   },
   "active": "1c3ed73326b54f95",
   "lastOpenFiles": [
+    "Problem Identification/Bio-Material Simulation.md",
+    "Project Definition/Bio-materials.md",
     "Problem Identification/Initial Project Ideas.md",
+    "Project Definition/Initial Key Assumptions.md",
+    "Project Definition/Stigmergic Ecologies.md",
+    "Project Definition/Functional Structural Plant Modelling (FSPM) models.md",
+    "Project Definition/Initial Project Brief.md",
     "Problem Identification/Untitled.md",
     "Problem Identification/Stigmergic Ecologies and Regenerative Architecture.md",
-    "Problem Identification/Bio-Material Simulation.md",
-    "Project Definition/Initial Key Assumptions.md",
     "Project Definition/Morphogenetic Programming.md",
     "Project Definition/Regenerative Design/Regenerative Design Intro.md",
-    "Stigmergic Ecologies.md",
     "Project Definition/Regenerative Design/Nature Based Solutions.md",
     "Project Definition/Regenerative Design/Biophilic Design.md",
     "Project Definition/Design Engineering in Regenerative Design.md",
-    "Project Definition/Functional Structural Plant Modelling (FSPM) models.md",
-    "Project Definition/Initial Project Brief.md",
     "Project Definition/Regenerative Design/Smart Cities and Regenerative Design.md",
     "Documentation/Workflow.md",
     "Reference Images/insights-infographics_Umbrella-1080x660.webp",
