@@ -16,4 +16,5 @@ Sadinei defined the role of the building envelope as “the key factor that dete
 ![[Approach to Assessing Materials for Adaptive Envelopes.jpg]]
 
 ## Potential Spin-Out Idea
-- Develop an AI 
+
+- Develop an AI capable of assessing different bio-materials for a particular building envelope
