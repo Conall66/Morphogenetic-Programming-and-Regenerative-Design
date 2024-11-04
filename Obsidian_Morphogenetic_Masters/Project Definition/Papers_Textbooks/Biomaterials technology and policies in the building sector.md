@@ -8,6 +8,7 @@ This paper summarises the applications of different bio-materials in the constru
 - Research case studies have shown the potential to sound proof buildings, prevent heat loss, resist water damages and chemicals, and repair damages
 - "Many of these substrates **fail to attain the same levels of resilience and longevity** as their conventional construction counterparts. They often exhibit susceptibility to factors such as biodegradation, insect infestation, and humidity, thereby engendering potential hazards to the structural robustness and longevity of edifices constructed from these materials"
 - Utilizing biomaterials within the construction sector is a viable approach toward attaining a **circular economy and fostering environmental sustainability**
+- Within the total building stock, measuring 25 billion m^2 , approximately **75% is designated for residential use**
 
 - Evaluation of key bio materials:
 ![[Table Benefits and Challenges Biomaterials.png | 400]]
@@ -21,6 +22,9 @@ This paper summarises the applications of different bio-materials in the constru
 	- Fungi offer regenerative properties [[Regenerative Design Intro]]
 
 ### Policy and Regulatory Frameworks
+
+- Within the European Union, a regulatory framework addressing waste and by-products has been
+established through the Waste Framework Directive
 
 
 
