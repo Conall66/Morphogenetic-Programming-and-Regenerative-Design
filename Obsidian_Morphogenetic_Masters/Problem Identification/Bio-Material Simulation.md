@@ -7,7 +7,7 @@
 - Bio-materials offer significant benefits over conventional building materials (i.e. concrete)
 - Living bio-materials offer unique benefits over dried bio-materials
 ## Competitive Landscape
-Many companies seem to be using bio-materials to develop 
+Many companies seem to be using bio-materials to develop insulation etc. - nothing for construction purposes (why?)
 
 - [Biomason](https://biomason.com/) - calcium carbonate cement 
 

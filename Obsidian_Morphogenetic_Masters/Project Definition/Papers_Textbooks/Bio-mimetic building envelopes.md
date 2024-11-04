@@ -17,4 +17,4 @@ Sadinei defined the role of the building envelope as “the key factor that dete
 
 ## Potential Spin-Out Idea
 
-- Develop an AI capable of assessing different bio-materials for a particular building envelope
+- Develop an AI capable of assessing different bio-materials for a particular building envelope [[Initial Project Ideas]]
