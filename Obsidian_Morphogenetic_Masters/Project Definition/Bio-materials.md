@@ -17,5 +17,6 @@ Within The Green Guide to Specification (4th edition), biomaterials are classed 
 - Energy production
 - Carbon sequestration
 ## Bio-Materials in Construction
-[Biomaterials technology and policies in the building sector: a review](https://link.springer.com/article/10.1007/s10311-023-01689-w) - useful textbook
+[[Biomaterials technology and policies in the building sector]]
+
 

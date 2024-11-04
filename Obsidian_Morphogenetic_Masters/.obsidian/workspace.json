@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b2acc998fd13395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Definition/Morphogenetic Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morphogenetic Programming"
-            }
-          },
-          {
-            "id": "c9af12cddda8cac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem Identification/Initial Project Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Initial Project Ideas"
-            }
-          },
-          {
-            "id": "bfdef84a218c73fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem Identification/Bio-Material Simulation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bio-Material Simulation"
-            }
-          },
-          {
-            "id": "02709193fc83899e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem Identification/Stigmergic Ecologies and Regenerative Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stigmergic Ecologies and Regenerative Architecture"
-            }
-          },
-          {
             "id": "1c3ed73326b54f95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Identification/Bio-Material Simulation.md",
+                "file": "Project Definition/Papers_Textbooks/Biomaterials technology and policies in the building sector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bio-Material Simulation"
+              "title": "Biomaterials technology and policies in the building sector"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,16 +162,20 @@
   },
   "active": "1c3ed73326b54f95",
   "lastOpenFiles": [
-    "Project Definition/Bio-materials.md",
-    "Project Definition/Morphogenetic Programming.md",
-    "Project Definition/Initial Project Brief.md",
+    "Problem Identification/Stigmergic Ecologies and Regenerative Architecture.md",
     "Problem Identification/Bio-Material Simulation.md",
     "Problem Identification/Initial Project Ideas.md",
+    "Project Definition/Morphogenetic Programming.md",
+    "Project Definition/Papers_Textbooks/Biomaterials technology and policies in the building sector.md",
+    "Papers_Articles_Textbooks/Papers Articles and Textbooks.md",
+    "Papers_Articles_Textbooks",
+    "Project Definition/Papers_Textbooks",
+    "Project Definition/Bio-materials.md",
+    "Project Definition/Initial Project Brief.md",
     "Project Definition/Initial Key Assumptions.md",
     "Project Definition/Stigmergic Ecologies.md",
     "Project Definition/Functional Structural Plant Modelling (FSPM) models.md",
     "Problem Identification/Untitled.md",
-    "Problem Identification/Stigmergic Ecologies and Regenerative Architecture.md",
     "Project Definition/Regenerative Design/Regenerative Design Intro.md",
     "Project Definition/Regenerative Design/Nature Based Solutions.md",
     "Project Definition/Regenerative Design/Biophilic Design.md",
