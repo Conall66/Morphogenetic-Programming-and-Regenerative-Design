@@ -6,7 +6,7 @@ This paper summarises the applications of different bio-materials in the constru
 - "A significant hurdle lies in the commercial viability of biomaterials, as some presently entail higher production costs than traditional materials, posing a challenge in terms of market competitiveness. To overcome this, **efforts are needed to optimize production processes and reduce costs while maintaining biomaterials' environmental benefits and performance**."
 - Evaluation of key bio materials:
 
-
-<div class="rotate-90">
-	![Pasted image 20241104175729.png]
+<div rotate="90">
+![[Comparison of Bio-Materials.png]]
 <\div>
+
