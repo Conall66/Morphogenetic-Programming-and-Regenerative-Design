@@ -28,6 +28,7 @@ This paper summarises the applications of different bio-materials in the constru
 ## Policy and Regulatory Frameworks
 
 - Within the European Union, a regulatory framework addressing waste and by-products has been established through the [Waste Framework Directive](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-framework-directive_en)
+- Building materials require global warming assessment
 
 
 
