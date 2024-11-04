@@ -1,7 +1,7 @@
 [Biomaterials technology and policies in the building sector](https://link.springer.com/article/10.1007/s10311-023-01689-w)
 ## Paper Outline
 This paper summarises the applications of different bio-materials in the construction industry, considering UK policy, performance, durability, regulation etc.
-### Key Points
+## Key Points
 
 - "A significant hurdle lies in the commercial viability of biomaterials, as some presently entail higher production costs than traditional materials, posing a challenge in terms of market competitiveness. To overcome this, **efforts are needed to optimize production processes and reduce costs while maintaining biomaterials' environmental benefits and performance**."
 - "Biomaterials hold the potential to revolutionize the construction industry, offering ecologically sustainable and efficacious substances"
@@ -21,10 +21,13 @@ This paper summarises the applications of different bio-materials in the constru
 ![[Fungi Repair Strategies.png | 400]]
 	- Fungi offer regenerative properties [[Regenerative Design Intro]]
 
-### Policy and Regulatory Frameworks
+## Energy Usage
 
-- Within the European Union, a regulatory framework addressing waste and by-products has been
-established through the Waste Framework Directive
+- In the European context, heating is the primary energy-consuming activity, making up a substantial **71% of the total energy consumption in households**
+
+## Policy and Regulatory Frameworks
+
+- Within the European Union, a regulatory framework addressing waste and by-products has been established through the [Waste Framework Directive](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-framework-directive_en)
 
 
 
