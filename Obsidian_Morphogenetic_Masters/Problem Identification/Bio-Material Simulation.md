@@ -4,9 +4,11 @@
 
 - One of the major obstacles to widespread adoption of bio-materials is the unreliability in properties
 - Existing models for this information are under-developed
+- Bio-materials offer significant benefits over conventional building materials (i.e. concrete)
+- Living bio-materials offer unique benefits over dried bio-materials
 ## Research
 
-
-
 ## Competitive Landscape
+[Biomason](https://biomason.com/)
+
 
