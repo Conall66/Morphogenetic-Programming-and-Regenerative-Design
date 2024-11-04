@@ -15,7 +15,7 @@ Within The Green Guide to Specification (4th edition), biomaterials are classed 
 - Environmental response (temperature, air pressure, pH)
 - Bio-remediation (building living ecosystems in and around areas of harmful contaminants can can allow for their absorption, plus the uptake of precious metals etc.)
 - Energy production
-
+- Carbon sequestration
 ## Bio-Materials in Construction
 [Biomaterials technology and policies in the building sector: a review](https://link.springer.com/article/10.1007/s10311-023-01689-w) - useful textbook
 

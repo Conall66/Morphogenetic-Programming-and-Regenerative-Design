@@ -6,9 +6,9 @@
 - Existing models for this information are under-developed
 - Bio-materials offer significant benefits over conventional building materials (i.e. concrete)
 - Living bio-materials offer unique benefits over dried bio-materials
-## Research
-
 ## Competitive Landscape
-[Biomason](https://biomason.com/)
+Many companies seem to be using bio-materials to develop 
+
+- [Biomason](https://biomason.com/) - calcium carbonate cement 
 
 

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Definition/Bio-materials.md",
+                "file": "Problem Identification/Bio-Material Simulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bio-materials"
+              "title": "Bio-Material Simulation"
             }
           }
         ],
@@ -219,8 +219,8 @@
   },
   "active": "1c3ed73326b54f95",
   "lastOpenFiles": [
-    "Project Definition/Morphogenetic Programming.md",
     "Project Definition/Bio-materials.md",
+    "Project Definition/Morphogenetic Programming.md",
     "Project Definition/Initial Project Brief.md",
     "Problem Identification/Bio-Material Simulation.md",
     "Problem Identification/Initial Project Ideas.md",
