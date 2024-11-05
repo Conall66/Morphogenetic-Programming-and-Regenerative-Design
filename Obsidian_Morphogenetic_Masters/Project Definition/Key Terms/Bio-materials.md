@@ -24,6 +24,7 @@ Within The Green Guide to Specification (4th edition), biomaterials are classed 
 ### Examples
 
 - Bacterial self-healing concrete
+- [[Engineered Living Materials]]
 - 
 
 

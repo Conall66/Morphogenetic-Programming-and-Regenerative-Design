@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Definition/Key Terms/Bio-materials.md",
+                "file": "Project Definition/Key Terms/Engineered Living Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bio-materials"
+              "title": "Engineered Living Materials"
             }
           }
         ]
@@ -160,11 +160,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "064526d5adfe384d",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
+    "Reference Images/Engineered Living Materials.webp",
+    "Project Definition/Key Terms/Bio-materials.md",
+    "Project Definition/Key Terms/Engineered Living Materials.md",
     "Project Definition/Papers_Textbooks/Bio-mimetic building envelopes.md",
     "Project Definition/Key Terms/Vernacular Architecture.md",
-    "Project Definition/Key Terms/Bio-materials.md",
     "Problem Identification/Bio-Material Simulation.md",
     "Problem Identification/Stigmergic Ecologies and Regenerative Architecture.md",
     "Project Definition/Initial Project Brief.md",
