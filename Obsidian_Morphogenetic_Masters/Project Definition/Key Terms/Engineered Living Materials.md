@@ -2,3 +2,13 @@ Engineered living materials (ELMs) possess unique functionalities compared with 
 
 ![[Engineered Living Materials.webp]]
 
+## Uses
+
+- Bacterial concrete can reduce shrinkage reinforcements by up to 50%
+- Mycelium based insulation panels offer biodegradable and fire resistant alternatives to traditional materials
+
+## Major Obstacles
+
+- Lack of control over growth
+- Maintenance
+- Regulatory frameworks
