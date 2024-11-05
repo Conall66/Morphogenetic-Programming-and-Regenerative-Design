@@ -10,6 +10,11 @@
 - Morphogenetic approach to smart cities layout (track how biological pathways form in order to minimise distance travelled between functional nodes)
 - Morphogenetic building envelope identification AI
 
+### Non Architectural
+
+- Morphogenetic tissue growth modelling
+- 
+
 ## Project Outcomes
 
 - BIM modelling software to aid architects in the design of regenerative infrastructure
