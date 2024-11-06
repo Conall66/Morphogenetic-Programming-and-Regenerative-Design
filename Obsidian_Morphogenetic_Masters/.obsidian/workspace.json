@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "Primary Sources"
             }
+          },
+          {
+            "id": "072bea764ef894f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,14 +213,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1262ae474d0070ae",
+  "active": "072bea764ef894f5",
   "lastOpenFiles": [
+    "Stakeholders/Primary Sources.md",
     "Project Direction/Project Ideas.md",
     "Research Papers/Bridging the gap between urban morphology and urban  modelling.md",
     "Stakeholders/Primary Sources/Julien Soosaipillai (Contacted).md",
-    "Stakeholders/Primary Sources.md",
     "Stakeholders/Primary Sources/Kiril Stanilov (Not Contacted).md",
-    "Stakeholders/Primary Sources.md",
     "Stakeholders/Primary Sources",
     "Research Papers/Morphogenetic Urban Planning.md",
     "Research Papers/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
