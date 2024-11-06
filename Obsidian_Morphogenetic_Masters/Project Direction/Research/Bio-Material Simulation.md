@@ -3,7 +3,7 @@
 ## Key Assumptions
 
 - [x] One of the major obstacles to widespread adoption of bio-materials is the unreliability in properties 
-- [x] Existing models for this information are under-developed
+- [ ] Existing models for this information are under-developed
 - [x] Bio-materials offer significant benefits over conventional building materials (i.e. concrete)
 - [x] Living bio-materials offer unique benefits over dried bio-materials
 
