@@ -14,5 +14,10 @@ Inspired by the processes of biological growths (morphogenesis), morphogenetic p
 
 ## Examples
 
-[Crustation Morphogenesis](https://www.youtube.com/watch?v=86Gr5Mtn_nQ)
+- [Crustation Morphogenesis](https://www.youtube.com/watch?v=86Gr5Mtn_nQ)
+
+## Competitive Landscape
+
+- [Morphogenetic Generative Design](https://www.3ds.com/insights/corporate-reports/generative-design-inspired-living-world)
+- 
 
