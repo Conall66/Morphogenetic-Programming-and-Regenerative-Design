@@ -12,12 +12,11 @@
 - Bacterial regenerative concrete modelling (AI/Optimisation model for automating bacterial selection and concentration based on temperature, soil pH, competition etc.)
 - [[4D printed bio-structures]] for typical grey-infrastructure projects
 - Data product collating information on green infrastructure worldwide
-
+- Design morphogenetic models for a number of seemingly disconnected settlement types and employ a second stage of machine learning model to interpret emerging patterns about the influence of environmental factors
 ### Non Architectural
 
 - Morphogenetic tissue growth modelling
 - Morphogenetic/cellular automata founded hash functions for distributed ledgers technologies (i.e. blockchain)
-
 ## Project Outcomes
 
 - BIM modelling software to aid architects in the design of regenerative infrastructure
@@ -27,4 +26,4 @@
 
 ## Initial Visions
 
-- Motorways, car parks, billboards, sea walls, bridges - there are a number of concrete structures that don't require complex thermal regulation or air quality control for example that are perfect for fostering natural growths and biodiversity in urban environments, so why don't we incorporate bio materials and biophillic design in these contexts? Imagine a greener urban smart city
+- Motorways, car parks, billboards, sea walls, bridges - there are a number of concrete structures that don't require complex thermal regulation or air quality control for example that are perfect for fostering natural growths and biodiversity in urban environments, so why don't we incorporate bio materials and biophilic design in these contexts? Imagine a greener urban smart city
