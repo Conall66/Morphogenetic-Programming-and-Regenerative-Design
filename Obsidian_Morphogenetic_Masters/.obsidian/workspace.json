@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Project Ideas.md",
+                "file": "Papers_Textbooks/Agent based modelling (ABM) of morphogenetic systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Ideas"
+              "title": "Agent based modelling (ABM) of morphogenetic systems"
             }
           }
         ],
@@ -191,9 +191,10 @@
   },
   "active": "5eeaad5700848af0",
   "lastOpenFiles": [
+    "Reference Images/ABM Model Comparison.jpg",
+    "Project Direction/Project Ideas.md",
     "Papers_Textbooks/Agent based modelling (ABM) of morphogenetic systems.md",
     "Reference Images/2 Approaches to Morphogenetic Programming.jpg",
-    "Project Direction/Project Ideas.md",
     "Project Direction/Initial Project Brief.md",
     "Key Terms/4D printed bio-structures.md",
     "Project Direction/Initial Key Assumptions.md",
