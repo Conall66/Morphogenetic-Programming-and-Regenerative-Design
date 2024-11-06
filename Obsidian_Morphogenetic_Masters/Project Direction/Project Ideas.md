@@ -10,6 +10,8 @@
 - Morphogenetic approach to smart cities layout (track how biological pathways form in order to minimise distance travelled between functional nodes)
 - Morphogenetic building envelope identification AI
 - Bacterial regenerative concrete modelling (AI/Optimisation model for automating bacterial selection and concentration based on temperature, soil pH, competition etc.)
+- [[4D printed bio-structures]] for typical grey-infrastructure projects
+- 
 
 ### Non Architectural
 

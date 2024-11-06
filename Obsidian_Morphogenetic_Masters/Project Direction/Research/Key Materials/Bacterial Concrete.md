@@ -5,5 +5,6 @@
 | Self healing                                                                     | High production cost (particularly at scale)                                                            |
 | Corrosion prevention                                                             | Mathematical models for analysing performance in different environmental conditions are under-developed |
 | Good performance when measures against other autogenous and autonomous solutions | High subjectivity to pH and temperature                                                                 |
+| Increased strength properties                                                    | Highly dependent on water availability                                                                  |
 
 [[Microbial self-healing in concrete]]
