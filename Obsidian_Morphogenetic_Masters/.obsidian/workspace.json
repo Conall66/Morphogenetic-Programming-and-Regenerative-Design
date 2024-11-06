@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9f783e6d956b9cd",
+        "id": "6e579fdfc5ad6937",
         "type": "tabs",
         "children": [
           {
-            "id": "b3299fe4714a900f",
+            "id": "83d96608c37c800c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers_Textbooks/A Configurable Morphogenesis of Incremental Urbanism.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A Configurable Morphogenesis of Incremental Urbanism"
+              "title": "New tab"
             }
           }
         ]
@@ -160,15 +156,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b3299fe4714a900f",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
+    "Papers_Textbooks/A Configurable Morphogenesis of Incremental Urbanism.md",
     "Project Direction/Research/Urban Morphogenesis.md",
     "Papers_Textbooks/Morphogenetic Urban Planning.md",
     "Project Direction/Research/Smart Cities and Regenerative Design.md",
     "Project Direction/Research/Stigmergic Ecologies and Regenerative Architecture.md",
     "Project Direction/Research/Bio-Material Simulation.md",
     "Key Terms/Architectural Regenerative Design/Bio-materials.md",
-    "Papers_Textbooks/A Configurable Morphogenesis of Incremental Urbanism.md",
     "Reference Images/Cellular Automata Urban Utopia.jpg",
     "Key Terms/Architectural Regenerative Design/Regenerative Design Intro.md",
     "Papers_Textbooks/Generative models of morphogenesis in developmental biology.md",
