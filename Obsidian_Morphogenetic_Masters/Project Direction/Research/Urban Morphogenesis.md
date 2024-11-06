@@ -23,5 +23,5 @@ Methodology for designing an urban 'utopia' that adapts to rising population dem
 ## Links
 
 [[Morphogenetic Urban Planning]]
-[Modelling city structure for improved urban representations in weather and climate models](https://research.reading.ac.uk/research-blog/2023/11/13/modelling-city-structure-for-improved-urban-representations-in-weather-and-climate-models/) - University of Reading 
+[Modelling city structure for improved urban representations in weather and climate models](https://research.reading.ac.uk/research-blog/2023/11/13/modelling-city-structure-for-improved-urban-representations-in-weather-and-climate-models/) - University of Reading [[Meg Stretton]]
 
