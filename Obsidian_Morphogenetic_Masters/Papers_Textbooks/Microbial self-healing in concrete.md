@@ -13,4 +13,11 @@
 - Concrete waste constitutes 59% of global waste with 40% ending up in landfill
 - Of autogenous and autonomous healing approaches, bacterial shows the most promising results
 - Different bacteria show different strength properties at the same density
+
+### Encapsulation Method
+
+- In order to protect bacteria in the production of bacterial cement (from the mixing process, pH of the concrete, hydration of cement etc.), they are encapsulated inside a non-reactive material [Effectiveness of Encapsulation](https://www.sciencedirect.com/science/article/abs/pii/S221478532035656X) 
+## Future Studies Recommendations
+
+- Exploring spray method to protect bacteria from the harsh environment of concrete, enabling the use of a wider range of bacterial species and enhancing the self-healings effectiveness
 - 
