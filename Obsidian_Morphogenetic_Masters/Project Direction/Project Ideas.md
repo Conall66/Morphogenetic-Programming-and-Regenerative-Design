@@ -11,7 +11,7 @@
 - Morphogenetic building envelope identification AI
 - Bacterial regenerative concrete modelling (AI/Optimisation model for automating bacterial selection and concentration based on temperature, soil pH, competition etc.)
 - [[4D printed bio-structures]] for typical grey-infrastructure projects
-- 
+- Data product collating information on green infrastructure worldwide
 
 ### Non Architectural
 
