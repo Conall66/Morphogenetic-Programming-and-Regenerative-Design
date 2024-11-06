@@ -1,4 +1,4 @@
-[Morphogenesis of Isobenefit urbanism: Isobenefit-cities simulator](https://www.sciencedirect.com/science/article/pii/S2352711023001048)
+[Morphogenesis of Isobenefit urbanism: Isobenefit-cities simulator 2023](https://www.sciencedirect.com/science/article/pii/S2352711023001048)
 ## Summary
 
 - **Context**: Cities evolve their size, shape and function by following internal and external forces such as demography, work places, real estate markets, societal needs-choice, regional-national-international networks, history, politics, technology, preferences, planning, spontaneous emergence, geography, climate, orography and randomness.
@@ -23,3 +23,10 @@ Principles of iso-beneficial cellular automata:
 - Healthier environments
 
 ![[Cellular Automata Urban Utopia.jpg | 500]]
+
+**Features Considered**
+
+## Further Developments
+
+- Define a particular map layout (to replace just X-Y bounding box)
+- More well guided system (not randomly generated)
