@@ -1,0 +1,1 @@
+Differential growth is a computational method that simulates organic growth patterns by applying varying growth rates to different parts of a structure. This technique can be used in both 2D and 3D contexts
