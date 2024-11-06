@@ -13,7 +13,7 @@ Within The Green Guide to Specification (4th edition), biomaterials are classed 
 
 - Useful in self-healing (i.e. healthcare applications)
 - Environmental response (temperature, air pressure, pH)
-- Bio-remediation (building living ecosystems in and around areas of harmful contaminants can can allow for their absorption, plus the uptake of precious metals etc.)
+- Bio-remediation (building living ecosystems in and around areas of harmful contaminants can can allow for their absorption, plus the uptake of precious metals etc.) ([[Micro]])
 - Energy production
 - Carbon sequestration
 ## Bio-Materials in Construction
