@@ -12,4 +12,5 @@
 - In some construction projects, 20% of the repair deteriorates within duration of 5 years, and 55% deteriorates within 10 years
 - Concrete waste constitutes 59% of global waste with 40% ending up in landfill
 - Of autogenous and autonomous healing approaches, bacterial shows the most promising results
+- Different bacteria show different strength properties at the same density
 - 
