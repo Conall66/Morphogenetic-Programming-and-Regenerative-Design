@@ -8,3 +8,18 @@ Principles of iso-beneficial cellular automata:
 1. Each citizen within 1-2km of (a) a centrality (b) a green area
 2. Buildings are close to one another and interconnected
 3. Green areas are connected by at least 1sq.km
+
+**Direct Benefits**
+- Minimise travel distances
+- Better fairer distribution of facilities
+- Scalability
+- Better land management/space usage
+
+**Indirect Benefits**
+- Reduction of heat island effects
+- Reduction in flooding for over cementification
+- Minimised congestion
+- Dispersed pollutions
+- Healthier environments
+
+![[Cellular Automata Urban Utopia.jpg | 500]]
