@@ -1,4 +1,0 @@
-| Date  | Today's Objectives                                                                                                                                                                                                                                              | Findings | Next Steps |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| 05/11 | Research into limitation in and around the development and widespread implementation of bio materials, how important it is to model these materials, whether they have applications in the construction or other industries, how accessible for masters project |          |            |
- 
