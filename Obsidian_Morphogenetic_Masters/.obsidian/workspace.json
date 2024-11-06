@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Julien Soosaipillai"
             }
+          },
+          {
+            "id": "c423300383b8b51f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +215,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "842c8eaf47fc0aec",
+  "active": "c423300383b8b51f",
   "lastOpenFiles": [
     "Reference Images/Morphogenetic Landscaping Julien.jpg",
     "Reference Images/Stigmergic Ecologies.jpg",
