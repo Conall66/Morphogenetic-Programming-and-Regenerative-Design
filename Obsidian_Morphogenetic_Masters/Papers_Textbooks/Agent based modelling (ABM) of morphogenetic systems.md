@@ -14,4 +14,4 @@
 
 - No formal mathematical model for PI modelling has been developed
 - Investigate the possibility for different cell structure shapes in more accurate ABM/CPM models
-- 
+- Machine learning informed rule driven ABM
