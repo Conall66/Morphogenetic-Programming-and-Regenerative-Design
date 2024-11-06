@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d7cefa847c072ed4",
+        "id": "16abedf4d3fd8753",
         "type": "tabs",
         "children": [
           {
-            "id": "064526d5adfe384d",
+            "id": "f81923e05a1d0196",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Key Materials/Bacterial Concrete.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bacterial Concrete"
-            }
-          },
-          {
-            "id": "a33dd9d2be834afa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Workflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Workflow"
-            }
-          },
-          {
-            "id": "150a38896e674d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Activity Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Activity Log"
-            }
-          },
-          {
-            "id": "4001fdd76c966294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Definition/Papers_Textbooks/Bio-mimetic building envelopes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bio-mimetic building envelopes"
-            }
-          },
-          {
-            "id": "d68c6c28067f6106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Definition/Key Terms/Morphogenetic Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morphogenetic Programming"
-            }
-          },
-          {
-            "id": "842c8eaf47fc0aec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Key People/Julien Soosaipillai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Julien Soosaipillai"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,35 +156,38 @@
       "graph:Open graph view": false
     }
   },
-  "active": "150a38896e674d7b",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
+    "Stakeholders/Primary Sources",
+    "Stakeholders/Primary Sources/Julien Soosaipillai.md",
+    "Project Direction/Research/Bio-Material Simulation.md",
     "Documentation/Workflow.md",
+    "Project Direction/Research/Key Materials/Bacterial Concrete.md",
+    "Project Direction/Technical",
+    "Project Direction/Research/Stigmergic Ecologies and Regenerative Architecture.md",
+    "Project Direction/Research",
+    "Project Direction/Initial Project Ideas.md",
     "Documentation/Activity Log.md",
-    "Further Development/Opportunities for Further Development.md",
+    "Project Direction/Further Development/Opportunities for Further Development.md",
     "Papers_Textbooks/Microbial self-healing in concrete.md",
-    "Key Materials/Bacterial Concrete.md",
     "Reference Images/self-healing-concrete-1.png",
-    "Problem Identification/Initial Project Ideas.md",
     "Key Terms/Engineered Living Materials.md",
-    "Key Materials",
-    "Key People/Julien Soosaipillai.md",
+    "Project Direction/Research/Key Materials",
     "Reference Images/Morphogenetic Landscaping Julien.jpg",
     "Reference Images/Stigmergic Ecologies.jpg",
     "Key Terms/Morphogenetic Programming.md",
-    "Key People",
+    "Stakeholders",
     "Papers_Textbooks/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
     "Papers_Textbooks/Bio-mimetic building envelopes.md",
-    "Problem Identification/Bio-Material Simulation.md",
-    "Problem Identification/Stigmergic Ecologies and Regenerative Architecture.md",
     "Reference Images/Engineered Living Materials.webp",
     "Key Terms/Bio-materials.md",
     "Key Terms/Vernacular Architecture.md",
-    "Project Definition/Initial Project Brief.md",
-    "Project Definition/Regenerative Design/Smart Cities and Regenerative Design.md",
-    "Project Definition/Regenerative Design/Biophilic Design.md",
-    "Project Definition/Regenerative Design/Regenerative Design Intro.md",
-    "Project Definition/Design Engineering in Regenerative Design.md",
-    "Project Definition/Initial Key Assumptions.md",
+    "Project Direction/Initial Project Brief.md",
+    "Key Terms/Regenerative Design/Smart Cities and Regenerative Design.md",
+    "Key Terms/Regenerative Design/Biophilic Design.md",
+    "Key Terms/Regenerative Design/Regenerative Design Intro.md",
+    "Project Direction/Design Engineering in Regenerative Design.md",
+    "Project Direction/Initial Key Assumptions.md",
     "Reference Images/Approach to Assessing Materials for Adaptive Envelopes.jpg",
     "Key Terms/Stigmergic Ecologies.md",
     "Key Terms",
@@ -273,11 +201,8 @@
     "Papers_Articles_Textbooks",
     "Papers_Textbooks",
     "Key Terms/Functional Structural Plant Modelling (FSPM) models.md",
-    "Problem Identification/Untitled.md",
-    "Project Definition/Regenerative Design",
+    "Key Terms/Regenerative Design",
     "Reference Images",
-    "Further Development",
-    "Documentation",
-    "Project Definition/Inside Folder"
+    "Project Direction/Further Development"
   ]
 }
