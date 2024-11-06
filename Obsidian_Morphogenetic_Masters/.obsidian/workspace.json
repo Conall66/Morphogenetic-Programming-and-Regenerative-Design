@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Morphogenetic Programming"
             }
+          },
+          {
+            "id": "03ef5df3e9af238f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers_Textbooks/Generative models of morphogenesis in developmental biology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generative models of morphogenesis in developmental biology"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,8 +203,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5eeaad5700848af0",
+  "active": "03ef5df3e9af238f",
   "lastOpenFiles": [
+    "Key Terms/Morphogenetic Programming.md",
+    "Papers_Textbooks/Generative models of morphogenesis in developmental biology.md",
     "Project Direction/Research/Bio-Material Simulation.md",
     "Project Direction/Initial Project Brief.md",
     "Project Direction/Design Engineering in Regenerative Design.md",
@@ -215,7 +231,6 @@
     "Project Direction/Research/Key Materials",
     "Reference Images/Morphogenetic Landscaping Julien.jpg",
     "Reference Images/Stigmergic Ecologies.jpg",
-    "Key Terms/Morphogenetic Programming.md",
     "Stakeholders",
     "Papers_Textbooks/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
     "Papers_Textbooks/Bio-mimetic building envelopes.md",
