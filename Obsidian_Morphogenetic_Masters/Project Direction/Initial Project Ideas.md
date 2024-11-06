@@ -21,3 +21,7 @@
 - Modelling package that assesses the regenerative nature of a project
 - Software plugin that models biological growths over time when left unattended
 - Mathematical models for assessing the strength properties of biomaterials through morphogenetic programming
+
+## Initial Visions
+
+- Motorways, car parks, billboards, sea walls, bridges - there are a number of concrete structures that don't require complex thermal regulation or air quality control for example that are perfect for fostering natural growths and biodiversity in urban environments, so why don't we incorporate bio materials and biophillic design in these contexts? Imagine a greener urban smart city

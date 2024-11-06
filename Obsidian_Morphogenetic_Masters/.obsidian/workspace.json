@@ -11,10 +11,14 @@
             "id": "f81923e05a1d0196",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Project Direction/Initial Project Ideas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Initial Project Ideas"
             }
           }
         ]
@@ -156,8 +160,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6a8b7dec1e3f1550",
+  "active": "f81923e05a1d0196",
   "lastOpenFiles": [
+    "Papers_Textbooks/Microbial self-healing in concrete.md",
     "Stakeholders/Primary Sources",
     "Stakeholders/Primary Sources/Julien Soosaipillai.md",
     "Project Direction/Research/Bio-Material Simulation.md",
@@ -169,7 +174,6 @@
     "Project Direction/Initial Project Ideas.md",
     "Documentation/Activity Log.md",
     "Project Direction/Further Development/Opportunities for Further Development.md",
-    "Papers_Textbooks/Microbial self-healing in concrete.md",
     "Reference Images/self-healing-concrete-1.png",
     "Key Terms/Engineered Living Materials.md",
     "Project Direction/Research/Key Materials",
@@ -202,7 +206,6 @@
     "Papers_Textbooks",
     "Key Terms/Functional Structural Plant Modelling (FSPM) models.md",
     "Key Terms/Regenerative Design",
-    "Reference Images",
-    "Project Direction/Further Development"
+    "Reference Images"
   ]
 }
