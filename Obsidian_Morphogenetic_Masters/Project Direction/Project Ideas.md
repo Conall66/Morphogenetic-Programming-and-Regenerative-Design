@@ -13,6 +13,9 @@
 - [[4D printed bio-structures]] for typical grey-infrastructure projects
 - Data product collating information on green infrastructure worldwide
 - Design morphogenetic models for a number of seemingly disconnected settlement types and employ a second stage of machine learning model to interpret emerging patterns about the influence of environmental factors
+	- Employ agent based models rather than latticed grid layout for accuracy [[Agent based modelling (ABM) of morphogenetic systems]]
+	- Potential game theory modelling applications in land allocation - account for more realistic interplay dynamics
+- 
 ### Non Architectural
 
 - Morphogenetic tissue growth modelling

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Morphogenetic Urban Planning.md",
+                "file": "Project Direction/Research/Urban Morphogenesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morphogenetic Urban Planning"
+              "title": "Urban Morphogenesis"
+            }
+          },
+          {
+            "id": "28ede37025fc4c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Direction/Project Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Ideas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,15 +175,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "83d96608c37c800c",
+  "active": "28ede37025fc4c30",
   "lastOpenFiles": [
-    "Project Direction/Project Ideas.md",
-    "Project Direction/Project Selection.md",
     "Project Direction/Initial Key Assumptions.md",
     "Project Direction/Design Engineering in Regenerative Design.md",
-    "Project Direction/Initial Project Brief.md",
+    "Project Direction/Project Selection.md",
+    "Research Papers/Agent based modelling (ABM) of morphogenetic systems.md",
+    "Research Papers/Generative models of morphogenesis in developmental biology.md",
+    "Key Terms/Morphogenesis/Morphogenetic Programming.md",
+    "Project Direction/Project Ideas.md",
     "Project Direction/Research/Urban Morphogenesis.md",
     "Research Papers/Morphogenetic Urban Planning.md",
+    "Project Direction/Initial Project Brief.md",
     "Project Direction/Research/Smart Cities and Regenerative Design.md",
     "Project Direction/Research/Stigmergic Ecologies and Regenerative Architecture.md",
     "Key Terms/Architectural Regenerative Design/Biophilic Design.md",
@@ -180,15 +198,12 @@
     "Key Terms/Architectural Regenerative Design/Bio-materials.md",
     "Reference Images/Cellular Automata Urban Utopia.jpg",
     "Key Terms/Architectural Regenerative Design/Regenerative Design Intro.md",
-    "Research Papers/Generative models of morphogenesis in developmental biology.md",
     "Research Papers/Bio-mimetic building envelopes.md",
     "Research Papers/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
     "Research Papers/Microbial self-healing in concrete.md",
-    "Research Papers/Agent based modelling (ABM) of morphogenetic systems.md",
     "Reference Images/ML Morphogenesis.jpg",
     "Project Direction/Research/Key Materials/Bacterial Concrete.md",
     "Micro.md",
-    "Key Terms/Morphogenesis/Morphogenetic Programming.md",
     "Key Terms/Architectural Regenerative Design/Vernacular Architecture.md",
     "Key Terms/Morphogenesis",
     "Reference Images/ABM Model Comparison.jpg",
