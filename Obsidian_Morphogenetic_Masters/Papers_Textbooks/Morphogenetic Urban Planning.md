@@ -2,4 +2,9 @@
 ## Summary
 
 - **Context**: Cities evolve their size, shape and function by following internal and external forces such as demography, work places, real estate markets, societal needs-choice, regional-national-international networks, history, politics, technology, preferences, planning, spontaneous emergence, geography, climate, orography and randomness.
-- **Urban Morphogenesis**: 
+- **Urban Morphogenesis**: Methodology for designing an urban 'utopia' that adapts to rising population demands
+
+Principles of iso-beneficial cellular automata:
+1. Each citizen within 1-2km of (a) a centrality (b) a green area
+2. Buildings are close to one another and interconnected
+3. Green areas are connected by at least 1sq.km
