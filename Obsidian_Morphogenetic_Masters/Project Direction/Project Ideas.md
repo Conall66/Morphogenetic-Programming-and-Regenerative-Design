@@ -15,7 +15,7 @@
 - Design morphogenetic models for a number of seemingly disconnected settlement types and employ a second stage of machine learning model to interpret emerging patterns about the influence of environmental factors
 	- Employ agent based models rather than latticed grid layout for accuracy [[Agent based modelling (ABM) of morphogenetic systems]]
 	- Potential game theory modelling applications in land allocation - account for more realistic interplay dynamics
-- 
+	- Morphogenetic expansion and climate prediction/mitigation models - specifically designing cities to minimise carbon output
 ### Non Architectural
 
 - Morphogenetic tissue growth modelling
