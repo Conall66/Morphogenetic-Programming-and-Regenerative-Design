@@ -10,8 +10,11 @@ Inspired by the processes of biological growths (morphogenesis), morphogenetic p
 - [[Functional Structural Plant Modelling (FSPM) models]] for determining/predicting crop yields
 - Urban planning [[Smart Cities and Regenerative Design]]
 - Furniture
-## Understanding Morphogenetic Principles
+## Approaches
 
+- [[Differential Growth]]
+- [[L Systems and Recursion]]
+- [[Flocking and Swarming]]
 ## Examples
 
 - [Crustation Morphogenesis](https://www.youtube.com/watch?v=86Gr5Mtn_nQ)
