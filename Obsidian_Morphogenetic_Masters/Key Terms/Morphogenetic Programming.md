@@ -18,6 +18,6 @@ Inspired by the processes of biological growths (morphogenesis), morphogenetic p
 
 ## Competitive Landscape
 
-- [Morphogenetic Generative Design](https://www.3ds.com/insights/corporate-reports/generative-design-inspired-living-world)
+- [Morphogenetic Generative Design](https://www.3ds.com/insights/corporate-reports/generative-design-inspired-living-world) - Catia have developed a morphogenetic generative design structure, but is very reductive/simplistic in mechanistic approach
 - 
 
