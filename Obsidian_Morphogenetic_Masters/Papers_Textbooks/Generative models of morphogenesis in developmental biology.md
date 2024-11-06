@@ -4,4 +4,6 @@
 ## Key Findings
 
 - Morphogenetic programming important in understanding disease migration, wound healing and developmental biology
+- Morphogenesis must consider both chemical and physical cues
+- The complex dynamic between the cell, its environment, and its internal [cytoskeleton](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/cytoskeleton "Learn more about cytoskeleton from ScienceDirect's AI-generated Topic Pages") results in three broad classes of migratory modes: _amoeboid, epithelial, and mesenchymal
 - 
