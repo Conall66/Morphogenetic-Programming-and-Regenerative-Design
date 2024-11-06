@@ -20,4 +20,6 @@
 ## Future Studies Recommendations
 
 - Exploring spray method to protect bacteria from the harsh environment of concrete, enabling the use of a wider range of bacterial species and enhancing the self-healings effectiveness
+- Current investigation into bacterial self-healing concrete mostly occurs under conditions with sufficient water viability, limiting application, especially in environmental conditions of limited water availability
+- Diverse methods employed by various researchers to analyse the performance of self-healing concrete results in lack of standardization, creating significant barrier to practical application of this technology on large scale. These limitations provide an opportunity for **mathematically modelling**, which has potential to expedite advancements in self-healing technologies [[Project Ideas]]
 - 
