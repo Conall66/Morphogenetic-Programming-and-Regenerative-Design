@@ -13,7 +13,7 @@
 ### Non Architectural
 
 - Morphogenetic tissue growth modelling
-- 
+- Morphogenetic/cellular automata founded hash functions for distributed ledgers technologies (i.e. blockchain)
 
 ## Project Outcomes
 
