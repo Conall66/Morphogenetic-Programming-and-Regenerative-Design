@@ -16,6 +16,7 @@
 	- Employ agent based models rather than latticed grid layout for accuracy [[Agent based modelling (ABM) of morphogenetic systems]]
 	- Potential game theory modelling applications in land allocation - account for more realistic interplay dynamics
 	- Morphogenetic expansion and climate prediction/mitigation models - specifically designing cities to minimise carbon output
+	- Monitor the influence of social, political, economic patterns on growth
 ### Non Architectural
 
 - Morphogenetic tissue growth modelling
