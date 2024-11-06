@@ -6,4 +6,8 @@
 - pH and temperature can have a significant impact on bacterial concrete regenerative properties
 - Bacterial cell concentration affects concrete's hardened properties
 - Successful application in tunnels, water channels, retaining wall panels, and highways
-- Studies have found that the mechanical of concrete can be increased at cell concentrations of 105 to 108 cells/ml
+- Studies have found that the mechanical strength of concrete can be increased at cell concentrations of 10^5 to 10^8 cells/ml
+- Normal concrete is subject to issues around thermal cracking corrosion cracking, premature drying and other conditions
+- Every year, a considerable global budget is set aside for the restoration of current concrete structures
+- In some construction projects, 20% of the repair deteriorates within duration of 5 years, and 55% deteriorates within 10 years
+- Concrete waste constitu
