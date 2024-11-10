@@ -10,3 +10,7 @@ The aim of this project during my MSc program, was to create a relational morpho
 2. **Kiril Stanilov** (Not Contacted)
 Senior research associate at the [[Cambridge Centre for Smart Infrastructure and Construction]]
 
+3. Michael Batty (Not Contacted)
+Author of [[Agents cells and cities new representational models for simulating multiscale urban dynamics]]
+
+
