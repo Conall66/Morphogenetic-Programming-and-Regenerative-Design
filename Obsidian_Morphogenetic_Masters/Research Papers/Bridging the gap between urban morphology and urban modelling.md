@@ -11,4 +11,5 @@
 ## Further Reading
 
 - M. R. G. Conzen (1960, pp. 3-10) - Study of land use
+- Batty, M. (2005) ‘Agents, cells, and cities: new representational models for simulating multiscale urban dynamics’
 - 
