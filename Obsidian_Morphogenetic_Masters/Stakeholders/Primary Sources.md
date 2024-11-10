@@ -8,4 +8,5 @@ The aim of this project during my MSc program, was to create a relational morpho
 [JS Regen](https://jsregendesign.com/portfolio/morphogenetic-programming/)
 
 2. **Kiril Stanilov** (Not Contacted)
-Senior research associate at the Cambridge Centre for Smart Infrastructure and Construction
+Senior research associate at the [[Cambridge Centre for Smart Infrastructure and Construction]]
+
