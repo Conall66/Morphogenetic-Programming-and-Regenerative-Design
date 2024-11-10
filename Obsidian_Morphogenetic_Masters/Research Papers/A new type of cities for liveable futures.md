@@ -9,7 +9,7 @@
 ![[Urbanisation Layouts.png]]
 ### Model Construction
 
-![[Pasted image 20241110180856.png]]
+![[Model Construction Mathematics.png]]
 
 ## Further Reading
 
