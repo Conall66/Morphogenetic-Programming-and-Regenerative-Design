@@ -17,6 +17,7 @@
 	- Potential game theory modelling applications in land allocation - account for more realistic interplay dynamics
 	- Morphogenetic expansion and climate prediction/mitigation models - specifically designing cities to minimise carbon output
 	- Monitor the influence of social, political, economic patterns on growth
+	- "Smart Cities Urban Design in Adaptation to Climate Related Factors" - Taking environmental factors (increased prominence of natural disasters, extreme weather events, pollution levels etc.) to inform smarter infrastructure developments in smart cities - taking a morphogenetic programming approach and defining constraints based on environmental conditions
 ### Non Architectural
 
 - Morphogenetic tissue growth modelling
