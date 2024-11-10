@@ -13,6 +13,12 @@
 The city is a matrix (M) of point (k), where $B_i,_k$ is the benefit in $k$ given from point $i$: when $i$ is a neutral point, there will be no benefit; when there is an amenity there will be a benefit; when there is a 'dis-amenity' there will be a negative “benefit”. The overall benefit a point receives from the entire urban points should tend to be “constant” $c$ everywhere for each $k$. Idem the Fuzzy Urban Quality $F$. The value of this “constant” $c$ is above a certain level $c*$
 
 The time $T_d,_k$ one needs to reach the ordinary daily points $d$ from home (work places, recreational and educational places, green areas, shops …) should not be higher than a reasonable time $T*$ which is around 15 minutes walking (namely within around 1 km)
+
+$C$ is an urban centrality and can be a landmark or a collection of local amenities. At least one centrality must be reachable within $T*$
+
+Must be able to reach natural lands $N$ within $T*$
+
+**Read paper again for more in-depth mathematical analysis**
 ## Further Reading
 
 - [[Zipf's Law]]
