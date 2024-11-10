@@ -3,13 +3,5 @@ This paper discusses the potential for the UK to leverage new IoT and data colle
 
 ## Key Concepts
 
-- **Flourishing**: Going back to Aristotle and beyond, the concept of human flourishing has been at
-the heart of the most basic of philosophical
-questions: what does it mean to live well?
-‘Eudaimonia’, sometimes translated as ‘happiness’,
-but best understood as ‘human flourishing’, is
-the ultimate good that people aim for, both as
-individuals and as society. More than personal
-wealth, honour or pleasure, it requires external
-conditions that are beyond the control of individuals
-but are related to the choices we make.
+- **Flourishing**: Going back to Aristotle and beyond, the concept of human flourishing has been at the heart of the most basic of philosophical questions: what does it mean to live well? ‘Eudaimonia’, sometimes translated as ‘happiness’, but best understood as ‘human flourishing’, is the ultimate good that people aim for, both as individuals and as society. More than personal wealth, honour or pleasure, it requires external conditions that are beyond the control of individuals but are related to the choices we make.
+- **Systems**: A system is a connected collection of interrelated and interdependent parts; a complex whole that may be more than the sum of its parts. A system is influenced by its environment, defined by its structure and purpose, and expressed through its function. Infrastructure is the interconnected ‘system of systems’ that provides the physical foundation for our society. It does more than just provide water, power or transport services; it helps to make cities liveable, boosts quality of life and supports productivity and prosperity, all in the context of its interface with the natural environment.
