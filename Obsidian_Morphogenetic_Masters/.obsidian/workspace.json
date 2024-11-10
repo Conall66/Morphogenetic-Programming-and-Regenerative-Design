@@ -11,10 +11,14 @@
             "id": "83d96608c37c800c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Activity Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Activity Log"
             }
           }
         ]
@@ -158,6 +162,7 @@
   },
   "active": "83d96608c37c800c",
   "lastOpenFiles": [
+    "Documentation/Workflow.md",
     "Research Papers/Morphogenetic Urban Planning.md",
     "Research Papers/Agent based modelling (ABM) of morphogenetic systems.md",
     "Research Papers/Bridging the gap between urban morphology and urban  modelling.md",
@@ -180,7 +185,6 @@
     "Project Direction/Research/Stigmergic Ecologies and Regenerative Architecture.md",
     "Key Terms/Architectural Regenerative Design/Biophilic Design.md",
     "Documentation/Activity Log.md",
-    "Documentation/Workflow.md",
     "Research Papers/Biomaterials technology and policies in the building sector.md",
     "Papers_Textbooks/A Configurable Morphogenesis of Incremental Urbanism.md",
     "Project Direction/Research/Bio-Material Simulation.md",
