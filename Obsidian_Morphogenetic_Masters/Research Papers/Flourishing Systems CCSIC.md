@@ -1,0 +1,2 @@
+## Summary
+This paper discusses the potential for the UK to leverage new IoT and data collection approaches in order to inform infrastructure changes following COVID-19 in a way that might enable better control of diseases/viruses in future, with 

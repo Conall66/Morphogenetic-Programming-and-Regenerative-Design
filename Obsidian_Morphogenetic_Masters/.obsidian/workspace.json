@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
+                "file": "Research Papers/Flourishing Systems CCSIC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cambridge Centre for Smart Infrastructure and Construction"
+              "title": "Flourishing Systems CCSIC"
             }
           }
         ],
@@ -177,8 +177,9 @@
   },
   "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
-    "Stakeholders/Primary Sources.md",
     "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
+    "Research Papers/Flourishing Systems CCSIC.md",
+    "Stakeholders/Primary Sources.md",
     "Research Papers/Morphogenetic Urban Planning.md",
     "Project Direction/Research/Urban Morphogenesis.md",
     "Project Direction/Research/Stigmergic Ecologies and Regenerative Architecture.md",
@@ -204,7 +205,6 @@
     "Key Terms/Architectural Regenerative Design/Biophilic Design.md",
     "Research Papers/Biomaterials technology and policies in the building sector.md",
     "Papers_Textbooks/A Configurable Morphogenesis of Incremental Urbanism.md",
-    "Project Direction/Research/Biomaterials/Bio-Material Simulation.md",
     "Reference Images/Cellular Automata Urban Utopia.jpg",
     "Reference Images/ML Morphogenesis.jpg",
     "Key Terms/Morphogenesis",
