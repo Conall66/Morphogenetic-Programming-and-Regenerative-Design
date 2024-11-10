@@ -10,8 +10,9 @@
 ### Model Construction
 
 ![[Model Construction Mathematics.png]]
-
+The city is a matrix (M) of point (k), where Bi,k is the benefit in k given from point i: when i is a neutral point, there will be no benefit; when there is an amenity there will be a benefit; when there is a disamenity there will be a negative “benefit”. The overall benefit a point receives from the entire urban points should tend to be “constant” (c) everywhere for each k. Idem the Fuzzy Urban Quality (F). The value of this “constant” (c) is above a certain level (c*)
 ## Further Reading
 
-- Zipf's Law
+- [[Zipf's Law]]
+- 
 
