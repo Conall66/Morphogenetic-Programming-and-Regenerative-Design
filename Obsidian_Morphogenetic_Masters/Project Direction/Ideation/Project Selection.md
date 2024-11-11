@@ -11,7 +11,7 @@
 ## Idea 1: Morphogenetic Urban Growth
 Using morphogenetic programming to model urban growth patterns, using smart cities analytics, environmental factors and taking social constraints to predict further growth or suggest appropriate improvements
 ### Why is it Important?
-[[A new type of cities for liveable futures]] - The overall growth of the world’s population could add another **2.5 billion people to urban areas by 2050, with close to 90% of this increase taking place in Asia and Africa**. Urban environments within these regions will expand 
+[[A new type of cities for liveable futures]] - The overall growth of the world’s population could add another **2.5 billion people to urban areas by 2050, with close to 90% of this increase taking place in Asia and Africa**. Urban environments within these regions will expand to accommodate for rising populations and this presents an opportunity for smart cities
 
 ## Idea 2: Smart Building Envelopes
 Predicting the growth of engineered living building envelopes and assessing their impact in a number of different situations
