@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key Terms/Architectural Regenerative Design/Biophilic Design.md",
+                "file": "Project Direction/Project Selection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biophilic Design"
+              "title": "Project Selection"
             }
           }
         ],
@@ -177,6 +177,7 @@
   },
   "active": "aa3d61f5b2bf128a",
   "lastOpenFiles": [
+    "Key Terms/Architectural Regenerative Design/Biophilic Design.md",
     "Key Terms/Architectural Regenerative Design/Nature Based Solutions.md",
     "Key Terms/Architectural Regenerative Design/Stigmergic Ecologies.md",
     "Key Terms/Architectural Regenerative Design/Bio-materials.md",
@@ -206,7 +207,6 @@
     "Documentation/Workflow.md",
     "Research Papers/Agent based modelling (ABM) of morphogenetic systems.md",
     "Key Terms/Morphogenesis/L Systems and Recursion.md",
-    "Key Terms/Morphogenesis/Morphogenetic Programming.md",
     "Stakeholders/Primary Sources",
     "Reference Images/Cellular Automata Urban Utopia.jpg",
     "Reference Images/ML Morphogenesis.jpg",
