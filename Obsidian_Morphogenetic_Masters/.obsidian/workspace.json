@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
+                "file": "Stakeholders/Primary Sources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cambridge Centre for Smart Infrastructure and Construction"
+              "title": "Primary Sources"
             }
           }
         ],
@@ -191,6 +191,7 @@
   },
   "active": "f7a20bf6847eff2e",
   "lastOpenFiles": [
+    "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
     "Stakeholders/Primary Sources.md",
     "Documentation/Activity Log.md",
     "Project Direction/Ideation/Project Selection.md",
@@ -217,7 +218,6 @@
     "Research Papers/Flourishing Systems CCSIC.md",
     "Research Papers/Morphogenetic Urban Planning.md",
     "Project Direction/Research/Urban Morphogenesis.md",
-    "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
     "Project Direction/Research/Stigmergic Ecologies and Regenerative Architecture.md",
     "Project Direction/Research/Biomaterials",
     "Documentation/Workflow.md",
