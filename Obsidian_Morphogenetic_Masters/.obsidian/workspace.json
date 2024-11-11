@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Project Selection.md",
+                "file": "Key Terms/Architectural Regenerative Design/Biophilic Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Selection"
+              "title": "Biophilic Design"
             }
           }
         ],
@@ -177,9 +177,14 @@
   },
   "active": "aa3d61f5b2bf128a",
   "lastOpenFiles": [
+    "Key Terms/Architectural Regenerative Design/Nature Based Solutions.md",
+    "Key Terms/Architectural Regenerative Design/Stigmergic Ecologies.md",
+    "Key Terms/Architectural Regenerative Design/Bio-materials.md",
+    "Key Terms/Architectural Regenerative Design/4D printed bio-structures.md",
+    "Key Terms/Architectural Regenerative Design/Vernacular Architecture.md",
+    "Project Direction/Project Selection.md",
     "Documentation/Module Criteria.md",
     "Project Direction/Project Ideas.md",
-    "Project Direction/Project Selection.md",
     "Project Direction/Initial Project Brief.md",
     "Project Direction/Initial Key Assumptions.md",
     "Project Direction/Untitled.md",
@@ -202,12 +207,7 @@
     "Research Papers/Agent based modelling (ABM) of morphogenetic systems.md",
     "Key Terms/Morphogenesis/L Systems and Recursion.md",
     "Key Terms/Morphogenesis/Morphogenetic Programming.md",
-    "Stakeholders/Primary Sources/Julien Soosaipillai (Contacted).md",
-    "Stakeholders/Primary Sources/Kiril Stanilov (Not Contacted).md",
     "Stakeholders/Primary Sources",
-    "Research Papers/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
-    "Research Papers/Generative models of morphogenesis in developmental biology.md",
-    "Stakeholders/Meg Stretton.md",
     "Reference Images/Cellular Automata Urban Utopia.jpg",
     "Reference Images/ML Morphogenesis.jpg",
     "Key Terms/Morphogenesis",
