@@ -8,11 +8,11 @@
 - Inform the design of new structures aimed at working with regenerative plant growth
 - Establish the relative ‘randomness’ to build uncertainty values and enforce homogeneous design properties
 - Morphogenetic approach to smart cities layout (track how biological pathways form in order to minimise distance travelled between functional nodes)
-- Morphogenetic building envelope identification AI
+- Morphogenetic building envelope response modelling
 - Bacterial regenerative concrete modelling (AI/Optimisation model for automating bacterial selection and concentration based on temperature, soil pH, competition etc.)
 - [[4D printed bio-structures]] for typical grey-infrastructure projects
 - Data product collating information on green infrastructure worldwide
-- Design morphogenetic models for a number of seemingly disconnected settlement types and employ a second stage of machine learning model to interpret emerging patterns about the influence of environmental factors
+- **Design morphogenetic models for a number of seemingly disconnected settlement types and employ a second stage of machine learning model to interpret emerging patterns about the influence of environmental factors**
 	- Employ agent based models rather than latticed grid layout for accuracy [[Agent based modelling (ABM) of morphogenetic systems]]
 	- Potential game theory modelling applications in land allocation - account for more realistic interplay dynamics
 	- Morphogenetic expansion and climate prediction/mitigation models - specifically designing cities to minimise carbon output
