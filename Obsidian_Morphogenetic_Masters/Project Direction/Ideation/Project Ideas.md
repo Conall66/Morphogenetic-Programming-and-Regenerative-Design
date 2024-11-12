@@ -20,6 +20,7 @@
 	- "Smart Cities Urban Design in Adaptation to Climate Related Factors" - Taking environmental factors (increased prominence of natural disasters, extreme weather events, pollution levels etc.) to inform smarter infrastructure developments in smart cities - taking a morphogenetic programming approach and defining constraints based on environmental conditions
 	- Find a location (say in Africa) and identify key susceptibilities (i.e. HIV susceptibility) - design a city around disease prevention? [Africa Sense](https://www.ucl.ac.uk/bartlett/casa/research/current-projects/africa-centrei-sense)
 	- Explore dynamically adapting and informing Markov Chains for transport network expansion
+	- Machine learning, reinforcement learning and CA models
 ### Rogue Ideas
 
 - Morphogenetic tissue growth modelling

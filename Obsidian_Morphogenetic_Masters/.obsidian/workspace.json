@@ -35,7 +35,8 @@
               "title": "Project Ideas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,10 +175,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "52fe71a4ab496ae2",
+  "active": "5a807b32b8e8076a",
   "lastOpenFiles": [
-    "Project Direction/Ideation/Project Ideas.md",
     "Stakeholders/Primary Sources.md",
+    "Project Direction/Ideation/Project Ideas.md",
     "Key Terms/Urban Sprawl.md",
     "Project Direction/Technical/Software List.md",
     "Research Papers/Smart Cities/Agents cells and cities.md",
