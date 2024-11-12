@@ -4,4 +4,4 @@ The UN SDGs are inherently contradictory/conflicting when observed on a city sca
 ## Further Developments
 
 - Add further SDG dimensions (i.e. wage inequalities and city size)
-- 
+- Consider social dynamics and technological innovation
