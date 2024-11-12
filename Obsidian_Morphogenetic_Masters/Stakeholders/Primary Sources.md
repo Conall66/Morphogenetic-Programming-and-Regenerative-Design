@@ -7,6 +7,9 @@
 7. Yasar Cohen-Shah (Whatsapp message): NGO (C40) smart cities design working on case studies in developing countries
 8. Michael Keith (emailed): Project Manager at Peak Urban (Oxford Smart Cities Lab)
 9. Chenhe Guan (emailed): Researcher at Peak Urban (Oxford Smart Cities Lab)
+10. Robert Shorten (emailed): Sharing Economies Lecturer Imperial College London
+11. Stefano Mainero (LinkedIn Request): Smart & Sustainable Mobility in Smart Cities Senior Expert, EU Projects Director and Advisor
+12. 
 
 ## Aims (Smart Cities and Morphogenesis)
 
@@ -21,3 +24,4 @@
 - Imperial Urban Systems Lab
 - African Centre of Cities (ACC)
 - PEAK Urban
+- Smart Cities Marketplace
