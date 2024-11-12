@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Smart Cities/Agents cells and cities.md",
+                "file": "Stakeholders/Primary Sources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agents cells and cities"
+              "title": "Primary Sources"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stakeholders/Primary Sources.md",
+                "file": "Project Direction/Ideation/Project Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primary Sources"
+              "title": "Project Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,9 +174,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5a807b32b8e8076a",
+  "active": "52fe71a4ab496ae2",
   "lastOpenFiles": [
     "Research Papers/Smart Cities/Agents cells and cities.md",
+    "Project Direction/Ideation/Project Ideas.md",
     "Stakeholders/Primary Sources.md",
     "Project Direction/Ideation/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
     "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
@@ -190,7 +190,6 @@
     "Research Papers/Biomaterials and Regenerative Design",
     "Trade-offs.md",
     "Key Terms/Morphogenesis/Functional Structural Plant Modelling (FSPM) models.md",
-    "Project Direction/Ideation/Project Ideas.md",
     "Project Direction/Ideation/Initial Project Brief.md",
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
     "Project Direction/Research/Urban Morphogenesis.md",
