@@ -6,6 +6,7 @@
 6. Geoffrey James Eberle (LinkedIn message): Regenerative architecture and living biomaterials in construction [Moving towards regenerative design in architecture](https://www.youtube.com/watch?v=BAvC1uEV4tI)
 7. Yasar Cohen-Shah (Whatsapp message): NGO (C40) smart cities design working on case studies in developing countries
 8. Michael Keith (emailed): Project Manager at Peak Urban (Oxford Smart Cities Lab)
+9. Chenhe Guan (emailed): Researcher at Peak Urban (Oxford Smart Cities Lab)
 
 ## Aims (Smart Cities and Morphogenesis)
 

@@ -1,0 +1,1 @@
+Urban sprawl (also referred to as suburban sprawl) is **the expansion of towns or cities into rural or previously undeveloped land**.
