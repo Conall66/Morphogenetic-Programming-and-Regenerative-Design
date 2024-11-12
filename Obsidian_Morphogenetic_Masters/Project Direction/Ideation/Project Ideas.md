@@ -23,6 +23,7 @@
 - Morphogenetic tissue growth modelling
 - Morphogenetic/cellular automata founded hash functions for distributed ledgers technologies (i.e. blockchain)
 - Crowd modelling in tube stations using cellular automata models
+- Flock/swarm modelling for birds and mammals in site evaluation for wind farms
 ## Project Outcomes
 
 - BIM modelling software to aid architects in the design of regenerative infrastructure
