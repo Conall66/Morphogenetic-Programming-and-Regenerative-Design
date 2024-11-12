@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition of Morphogenesis.md",
+                "file": "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition of Morphogenesis"
+              "title": "Morphogenetic Urban Planning"
             }
           }
         ],
@@ -177,18 +177,19 @@
   },
   "active": "cdd5c4298d4e90b4",
   "lastOpenFiles": [
+    "Project Direction/Research/Urban Morphogenesis.md",
+    "Stakeholders/Primary Sources.md",
+    "Project Direction/Ideation/Project Selection.md",
+    "Project Direction/Ideation/Project Ideas.md",
+    "Key Terms/Morphogenesis/Definition of Morphogenesis.md",
     "Key Terms/Morphogenesis/Functional Structural Plant Modelling (FSPM) models.md",
-    "Definition of Morphogenesis.md",
     "Key Terms/Morphogenesis/Morphogenetic Programming.md",
     "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
-    "Stakeholders/Primary Sources.md",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
     "Research Papers/Smart Cities/Flourishing Systems CCSIC.md",
     "Research Papers/Smart Cities",
-    "Project Direction/Ideation/Project Selection.md",
     "Documentation/Activity Log.md",
     "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
-    "Project Direction/Ideation/Project Ideas.md",
     "Project Direction/Ideation/Biological Advantages.md",
     "Project Direction/Ideation/Initial Project Brief.md",
     "Project Direction/Ideation",
@@ -207,7 +208,6 @@
     "Reference Images/Urbanisation Layouts.png",
     "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
     "Research Papers/Agents cells and cities new representational models for simulating multiscale urban dynamics.md",
-    "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
     "Project Direction/Research/Biomaterials",
     "Stakeholders/Primary Sources",
     "Reference Images/Cellular Automata Urban Utopia.jpg",
