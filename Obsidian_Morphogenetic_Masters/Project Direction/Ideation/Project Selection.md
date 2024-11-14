@@ -9,6 +9,11 @@
 7. Impact (4/5)
 8. Alignment with Career Ambitions (2/5)
 
-
+| Domain                   | Impact | Novelty | Feasibility | Accessibility | Module Suitability | Skill Requirements | Career Output | Final Score |
+| ------------------------ | ------ | ------- | ----------- | ------------- | ------------------ | ------------------ | ------------- | ----------- |
+| Urban morphogenesis      |        |         |             |               |                    |                    |               |             |
+| Smart building envelopes |        |         |             |               |                    |                    |               |             |
+| Living Biomaterials      |        |         |             |               |                    |                    |               |             |
+| Biophilic design and BIM |        |         |             |               |                    |                    |               |             |
 
 
