@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
+                "file": "Documentation/Activity Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morphogenetic Expansion Mapping vs Optimised Smart Cities Design"
+              "title": "Activity Log"
             }
           }
         ],
@@ -175,14 +175,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6a8b7dec1e3f1550",
+  "active": "5a807b32b8e8076a",
   "lastOpenFiles": [
+    "Documentation/Module Criteria.md",
+    "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
     "Reading",
     "Untitled 1",
     "Research Papers/Smart Cities/Read",
     "Project Direction/Ideation/Project Selection/Initial Project Brief.md",
     "Project Direction/Ideation/Project Refinement",
-    "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
     "Project Direction/Ideation/Project Selection",
     "Project Direction/Ideation/Project Selection/Project Selection.md",
     "Project Direction/Ideation/Project Selection/Initial Key Assumptions.md",
@@ -215,7 +216,6 @@
     "Reference Images/Zipfs Law.svg",
     "Reference Images/Model Construction Mathematics.png",
     "Reference Images/Urbanisation Layouts.png",
-    "Project Direction/Research/Biomaterials",
     "Reference Images/Cellular Automata Urban Utopia.jpg",
     "Reference Images/ML Morphogenesis.jpg",
     "Reference Images/ABM Model Comparison.jpg",
