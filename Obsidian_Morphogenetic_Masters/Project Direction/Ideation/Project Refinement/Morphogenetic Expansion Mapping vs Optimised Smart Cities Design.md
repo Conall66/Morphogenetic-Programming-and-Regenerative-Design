@@ -6,7 +6,10 @@ Is it better to model how existing settlements are expanding into one another (a
 - Areas where nobody has previously modelled, or the results were flawed (could deliberately pick somewhere with low resolution findings to demonstrate the application of different models)
 - Areas where urban expansion is occurring at the greatest rate
 - Areas that are most heavily under-investigated
-- A
+- The UK, where we understand regulation and have access to a greater variety in stakeholders
+#### Areas Explored by Other Papers
+
+
 ### Existing Research
 #### Limitations
 ### Datasets/Accessibility
