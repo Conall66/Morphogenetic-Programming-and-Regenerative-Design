@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Ideation/Project Selection.md",
+                "file": "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Selection"
+              "title": "Morphogenetic Expansion Mapping vs Optimised Smart Cities Design"
             }
           }
         ],
@@ -175,14 +175,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5a807b32b8e8076a",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
-    "Project Direction/Ideation/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
-    "Project Direction/Ideation/Initial Key Assumptions.md",
+    "Project Direction/Ideation/Project Selection/Initial Project Brief.md",
+    "Project Direction/Ideation/Project Refinement",
+    "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
     "Project Direction/Ideation/Project Selection",
-    "Project Direction/Ideation/Project Selection.md",
+    "Project Direction/Ideation/Project Selection/Project Selection.md",
+    "Project Direction/Ideation/Project Selection/Initial Key Assumptions.md",
+    "Project Direction/Ideation/Project Selection",
     "Documentation/Activity Log.md",
-    "Project Direction/Ideation/Project Ideas.md",
+    "Project Direction/Ideation/Project Selection/Project Ideas.md",
     "Stakeholders/Primary Sources.md",
     "Key Terms/Urban Sprawl.md",
     "Project Direction/Technical/Software List.md",
@@ -197,7 +200,6 @@
     "Research Papers/Biomaterials and Regenerative Design",
     "Trade-offs.md",
     "Key Terms/Morphogenesis/Functional Structural Plant Modelling (FSPM) models.md",
-    "Project Direction/Ideation/Initial Project Brief.md",
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
     "Project Direction/Research/Urban Morphogenesis.md",
     "Key Terms/Morphogenesis/Definition of Morphogenesis.md",
@@ -207,7 +209,6 @@
     "Research Papers/Smart Cities",
     "Project Direction/Ideation/Biological Advantages.md",
     "Project Direction/Ideation",
-    "Key Terms/Architectural Regenerative Design/Biophilic Design.md",
     "Reference Images/Zipfs Law.svg",
     "Reference Images/Model Construction Mathematics.png",
     "Reference Images/Urbanisation Layouts.png",
@@ -218,8 +219,6 @@
     "Key Terms/Morphogenesis",
     "Reference Images/ABM Model Comparison.jpg",
     "Reference Images/2 Approaches to Morphogenetic Programming.jpg",
-    "Stakeholders/Primary Sources",
-    "Project Direction/Technical",
     "Reference Images/self-healing-concrete-1.png",
     "Reference Images/Morphogenetic Landscaping Julien.jpg",
     "Reference Images/Stigmergic Ecologies.jpg"
