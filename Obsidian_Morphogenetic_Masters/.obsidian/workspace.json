@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Project Ideas"
             }
+          },
+          {
+            "id": "bc7621cfd2079eb2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +187,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5a807b32b8e8076a",
+  "active": "bc7621cfd2079eb2",
   "lastOpenFiles": [
     "Stakeholders/Primary Sources.md",
     "Project Direction/Ideation/Project Ideas.md",
