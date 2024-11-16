@@ -1,6 +1,8 @@
 ## Modelling the impact of social/crowd dynamics in Iso-beneficial Urban Expansion
 
-What are the leading factors in how people operate within city environments? Demographics (age, race, gender etc.), accessibility to major utilities, distance from major roads/connection routes, gentrification, heritage (distance to family members), 
+What are the leading factors in how people operate within city environments? Demographics (age, race, gender etc.), accessibility to major utilities, distance from major roads/connection routes, gentrification, heritage (distance to family members)
+
+[[Crowd Dynamics and Urban Morphogenesis]]
 
 ### Necessary Steps
 
@@ -42,4 +44,4 @@ Build models of under-developed settlements expanding into one another, and how 
 
 Modelling growth optimisation models over key factors (i.e. major water supplies)
 
-- Potential
+### Potential Areas

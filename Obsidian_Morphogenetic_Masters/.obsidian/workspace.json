@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
+                "file": "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refined Project Ideas"
+              "title": "A new type of cities for liveable futures"
+            }
+          },
+          {
+            "id": "e47d881bf42bd739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crowd Modelling and Simulation Technologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crowd Modelling and Simulation Technologies"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,11 +217,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af4ebfc084046724",
+  "active": "e47d881bf42bd739",
   "lastOpenFiles": [
+    "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
+    "Crowd Modelling and Simulation Technologies.md",
+    "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
+    "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
     "Project Direction/Ideation/Project Refinement/Exploration of Cities Expansion Implications.md",
-    "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
     "Stakeholders/Primary Sources.md",
     "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
@@ -219,7 +236,6 @@
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
     "Project Direction/Technical/Software List.md",
     "Reference Images/Benefits of Isobenefit Urbanism.jpg",
-    "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
     "Research Papers/Smart Cities/Flourishing Systems CCSIC.md",
     "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
     "Research Papers/Smart Cities/Agents cells and cities.md",
@@ -238,8 +254,6 @@
     "Research Papers/Morphogenetic Programming/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
     "Research Papers/Biomaterials and Regenerative Design/Microbial self-healing in concrete.md",
     "Research Papers/Morphogenetic Programming",
-    "Research Papers/Morphogenetic Programming/Generative models of morphogenesis in developmental biology.md",
-    "Research Papers/Biomaterials and Regenerative Design/Biomaterials technology and policies in the building sector.md",
     "Research Papers/Biomaterials and Regenerative Design",
     "Research Papers/Smart Cities",
     "Reference Images/Zipfs Law.svg",
