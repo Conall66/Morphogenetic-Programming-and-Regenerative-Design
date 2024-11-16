@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
+                "file": "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urban Morphogenesis Explained"
+              "title": "Crowd Dynamics and Urban Morphogenesis"
             }
           },
           {
@@ -34,37 +34,8 @@
               "icon": "lucide-file",
               "title": "Crowd Modelling and Simulation Technologies"
             }
-          },
-          {
-            "id": "1bcc3282b8c0e3a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morphogenetic Expansion Mapping vs Optimised Smart Cities Design"
-            }
-          },
-          {
-            "id": "dea3ef3e15ed649f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Refined Project Ideas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,14 +174,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af4ebfc084046724",
+  "active": "5d76799d6305f18d",
   "lastOpenFiles": [
+    "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
+    "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
+    "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
     "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
     "Project Direction/Ideation/Project Refinement/Exploration of Cities Expansion Implications.md",
     "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
-    "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
-    "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
-    "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
     "Key Terms/Morphogenesis/Functional Structural Plant Modelling (FSPM) models.md",
     "Key Terms/Morphogenesis/Morphogenetic Programming.md",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
