@@ -27,8 +27,10 @@ Principles of iso-beneficial cellular automata:
 **Features Considered**
 - Centralities are here intended as multifunctional places where to find a variety of services, amenities, functions (e.g. shops, restaurants, libraries, workplaces, universities, theatres, promenade, vibrant streets, history…). They are interconnected via sky-trains, underground and cycle paths
 - Therefore, the urban cells can have three states: green, built and centrality, whose size can be decided by the modeller via the interface window. The simulations in this paper consider a square cell of 200 meters’ size.
+### Benefits
 
-##
+![[Benefits of Isobenefit Urbanism.jpg]]
+
 ## Further Developments
 
 - Define a particular map layout (to replace just X-Y bounding box)
