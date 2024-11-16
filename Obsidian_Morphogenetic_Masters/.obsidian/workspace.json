@@ -35,8 +35,7 @@
               "title": "Software List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,12 +174,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f68b16bdea0575a7",
+  "active": "5d76799d6305f18d",
   "lastOpenFiles": [
+    "Cellular Automata Equation.png",
+    "Project Direction/Technical/Software List.md",
     "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
     "Reference Images/Influential Research Work on Crowd Modelling and Simulation.png",
     "Pasted image 20241116225516.png",
-    "Project Direction/Technical/Software List.md",
     "Research Papers/Smart Cities/Crowd Modelling, A Tool for Shaping Urban Design.md",
     "Documentation/Workflow.md",
     "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",

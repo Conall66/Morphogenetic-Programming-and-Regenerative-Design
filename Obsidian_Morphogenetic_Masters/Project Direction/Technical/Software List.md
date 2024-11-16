@@ -1,7 +1,6 @@
 ## Cellular Automata
 
 - SLEUTH
-
 ## Flow Models
 
 - EVACNET4

@@ -24,6 +24,10 @@ See [[Software List]]
 See [[Agents cells and cities]]
 
 The decision rules for an agent are usually based on some local information that are relevant to the agent. Agents are generally **more complex** than entities (entity based models)
+
+![[Cellular Automata Equation.png]]
+mass $m$, desired velocity $v^0_i$, direction $e^0_i$, actual velocity $v_i$, time period to adapt $((tao))$
+
 #### Social Constraints
 
 The modelling approach may have significant impact on the simulated crowd behaviour and also the runtime performance of the system. Thus it must be carefully chosen by a modeler. The other aspect is the behavioural factors being considered. These factors include tangible factors like physical and physiological characteristics of individuals (e.g., position, speed, etc.), and intangible factors like social factors and psychological factors (e.g., family tie, emotion, etc.).
