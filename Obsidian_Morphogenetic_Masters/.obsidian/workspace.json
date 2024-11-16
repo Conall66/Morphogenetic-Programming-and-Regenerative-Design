@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Crowd Modelling and Simulation Technologies"
             }
+          },
+          {
+            "id": "f68b16bdea0575a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -160,11 +170,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6a8b7dec1e3f1550",
+  "active": "5d76799d6305f18d",
   "lastOpenFiles": [
+    "Project Direction/Technical/Software List.md",
+    "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
     "Research Papers/Smart Cities/Crowd Modelling, A Tool for Shaping Urban Design.md",
     "Documentation/Workflow.md",
-    "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
     "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
     "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
     "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
@@ -183,7 +194,6 @@
     "Project Direction/Research/Urban Morphogenesis",
     "Documentation/Activity Log.md",
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
-    "Project Direction/Technical/Software List.md",
     "Reference Images/Benefits of Isobenefit Urbanism.jpg",
     "Research Papers/Smart Cities/Flourishing Systems CCSIC.md",
     "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
