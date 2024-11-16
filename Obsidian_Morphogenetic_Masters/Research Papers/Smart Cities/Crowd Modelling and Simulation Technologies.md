@@ -36,4 +36,6 @@ The modelling approach may have significant impact on the simulated crowd behavi
 - Has anyone explored a clustering approach to large crowd size models?
 ## Additional Reading
 
-**Kaminka and Fridman, 2006** adopted the social comparison theory in their crowd behaviour model. **Pan, 2005** also employed a multi-agent based framework to demonstrate some emergent human social behaviours, for instance, competing, queuing, and herding
+**Kaminka and Fridman, 2006** adopted the social comparison theory in their crowd behaviour model. **Pan, 2005** also employed a multi-agent based framework to demonstrate some emergent human social behaviours, for instance, competing, queuing, and herding.
+
+![[Influential Research Work on Crowd Modelling and Simulation.png]]
