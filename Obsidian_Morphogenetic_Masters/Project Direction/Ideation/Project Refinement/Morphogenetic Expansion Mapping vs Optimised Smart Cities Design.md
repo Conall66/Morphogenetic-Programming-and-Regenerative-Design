@@ -25,7 +25,6 @@ Is it better to model how existing settlements are expanding into one another (a
 4. Accessibility to green spaces
 5. Strengthens local economies
 6. Reduces strain on local infrastructure (utilities, public transport)
-7. 
 ### Where?
 
 ### Existing Research

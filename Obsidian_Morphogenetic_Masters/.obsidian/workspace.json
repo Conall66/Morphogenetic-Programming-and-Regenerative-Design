@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "5d76799d6305f18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Morphogenetic Urban Planning"
+            }
+          },
+          {
             "id": "1bcc3282b8c0e3a2",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Primary Sources"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,16 +189,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "80f1ccdaf3daf03b",
+  "active": "5d76799d6305f18d",
   "lastOpenFiles": [
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
-    "Stakeholders/Primary Sources.md",
     "Research Papers/Smart Cities/Flourishing Systems CCSIC.md",
-    "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
-    "Research Papers/Smart Cities/Agents cells and cities.md",
     "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
+    "Research Papers/Smart Cities/Agents cells and cities.md",
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
+    "Stakeholders/Primary Sources.md",
     "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
+    "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
     "Documentation/Activity Log.md",
     "Documentation/Module Criteria.md",
     "Project Direction/Ideation/Project Selection/Initial Key Assumptions.md",
