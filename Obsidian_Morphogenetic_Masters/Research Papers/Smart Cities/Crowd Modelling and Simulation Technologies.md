@@ -25,7 +25,10 @@ The decision rules for an agent are usually based on some local information that
 The modelling approach may have significant impact on the simulated crowd behaviour and also the runtime performance of the system. Thus it must be carefully chosen by a modeler. The other aspect is the behavioural factors being considered. These factors include tangible factors like physical and physiological characteristics of individuals (e.g., position, speed, etc.), and intangible factors like social factors and psychological factors (e.g., family tie, emotion, etc.).
 ### Evaluation Criteria
 
-
+1. Flexibility: Must be able to adapt to internal or external changes (i.e. new constraints, disruptive factors etc.)
+2. Extensibility: Must be able to incorporate new psychological factors
+3. Execution Efficiency
+4. Scalability
 ## Limitations
 
 ## Other Musings
