@@ -23,4 +23,14 @@ Build models of under-developed settlements expanding into one another, and how 
 ## Necessary Steps
 
 1. Determine whether these sorts of models already exist and for a particular region
-2. Identify a particular case study where it work make sense to model this kind of grow
+2. Identify a particular case study where it work make sense to model this kind of growth
+3. Determine models for growth patterns with knowledge of other settlements (look at a more biological source)
+4. Model growth pattern, extracting Markov chains to establish most vital nodes in the system
+5. Develop uncertainty sets (probabilistic outcomes)
+6. Show how optimisation models change once settlements become connected
+
+| Adavntages                   | Disadvantages                                               |
+| ---------------------------- | ----------------------------------------------------------- |
+| More real world applications | Somewhat likely to have already been modelled               |
+|                              | Less crowd dynamics                                         |
+|                              | Models may be inaccurate - develop uncertainty sets as well |
