@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Activity Log.md",
+                "file": "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activity Log"
+              "title": "Urban Morphogenesis Explained"
+            }
+          },
+          {
+            "id": "7972eec84269a643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Direction/Research/Urban Morphogenesis/Existing Cities Expansion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Existing Cities Expansion"
             }
           },
           {
@@ -63,7 +77,8 @@
               "title": "Primary Sources"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +217,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5d76799d6305f18d",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
+    "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
+    "Project Direction/Research/Urban Morphogenesis/Existing Cities Expansion.md",
+    "Stakeholders/Cambridge Centre for Smart Infrastructure and Construction.md",
+    "Project Direction/Research/Urban Morphogenesis",
+    "Untitled.md",
+    "Documentation/Activity Log.md",
     "Documentation/Workflow.md",
     "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
     "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
@@ -216,7 +237,6 @@
     "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
     "Research Papers/Smart Cities/Agents cells and cities.md",
     "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
-    "Documentation/Activity Log.md",
     "Documentation/Module Criteria.md",
     "Project Direction/Ideation/Project Selection/Initial Key Assumptions.md",
     "Project Direction/Ideation/Project Selection/Initial Project Brief.md",
@@ -229,18 +249,13 @@
     "Project Direction/Ideation/Project Selection",
     "Project Direction/Ideation/Project Selection/Project Ideas.md",
     "Key Terms/Urban Sprawl.md",
-    "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
     "Research Papers/Morphogenetic Programming/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
     "Research Papers/Biomaterials and Regenerative Design/Microbial self-healing in concrete.md",
     "Research Papers/Morphogenetic Programming",
     "Research Papers/Morphogenetic Programming/Generative models of morphogenesis in developmental biology.md",
     "Research Papers/Biomaterials and Regenerative Design/Biomaterials technology and policies in the building sector.md",
     "Research Papers/Biomaterials and Regenerative Design",
-    "Trade-offs.md",
-    "Key Terms/Morphogenesis/Functional Structural Plant Modelling (FSPM) models.md",
-    "Project Direction/Research/Urban Morphogenesis.md",
     "Research Papers/Smart Cities",
-    "Project Direction/Ideation",
     "Reference Images/Zipfs Law.svg",
     "Reference Images/Model Construction Mathematics.png",
     "Reference Images/Urbanisation Layouts.png",
