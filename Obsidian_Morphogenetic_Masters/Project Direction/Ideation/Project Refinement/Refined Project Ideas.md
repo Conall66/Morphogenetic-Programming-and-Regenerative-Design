@@ -29,10 +29,13 @@ Build models of under-developed settlements expanding into one another, and how 
 5. Develop uncertainty sets (probabilistic outcomes)
 6. Show how optimisation models change once settlements become connected
 
-| Adavntages                   | Disadvantages                                               |
-| ---------------------------- | ----------------------------------------------------------- |
-| More real world applications | Somewhat likely to have already been modelled               |
-|                              | Less crowd dynamics                                         |
-|                              | Models may be inaccurate - develop uncertainty sets as well |
+| Adavntages                                                    | Disadvantages                                               |
+| ------------------------------------------------------------- | ----------------------------------------------------------- |
+| More real world applications                                  | Somewhat likely to have already been modelled               |
+| Potential applications for Markov chains                      | Less crowd dynamics                                         |
+| More representative (understanding of other evolving systems) | Models may be inaccurate - develop uncertainty sets as well |
+| More biological resonance                                     |                                                             |
 
-## 
+## Modelling how the '[Real Estate] Industry Influences Populations within Settlements and its Impact on Environmental Factors (i.e. emissions)
+
+
