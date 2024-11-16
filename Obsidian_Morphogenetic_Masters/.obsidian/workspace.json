@@ -13,30 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Research/Urban Morphogenesis/Existing Cities Expansion.md",
+                "file": "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Existing Cities Expansion"
+              "title": "Urban Morphogenesis Explained"
             }
           },
           {
             "id": "af4ebfc084046724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Refined Project Ideas"
-            }
-          },
-          {
-            "id": "409e335adaffa89f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +49,8 @@
               "title": "Primary Sources"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,9 +189,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5d76799d6305f18d",
+  "active": "af4ebfc084046724",
   "lastOpenFiles": [
     "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
+    "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
+    "Stakeholders/Primary Sources.md",
     "Project Direction/Research/Urban Morphogenesis/Existing Cities Expansion.md",
     "Stakeholders/Cambridge Centre for Smart Infrastructure and Construction.md",
     "Project Direction/Research/Urban Morphogenesis",
@@ -212,9 +201,7 @@
     "Documentation/Activity Log.md",
     "Documentation/Workflow.md",
     "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
-    "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
-    "Stakeholders/Primary Sources.md",
     "Project Direction/Technical/Software List.md",
     "Reference Images/Benefits of Isobenefit Urbanism.jpg",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",

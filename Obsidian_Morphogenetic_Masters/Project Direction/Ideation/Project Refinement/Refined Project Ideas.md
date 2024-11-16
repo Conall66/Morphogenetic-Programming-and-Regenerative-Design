@@ -19,3 +19,8 @@ What are the leading factors in how people operate within city environments? Dem
 ## Optimised Settlement Expansion
 
 Build models of under-developed settlements expanding into one another, and how that open up new connectivity options. Isolate key nodes in the system and implement Markov chains to predict major infrastructure points. 
+
+## Necessary Steps
+
+1. Determine whether these sorts of models already exist and for a particular region
+2. Identify a particular case study where it work make sense to model this kind of grow
