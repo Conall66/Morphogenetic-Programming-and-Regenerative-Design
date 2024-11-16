@@ -35,6 +35,7 @@ Principles of iso-beneficial cellular automata:
 
 - Define a particular map layout (to replace just X-Y bounding box)
 - More well guided system (not randomly generated)
+- The next step be to link it with GIS to carry on Isobenefit urbanism simulation on real territories and context
 
 ## Relevant Links
 
