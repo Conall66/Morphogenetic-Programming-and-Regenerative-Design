@@ -9,7 +9,7 @@
 9. Chenhe Guan (emailed): Researcher at Peak Urban (Oxford Smart Cities Lab)
 10. Robert Shorten (emailed): Sharing Economies Lecturer Imperial College London
 11. Stefano Mainero (LinkedIn Request): Smart & Sustainable Mobility in Smart Cities Senior Expert, EU Projects Director and Advisor
-12. 
+12. Carlos Moreno (Waiting on )
 
 ## Aims (Smart Cities and Morphogenesis)
 
