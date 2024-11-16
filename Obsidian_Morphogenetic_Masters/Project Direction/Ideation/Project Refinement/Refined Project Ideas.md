@@ -34,3 +34,5 @@ Build models of under-developed settlements expanding into one another, and how 
 | More real world applications | Somewhat likely to have already been modelled               |
 |                              | Less crowd dynamics                                         |
 |                              | Models may be inaccurate - develop uncertainty sets as well |
+
+## 
