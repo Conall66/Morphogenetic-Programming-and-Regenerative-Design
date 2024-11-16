@@ -29,13 +29,16 @@ Build models of under-developed settlements expanding into one another, and how 
 5. Develop uncertainty sets (probabilistic outcomes)
 6. Show how optimisation models change once settlements become connected
 
-| Adavntages                                                    | Disadvantages                                               |
+| Advantages                                                    | Disadvantages                                               |
 | ------------------------------------------------------------- | ----------------------------------------------------------- |
 | More real world applications                                  | Somewhat likely to have already been modelled               |
 | Potential applications for Markov chains                      | Less crowd dynamics                                         |
 | More representative (understanding of other evolving systems) | Models may be inaccurate - develop uncertainty sets as well |
 | More biological resonance                                     |                                                             |
 
-## Modelling how the '[Real Estate] Industry Influences Populations within Settlements and its Impact on Environmental Factors (i.e. emissions)
+## Modelling how the {Real Estate Industry, Job Availability etc.} Influences Populations within Settlements and its Impact on Environmental Factors (i.e. emissions)
 
+## Showing how Components of Urban Expansion can Grow Quicker than others (i.e. Water Supplies and Networks growing slower than new Buildings)
+
+Modelling growth optimisation models over key factors (i.e. major water supplies)
 
