@@ -8,35 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80f1ccdaf3daf03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morphogenetic Expansion Mapping vs Optimised Smart Cities Design"
-            }
-          },
-          {
             "id": "5d76799d6305f18d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
+                "file": "Documentation/Activity Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morphogenetic Expansion Mapping vs Optimised Smart Cities Design"
+              "title": "Activity Log"
             }
           },
           {
             "id": "af4ebfc084046724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Refined Project Ideas"
+            }
+          },
+          {
+            "id": "409e335adaffa89f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +63,7 @@
               "title": "Primary Sources"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,23 +202,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af4ebfc084046724",
+  "active": "5d76799d6305f18d",
   "lastOpenFiles": [
+    "Documentation/Workflow.md",
     "Project Direction/Ideation/Project Refinement/Morphogenetic Expansion Mapping vs Optimised Smart Cities Design.md",
     "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
+    "Stakeholders/Primary Sources.md",
+    "Project Direction/Technical/Software List.md",
     "Reference Images/Benefits of Isobenefit Urbanism.jpg",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
     "Research Papers/Smart Cities/Flourishing Systems CCSIC.md",
     "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
     "Research Papers/Smart Cities/Agents cells and cities.md",
-    "Stakeholders/Primary Sources.md",
     "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
     "Documentation/Activity Log.md",
     "Documentation/Module Criteria.md",
     "Project Direction/Ideation/Project Selection/Initial Key Assumptions.md",
     "Project Direction/Ideation/Project Selection/Initial Project Brief.md",
-    "Documentation/Workflow.md",
     "Reading",
     "Untitled 1",
     "Research Papers/Smart Cities/Read",
@@ -229,7 +229,6 @@
     "Project Direction/Ideation/Project Selection",
     "Project Direction/Ideation/Project Selection/Project Ideas.md",
     "Key Terms/Urban Sprawl.md",
-    "Project Direction/Technical/Software List.md",
     "Project Direction/Research/Cambridge Centre for Smart Infrastructure and Construction.md",
     "Research Papers/Morphogenetic Programming/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
     "Research Papers/Biomaterials and Regenerative Design/Microbial self-healing in concrete.md",
