@@ -20,6 +20,7 @@
 - VMASC - used for military purposes, focussed at group and crowd level not considering individual cognition
 - Centre for Human Modelling @ Pennsylvania 
 
+![[Comparison of Crowd Modelling Software.png]]
 
-
+### Major Drawbacks
  

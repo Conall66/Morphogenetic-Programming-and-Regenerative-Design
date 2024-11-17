@@ -9,6 +9,8 @@ This paper gives an up-to-date account of different crowd modelling software dev
 ### Modelling Crowd Sizes
 
 The crowd size often determines the types of approaches used to model a crowd. For example, existing work on modelling huge-sized crowd usually treats the crowd as a whole and focuses on the global trend of the crowd, due to the tremendous computational cost involved. For a small to medium-sized crowd, the relative small size of the crowd allows researchers to model the behaviour of the individuals in the crowd. Such individual-based approaches usually build more details into the crowd model and support investigation of crowd dynamics at individual level.
+
+An interesting fact about crowd is that crowd phenomena are in general robust to some minor differences or changes at the individual level. Secondly, the relations, particularly the social relations among the individuals, must be emphasized and properly modelled
 #### 3 Criteria
 
 1. Long time frame
