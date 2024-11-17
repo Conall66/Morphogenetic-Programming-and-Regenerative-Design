@@ -29,6 +29,8 @@ The decision rules for an agent are usually based on some local information that
 mass $m$, desired velocity $v^0_i$, direction $e^0_i$, actual velocity $v_i$, time period to adapt $\tau_i$, other entities $j$, walls $w$
 
 Entities try to increase/decrease their speed in a certain direction to meet the desired velocity over iterative periods whilst slowing down as they approach walls or other agents. The 'braking' force is defined by the f terms.
+
+A major problem with () is that **the number of state transitions may increase quickly as more behaviours are included**. To accommodate this problem, some low level behaviours are redefined as basic building blocks such as flocking, following, attraction, splitting, etc, and the FSMs are defined only on some high level behaviours. Guided behaviour provides external control that makes it possible for the crowd behaviour to be controlled by a user or an external application.
 #### Social Constraints
 
 The modelling approach may have significant impact on the simulated crowd behaviour and also the runtime performance of the system. Thus it must be carefully chosen by a modeler. The other aspect is the behavioural factors being considered. These factors include tangible factors like physical and physiological characteristics of individuals (e.g., position, speed, etc.), and intangible factors like social factors and psychological factors (e.g., family tie, emotion, etc.).

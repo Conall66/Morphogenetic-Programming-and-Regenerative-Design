@@ -44,4 +44,6 @@ Build models of under-developed settlements expanding into one another, and how 
 
 Modelling growth optimisation models over key factors (i.e. major water supplies)
 
-### Potential Areas
+## General Purpose Software Users could Upload GIS Data to for Highlighting Weakest Nodes/Simulating Effect of New Infrastructure etc.
+
+
