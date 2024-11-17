@@ -9,9 +9,11 @@
 
 ## Agent Based Models
 
+[[Crowd Modelling and Simulation Technologies]]
 - ~~MASSIVE~~ - not much information on technical details of model, mainly for animation, difficult to adapt
 - ~~A.I.IMPLANT~~ - not much information on technical details of model, mainly for animation, difficult to adapt
-- Crowd Dynamics (& Legion) - psychological and social factors are hardly considered, but path-of-least-resistance calculations inte
+- Crowd Dynamics (& Legion) - psychological and social factors are hardly considered, but path-of-least-resistance calculations integrated, mainly used for operational analysis
+- VRLAB@EPFL - 
 
 
  
