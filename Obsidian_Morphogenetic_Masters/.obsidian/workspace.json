@@ -25,13 +25,18 @@
             "id": "a1ea56663ad85ca1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Project Direction/Technical/Software List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +175,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f68b16bdea0575a7",
+  "active": "a1ea56663ad85ca1",
   "lastOpenFiles": [
-    "Key Terms/Morphogenesis/Cellular Automata.md",
     "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
+    "Key Terms/Morphogenesis/Cellular Automata.md",
     "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Project Direction/Ideation/Project Refinement/Exploration of Cities Expansion Implications.md",
     "Project Direction/Technical/Software List.md",
