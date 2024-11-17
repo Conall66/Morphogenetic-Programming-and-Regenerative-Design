@@ -4,6 +4,8 @@ Inspired by the processes of biological growths (morphogenesis), morphogenetic p
 - Structures can adapt to changing environments
 - Reinforcement potential/load distribution
 - Energy utilisation
+
+[[Definition of Morphogenesis]]
 ## Where is it Useful?
 
 - Construction and architecture [[Regenerative Design Intro]]
