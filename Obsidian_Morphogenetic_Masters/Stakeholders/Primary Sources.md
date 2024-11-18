@@ -13,8 +13,9 @@
 13. Claudia Pasquero (Emailed): Head of the Institute of Urban Design at UCL
 14. Warren Smit (Emailed & LinkedIn Connection Request): Research Manager at the African Centre for Cities
 15. Anna Taylor (Emailed & LinkedIn Connection Request): Research Associate at the African Centre for Cities
-16. Arabella Turek (LinkedIn Connection Request): COO at C40 cities
-17. 
+16. Johsnon Situ (LinkedIn Connection Request): Director of Co-Chairs & Diplomacy at C40 Cities
+17. Cecile Faraud (Linkedin Connection Request): Clean Construction Lead at C40 Cities
+18.  
 
 ## Aims (Smart Cities and Morphogenesis)
 
