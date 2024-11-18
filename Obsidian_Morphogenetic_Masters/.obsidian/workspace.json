@@ -35,8 +35,7 @@
               "title": "Primary Sources"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,10 +174,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "86e0acab49c04825",
+  "active": "725914b846dc40db",
   "lastOpenFiles": [
-    "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Stakeholders/Primary Sources.md",
+    "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Documentation/Activity Log.md",
     "Project Direction/Technical/Software List.md",
     "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",

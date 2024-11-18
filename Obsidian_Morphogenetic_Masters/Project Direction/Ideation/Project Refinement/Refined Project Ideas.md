@@ -38,15 +38,14 @@ Build models of under-developed settlements expanding into one another, and how 
 | More representative (understanding of other evolving systems) | Models may be inaccurate - develop uncertainty sets as well |
 | More biological resonance                                     |                                                             |
 
-## Modelling how the {Real Estate Industry, Job Availability etc.} Influences Populations within Settlements and its Impact on Environmental Factors (i.e. emissions)
+## More Ideas
 
-## Showing how Components of Urban Expansion can Grow Quicker than others (i.e. Water Supplies and Networks growing slower than new Buildings)
-
-Modelling growth optimisation models over key factors (i.e. major water supplies)
-
-## General Purpose Software Users could Upload GIS Data to for Highlighting Weakest Nodes/Simulating Effect of New Infrastructure etc.
-
-## Modelling Food Networks Across Developing African Settlements
+- Modelling how the {Real Estate Industry, Job Availability etc.} Influences Populations within Settlements and its Impact on Environmental Factors (i.e. emissions)
+- Showing how Components of Urban Expansion can Grow Quicker than others (i.e. Water Supplies and Networks growing slower than new Buildings)
+	- Modelling growth optimisation models over key factors (i.e. major water supplies)
+- General Purpose Software Users could Upload GIS Data to for Highlighting Weakest Nodes/Simulating Effect of New Infrastructure etc.
+- Modelling Food Networks Across Developing African Settlements
+- Modelling food distribution networks to determine the best locations for storage and manufacturing facilities
 
 
 
