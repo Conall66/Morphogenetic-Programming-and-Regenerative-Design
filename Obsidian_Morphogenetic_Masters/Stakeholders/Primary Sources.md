@@ -11,6 +11,8 @@
 11. Stefano Mainero (LinkedIn Request): Smart & Sustainable Mobility in Smart Cities Senior Expert, EU Projects Director and Advisor
 12. Carlos Moreno (Waiting on contact info from Hamzah): 15 minute cities designer
 13. Claudia Pasquero (Emailed): Head of the Institute of Urban Design at UCL
+14. Warren Smit (Emailed): Research Manager at the African Centre for Cities
+15. 
 
 ## Aims (Smart Cities and Morphogenesis)
 
