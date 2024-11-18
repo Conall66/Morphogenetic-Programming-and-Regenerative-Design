@@ -44,6 +44,8 @@ The modelling approach may have significant impact on the simulated crowd behavi
 4. Scalability
 ## Limitations
 
+- Almost all crowd modelling software requires a high degree of computational power in order to achieve high accuracy
+- Model validation: heavily dependent on the individuals involved - lack of detailed data on crowd activity
 ## Other Musings
 
 - Has anyone explored a clustering approach to large crowd size models?

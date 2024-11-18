@@ -22,5 +22,4 @@
 
 ![[Comparison of Crowd Modelling Software.png]]
 
-### Major Drawbacks
  
