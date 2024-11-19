@@ -20,9 +20,13 @@ Predictions state that by 2050, 1.5 billion people will live in African cities: 
 
 ### Adaptation Principles
 
+[World Resources Institute Adaptation Principles](https://www.wri.org/events/2020/12/adaptation-principles-new-approaches-building-resilience)
 1. Inclusivity
 2. Preparedness
-3. 
+3. Focus on critical infrastructure vs land use
+4. Quick recovery/adaptability/flexibility
+5. Consider wider implications
+6. Monitor
 ### Impact of Water Insecurity on Health
 
 ### Growth Rules
