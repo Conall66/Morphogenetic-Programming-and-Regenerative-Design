@@ -14,7 +14,7 @@ The paper assesses different measures takes to improve water quality in Harare a
 
 ![[Interdependent TA.jpg]]
 
-- 
+- "TA might best be attempted as a process of **gradual** re-imagining and restructuring of incremental adaptation efforts, which are sequenced and expanded, in scale and ambition, towards TA. The question then becomes **how approaches characterised by ‘quick, small wins’ can transition into larger, more complex approaches that are associated with large-scale, fundamental change**"
 ### Important Criteria in Transformative Adaptation
 
 - Fundamental changes in though processes behind implementation
@@ -33,14 +33,16 @@ The paper assesses different measures takes to improve water quality in Harare a
 
 ## Further Reading
 
- - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change 
+ - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change to improve trust
 ## Musings
 
 - Develop a model that shows how population density around key waterways will change in future as scarcity increases
 	- Need to form governing rules (i.e. punishment for distance from key waterways, access to major city infrastructure etc.) - work with Anna to determine these
 	- Show how SA infrastructure will continue evolving if no intervention is imposed, and how development could be optimised or new waterways could be installed to combat the most susceptible areas
 - City expansion guided by criteria for transformative adaptation in South African cities - model to create a stable system [[Water Networks and South African Morphogenetic Growth]]
+	- Can I model 'trust' as a key criteria for agents?
 ## Questions
 
-
-
+- How is climate change going to induce more problems in South African settlements specifically?
+	- Can I derive a direct link between climate change and water scarcity that relates to the water infrastructure already existing?
+- 
