@@ -1,4 +1,7 @@
 In partnership with the African Centre for Cities? Model how cities/settlements grow around key water infrastructure using agent based modelling, and how continued growth will only increase scarcity and disease without intervention. This can drive economic and political instability and worsen public health. Then model how infrastructure development can increase water security, targeting regions most at risk, but also further trust and create jobs. Maybe show how smaller, quicker developments improve public trust before integrating into a wider system.
+## Problem Statement
+
+Predictions state that by 2050, 1.5 billion people will live in African cities: more than double the current figure. Water demand in South Africa
 ## Existing Research
 
 - By 2030, urban water demand in South Africa is projected to exceed supply by 17% (2.7 billion m3), rising to 3.8 billion m3 when accounting for climate change impacts [Water Scarcity and Alternative Water Sources in Africa](https://www.tandfonline.com/doi/full/10.1080/1573062X.2022.2026984)
@@ -18,11 +21,9 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 - Avoid green areas that are vital for flood mitigation and water purification (i.e. wetlands)
 - Better stormwater drainage
 - Water supply and management must adapt to constrained resources
-
 ### Approaches Towards Greater Water Security
 
 - Water supply may be managed by the water utility, source water management may sit within national agencies, while management of water assets may sit with the environmental authorities. **Greater integration and coordination across agencies is essential**, and city leaders can harness new ways of working, bringing together actors vertically and horizontally, building local partnerships within cities and fostering integrated solutions across the entire watershed region [As Cities Grow Across Africa, They Must Plan for Water Security](https://www.wri.org/insights/cities-grow-across-africa-they-must-plan-water-security)
-- 
 ### Papers (Further Reading)
 - [[Pathways to Transformative Adaptation in South African Cities]]
 - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change to improve trust
@@ -42,6 +43,7 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 
 1. Climate change has a significant effects on how cities and settlements evolve in South Africa
 2. Climate change will continue to have a worsening impact on how cities and settlements evolve in South Africa
+3. Water security can actually be improved at a rate the prevents the emerging issues
 ## Model Evaluation
 
 ### Key Project Steps
