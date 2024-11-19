@@ -16,7 +16,6 @@
 16. Johsnon Situ (LinkedIn Connection Request): Director of Co-Chairs & Diplomacy at C40 Cities
 17. Cecile Faraud (Linkedin Connection Request): Clean Construction Lead at C40 Cities
 18. Christina Chan (LinkedIn Connection Request): Senior Director at the World Resources Institute
-
 ## Aims (Smart Cities and Morphogenesis)
 
 - Policy makers
@@ -25,6 +24,8 @@
 - City planners
 - Systems designers
 - Computational scientists
+
+## Valuable Stakeholders
 
 - UCL CASA
 - Imperial Urban Systems Lab
