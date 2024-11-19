@@ -50,13 +50,14 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 1. Determine how people in South Africa tend to migrate from areas of low water security to urban areas of high water security
 2. Demonstrate then how those urban grows become less secure
 3. Demonstrate how improving water quality in the developing areas/slums we can reduce migration towards existing urban infrastructure and foster settlement growth
-#### Direction 2
-
-1. Model how the growth of major waterway networks 
-### Questions
-
+##### Questions
 - Why is morphogenetic modelling needed here? Is this more appropriate to model through queueing theory/game theory?
 	- We could show the expected distribution of the population and who is most likely to suffer?
+- Do the SA government already know where the most important places are to tackle water insecurity?
+	- Do they know the impact on larger urban areas if they don't address this?
+- #### Direction 2
+
+1. Model how the growth of major waterway networks seems to guide urban expansion in order to inform the development of future waterways towards poorer communities
 ## Competition
 
 ## Assessment
