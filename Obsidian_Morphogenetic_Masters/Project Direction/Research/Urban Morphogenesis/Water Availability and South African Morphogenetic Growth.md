@@ -6,11 +6,16 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 - South Africa is experiencing rapid urbanization, with projections indicating that 1.5 billion people will live in African cities by 2050, **more than double the current number** [As Cities Grow Across Africa, They Must Plan for Water Security](https://www.wri.org/insights/cities-grow-across-africa-they-must-plan-water-security)
 - City leaders are also closest to where water insecurity hits hardest: the poor and vulnerable communities who make up **more than half** of the urban population. In short, African cities are at a unique moment: **they can succumb to chaotic, unplanned expansion and outmoded water management or chart a more sustainable approach that lays a foundation for prosperity by “getting water right.**
 - Nearly 63% of urban areas in sub-Saharan Africa lack access to basic water and sanitation
-
+- **<u>To increase water resilience, we need to change how cities are being built. Cities should be planned to meet water needs, using approaches that extend beyond the city limits and consider systems change throughout entire city-regions</u>**
+- - 
 ![[Service Gap Between Water and Urban Pops.png]]
 ### Impact of Water Insecurity on Health
 
 
+### Approaches Towards Greater Water Security
+
+- Water supply may be managed by the water utility, source water management may sit within national agencies, while management of water assets may sit with the environmental authorities. **Greater integration and coordination across agencies is essential**, and city leaders can harness new ways of working, bringing together actors vertically and horizontally, building local partnerships within cities and fostering integrated solutions across the entire watershed region [As Cities Grow Across Africa, They Must Plan for Water Security](https://www.wri.org/insights/cities-grow-across-africa-they-must-plan-water-security)
+- 
 ### Papers (Further Reading)
 - [[Pathways to Transformative Adaptation in South African Cities]]
 - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change to improve trust
