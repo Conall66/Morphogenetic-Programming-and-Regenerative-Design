@@ -44,7 +44,7 @@ Build models of under-developed settlements expanding into one another, and how 
 - Showing how Components of Urban Expansion can Grow Quicker than others (i.e. Water Supplies and Networks growing slower than new Buildings)
 	- Modelling growth optimisation models over key factors (i.e. major water supplies)
 - General Purpose Software Users could Upload GIS Data to for Highlighting Weakest Nodes/Simulating Effect of New Infrastructure etc.
-- Modelling Food Networks Across Developing African Settlements
+- Modelling Water Networks Across Developing African Settlements
 - Modelling food distribution networks to determine the best locations for storage and manufacturing facilities
 
 
