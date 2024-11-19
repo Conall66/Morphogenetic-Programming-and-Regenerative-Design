@@ -50,8 +50,9 @@ The paper assesses different measures takes to improve water quality in Harare a
 	- Can I model 'trust' as a key criteria for agents?
 	- Can I model how settlements expand into one another, and how water scarcity changes as a result?
 	- Can I use Shapley values to prove that communities can all benefit from collaboration to tackle the 'silo mentality'?
+	- Build in a metric for evaluating the success of projects - developments can be retracted if they are not aiding the community
 ## Questions
 
 - How is climate change going to induce more problems in South African settlements specifically?
 	- Can I derive a direct link between climate change and water scarcity that relates to the water infrastructure already existing?
-- 
+- How useful would it be to model the city development with these TA constraints in place - can I create probabilistically informed suggestions on how to expand the city infrastructure to maximise public trust and climate resilience?
