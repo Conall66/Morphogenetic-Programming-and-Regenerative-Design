@@ -5,6 +5,6 @@ Anna is a geographer and environmental scientist specializing in urban climate a
 
 ## Publications
 
-[[Pathways to Transformative Adaption in South African Cities]]
+[[Pathways to Transformative Adaptation in South African Cities]]
 
 
