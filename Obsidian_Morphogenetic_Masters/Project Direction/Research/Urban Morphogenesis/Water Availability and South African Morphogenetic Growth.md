@@ -53,6 +53,8 @@ Predictions state that by 2050, 1.5 billion people will live in African cities: 
 - [Slum Dwellers International Data Portal](https://sdinet.org/explore-our-data/country/?country=south-africa) - database has fragmented information on prioritised development needs, water availability and most common diseases by slums across South Africa and other developing countries
 - [Major Infrastructure SA Time Series](https://data.humdata.org/dataset/world-bank-infrastructure-indicators-for-south-africa) - shows for the whole of SA how much investment into different types of infrastructure (telecommunications, transport, freshwater resources)
 - [Open Source SA Toolkit](https://opendataza.gitbook.io/toolkit/open-data-resources/water-and-climate-data-resources) - seems to be open data sets on spatial land and infrastructure use as well as water and climate information
+- [Access to Water by Municipaities](https://www.dws.gov.za/niwis2/Sanitation/AccessToServices)
+- 
 
 ## Key Assumptions
 
