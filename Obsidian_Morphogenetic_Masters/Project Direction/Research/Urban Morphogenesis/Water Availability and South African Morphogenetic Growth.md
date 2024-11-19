@@ -14,6 +14,15 @@ Predictions state that by 2050, 1.5 billion people will live in African cities: 
 - First, urban planning and management experts need to be informed of the risks to the natural water cycle and flow regimes, **placing the right incentives and regulations to manage city expansion**
 ![[Service Gap Between Water and Urban Pops.png]]
 - Many South African cities are expanding outward into watersheds and cropland, depleting water resources and natural assets in the periphery
+- In 2018, the African Development Bank found that the continent needs to spend at least $66 billion to address water infrastructure failures
+- The Global Commission of Adaptation report states that this event **could create cost-benefit ratios between 2:1 and 10:1**
+- Investment is currently tailored towards siloed sectoral needs - **we need greater consideration for long term environmental resilience**
+
+### Adaptation Principles
+
+1. Inclusivity
+2. Preparedness
+3. 
 ### Impact of Water Insecurity on Health
 
 ### Growth Rules
