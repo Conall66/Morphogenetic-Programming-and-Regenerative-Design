@@ -19,7 +19,6 @@ The paper assesses different measures takes to improve water quality in Harare a
 - Important to tie sustainability measures into 'job creation' and other more tangible benefits for the community
 - "Realising the interplay between demonstrability and holistic, complex systems thinking seems **particularly important in the context of resource-constrained southern African cities**, where decision-makers and implementers are under much pressure from day-to-day public service delivery issues"
 - "Modular designs would need to ensure that there is potential for the project to change over time, and the resources and mechanisms (including participatory monitoring and evaluation) to support such emergence"
-- 
 ### Important Criteria in Transformative Adaptation
 
 - Fundamental changes in though processes behind implementation
@@ -34,7 +33,14 @@ The paper assesses different measures takes to improve water quality in Harare a
 - Flood protection
 - Degraded riverine
 - Poor waste management
+### Case Studies
+
+- The Sihlanzimvelo Stream Cleaning Programme
+	- Removing alien invasive plants and solid waste from Sihlanzimvelo Stream
 ## Limitations
+
+- The paper only explores 2 case studies that are, in themselves, quite different. Different communities are likely to adopt different attitudes
+- These 2 cities are quite large - does not explore smaller settlement expansion
 
 ## Further Reading
 
