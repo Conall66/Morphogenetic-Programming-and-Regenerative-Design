@@ -18,6 +18,8 @@ The paper assesses different measures takes to improve water quality in Harare a
 - There exists a silo mentality, where individual institutions act in their own interest rather than the interest of the collective
 - Important to tie sustainability measures into 'job creation' and other more tangible benefits for the community
 - "Realising the interplay between demonstrability and holistic, complex systems thinking seems **particularly important in the context of resource-constrained southern African cities**, where decision-makers and implementers are under much pressure from day-to-day public service delivery issues"
+- "Modular designs would need to ensure that there is potential for the project to change over time, and the resources and mechanisms (including participatory monitoring and evaluation) to support such emergence"
+- 
 ### Important Criteria in Transformative Adaptation
 
 - Fundamental changes in though processes behind implementation
@@ -38,6 +40,7 @@ The paper assesses different measures takes to improve water quality in Harare a
 
  - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change to improve trust
  - [Transformative or piecemeal? Changes in green space planning and governance in eleven European cities](https://www.tandfonline.com/doi/full/10.1080/09654313.2022.2139594)
+ - [Transformative adaptation to climate change for sustainable social-ecological systems](https://www.sciencedirect.com/science/article/pii/S1462901119305337)
 ## Musings
 
 - Develop a model that shows how population density around key waterways will change in future as scarcity increases
