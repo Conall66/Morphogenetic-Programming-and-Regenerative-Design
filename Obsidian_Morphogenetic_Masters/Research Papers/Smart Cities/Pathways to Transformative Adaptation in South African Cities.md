@@ -11,6 +11,8 @@ The paper assesses different measures takes to improve water quality in Harare a
 - "Many studies point to the need to transform governance and decision making to manage complex issues such as climate risk"
 - "There is a strong need for more empirical testing, application, operationalization and evaluation of [[Transformative adaptation (TA)]]"
 - "Climate risks manifest across numerous sectors, but **water-related risks are recognised as being particularly acute in the southern African context**"
+
+![[Interdependent TA.jpg]]
 ### Important Criteria in Transformative Adaptation
 
 - Fundamental changes in though processes behind implementation
@@ -34,7 +36,7 @@ The paper assesses different measures takes to improve water quality in Harare a
 - Develop a model that shows how population density around key waterways will change in future as scarcity increases
 	- Need to form governing rules (i.e. punishment for distance from key waterways, access to major city infrastructure etc.) - work with Anna to determine these
 	- Show how SA infrastructure will continue evolving if no intervention is imposed, and how development could be optimised or new waterways could be installed to combat the most susceptible areas
-- City expansion guided by criteria for transformative adaptation in South African cities
+- City expansion guided by criteria for transformative adaptation in South African cities - model to create a stable system [[Water Networks and South African Morphogenetic Growth]]
 ## Questions
 
 

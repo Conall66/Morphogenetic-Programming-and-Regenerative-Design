@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Research/Anna Taylor.md",
+                "file": "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anna Taylor"
+              "title": "Pathways to Transformative Adaptation in South African Cities"
             }
           },
           {
@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,18 +198,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c12c9e9eb1289257",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
-    "Primary Research/Primary Sources.md",
-    "African Centre of Cities (ACC).md",
-    "Primary Research/African Centre for Cities (ACC).md",
+    "Reference Images/Interdependent TA.jpg",
+    "Project Direction/Research/Urban Morphogenesis/Water Networks and South African Morphogenetic Growth.md",
     "Primary Research/Anna Taylor.md",
+    "African Centre of Cities (ACC).md",
+    "Primary Research/Primary Sources.md",
+    "Primary Research/African Centre for Cities (ACC).md",
     "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
     "Primary Research/Interviews/Anna Taylor Interview 20_11_24.md",
     "Primary Research/Interviews",
     "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
     "Key Terms/Morphogenesis/Transformative adaptation (TA).md",
-    "Project Direction/Research/Urban Morphogenesis/Water Networks and South African Morphogenetic Growth.md",
     "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Documentation/Activity Log.md",
     "Research Papers/Smart Cities/Urban form and infrastructure, a morphological review (2014).md",
@@ -228,7 +228,6 @@
     "Key Terms/Morphogenesis/Zipf's Law.md",
     "Key Terms/Morphogenesis/L Systems and Recursion.md",
     "Key Terms/Morphogenesis/Flocking and Swarming.md",
-    "Key Terms/Morphogenesis/Differential Growth.md",
     "Reference Images/Cellular Automata Equation.png",
     "Reference Images/Influential Research Work on Crowd Modelling and Simulation.png",
     "Pasted image 20241116225516.png",
