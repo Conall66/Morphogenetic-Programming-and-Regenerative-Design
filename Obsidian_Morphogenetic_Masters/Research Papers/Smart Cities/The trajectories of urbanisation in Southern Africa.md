@@ -11,3 +11,5 @@ Urbanisation is a worldwide phenomenon, yet its patterns vary significantly from
 ## Limitations
 
 ## Further Reading
+
+- Degree of Urbanisation Approach (Dijkstra, 2020)
