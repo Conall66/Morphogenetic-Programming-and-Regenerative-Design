@@ -13,6 +13,8 @@ The paper assesses different measures takes to improve water quality in Harare a
 - "Climate risks manifest across numerous sectors, but **water-related risks are recognised as being particularly acute in the southern African context**"
 
 ![[Interdependent TA.jpg]]
+
+- 
 ### Important Criteria in Transformative Adaptation
 
 - Fundamental changes in though processes behind implementation
@@ -31,6 +33,7 @@ The paper assesses different measures takes to improve water quality in Harare a
 
 ## Further Reading
 
+ - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change 
 ## Musings
 
 - Develop a model that shows how population density around key waterways will change in future as scarcity increases
