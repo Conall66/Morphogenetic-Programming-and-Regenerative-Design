@@ -12,7 +12,7 @@
 12. Carlos Moreno (Waiting on contact info from Hamzah): 15 minute cities designer
 13. Claudia Pasquero (Emailed): Head of the Institute of Urban Design at UCL
 14. Warren Smit (Emailed & LinkedIn Connection Request): Research Manager at the African Centre for Cities
-15. Anna Taylor (Emailed & LinkedIn Connection Request): Research Associate at the African Centre for Cities
+15. [[Anna Taylor]] (Interview Arranged): Research Associate at the African Centre for Cities 
 16. Johsnon Situ (LinkedIn Connection Request): Director of Co-Chairs & Diplomacy at C40 Cities
 17. Cecile Faraud (Linkedin Connection Request): Clean Construction Lead at C40 Cities
 18.  
