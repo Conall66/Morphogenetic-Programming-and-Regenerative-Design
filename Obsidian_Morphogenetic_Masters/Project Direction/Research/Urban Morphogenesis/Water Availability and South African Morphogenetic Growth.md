@@ -15,7 +15,8 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 ### Growth Rules
 
 - Avoid green areas that are vital for flood mitigation and water purification (i.e. wetlands)
-- 
+- Better stormwater drainage
+- Water supply and management must adapt to constrained resources
 
 ### Approaches Towards Greater Water Security
 

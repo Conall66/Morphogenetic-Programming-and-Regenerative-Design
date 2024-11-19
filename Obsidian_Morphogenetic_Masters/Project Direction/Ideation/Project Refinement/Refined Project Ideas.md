@@ -46,7 +46,5 @@ Build models of under-developed settlements expanding into one another, and how 
 - General Purpose Software Users could Upload GIS Data to for Highlighting Weakest Nodes/Simulating Effect of New Infrastructure etc.
 - Modelling Water Networks Across Developing African Settlements
 - Modelling food distribution networks to determine the best locations for storage and manufacturing facilities
-
-
-
+- Implementation of green architecture in minimising flooding and health risks in Africa:![[UWR article graph v2-01.png]]
 
