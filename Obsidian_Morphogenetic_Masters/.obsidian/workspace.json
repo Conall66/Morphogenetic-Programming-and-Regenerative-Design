@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
+                "file": "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pathways to Transformative Adaptation in South African Cities"
+              "title": "The trajectories of urbanisation in Southern Africa"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "Primary Sources"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,12 +217,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a992745fd66009c2",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
+    "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
+    "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
+    "Project Direction/Research/Urban Morphogenesis/Water Availability and South African Morphogenetic Growth.md",
     "Primary Research/Primary Sources.md",
     "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
-    "Project Direction/Research/Urban Morphogenesis/Water Availability and South African Morphogenetic Growth.md",
-    "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
     "Reference Images/UWR article graph v2-01.png",
     "Reference Images/Service Gap Between Water and Urban Pops.png",
     "Project Direction/Research/Urban Morphogenesis/Water Availability and Urban Growth in South Africa.md",
