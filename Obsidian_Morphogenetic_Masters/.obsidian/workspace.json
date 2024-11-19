@@ -59,7 +59,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,15 +199,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6a8b7dec1e3f1550",
+  "active": "c12c9e9eb1289257",
   "lastOpenFiles": [
+    "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
     "Reference Images/Interdependent TA.jpg",
     "Project Direction/Research/Urban Morphogenesis/Water Networks and South African Morphogenetic Growth.md",
     "Primary Research/Anna Taylor.md",
     "African Centre of Cities (ACC).md",
     "Primary Research/Primary Sources.md",
     "Primary Research/African Centre for Cities (ACC).md",
-    "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
     "Primary Research/Interviews/Anna Taylor Interview 20_11_24.md",
     "Primary Research/Interviews",
     "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
@@ -244,7 +245,6 @@
     "Reference Images/Zipfs Law.svg",
     "Reference Images/Model Construction Mathematics.png",
     "Reference Images/Urbanisation Layouts.png",
-    "Reference Images/Cellular Automata Urban Utopia.jpg",
-    "Reference Images/ML Morphogenesis.jpg"
+    "Reference Images/Cellular Automata Urban Utopia.jpg"
   ]
 }
