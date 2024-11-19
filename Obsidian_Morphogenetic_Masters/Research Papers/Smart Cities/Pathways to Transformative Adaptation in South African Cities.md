@@ -1,5 +1,7 @@
 ## Summary
 This study explores how [[Transformative adaptation (TA)]], which addresses the root causes of climate risk, can be operationalized in southern African cities using criteria like inclusivity, challenging power asymmetries, flexibility, and systems thinking. Through five water-related projects in Durban and Harare, the research highlights the need for equitable participation and acknowledges the challenges of achieving TA in complex contexts, proposing a pragmatic, learning-oriented approach to gradually scale up transformative efforts. (ChatGPT)
+
+The paper assesses different measures takes to improve water quality in Harare and Durban, 2 South African cities, evaluating them on criteria related to transformative adaptation (see criteria below).
 ## Key Points
 
 - In SA, the population is rapidly growing in towns and cities driving urban expansion
@@ -16,7 +18,13 @@ This study explores how [[Transformative adaptation (TA)]], which addresses the 
 - Challenge 'power' asymmetries 
 - Demonstrability - must be possible to implement 
 - Flexibility
-- 
+### Climate Related Water Risks
+
+- Degraded wetlands
+- Poverty
+- Flood protection
+- Degraded riverine
+- Poor waste management
 ## Limitations
 
 ## Further Reading
@@ -26,6 +34,7 @@ This study explores how [[Transformative adaptation (TA)]], which addresses the 
 - Develop a model that shows how population density around key waterways will change in future as scarcity increases
 	- Need to form governing rules (i.e. punishment for distance from key waterways, access to major city infrastructure etc.) - work with Anna to determine these
 	- Show how SA infrastructure will continue evolving if no intervention is imposed, and how development could be optimised or new waterways could be installed to combat the most susceptible areas
+- City expansion guided by criteria for transformative adaptation 
 
 ## Questions
 
