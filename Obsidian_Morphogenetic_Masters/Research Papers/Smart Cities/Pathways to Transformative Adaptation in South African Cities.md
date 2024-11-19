@@ -7,7 +7,9 @@ This study explores how [[Transformative adaptation (TA)]], which addresses the 
 - **Climatic hazards are expected to intensify** across much of the southern African region in the coming decades {...} that disproportionately affect the poorer communities
 - **"There are intensifying calls to transform cities in ways that foster social and spatial inclusion, equitable economic opportunities, environmental sustainability, and climate resilience"**
 - "Many studies point to the need to transform governance and decision making to manage complex issues such as climate risk"
-- "There is a strong need for more empirical testing, application, operationalization and evaluation of [[T]]"
+- "There is a strong need for more empirical testing, application, operationalization and evaluation of [[Transformative adaptation (TA)]]"
+- "Climate risks manifest across numerous sectors, but **water-related risks are recognised as being particularly acute in the southern African context**"
+- 
 ## Limitations
 
 ## Further Reading
