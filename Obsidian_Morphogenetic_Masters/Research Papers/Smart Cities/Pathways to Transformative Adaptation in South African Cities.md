@@ -13,3 +13,11 @@ This study explores how [[Transformative adaptation (TA)]], which addresses the 
 ## Limitations
 
 ## Further Reading
+
+## Musings
+
+- Develop a model that shows how population density around key waterways will change in future as scarcity increases
+	- Need to form governing rules (i.e. punishment for distance from key waterways, access to major city infrastructure etc.) - work with Anna to determine these
+	- Show how SA infrastructure will continue evolving if no intervention is imposed, and how development could be optimised or new waterways could be installed to combat the most susceptible areas
+
+
