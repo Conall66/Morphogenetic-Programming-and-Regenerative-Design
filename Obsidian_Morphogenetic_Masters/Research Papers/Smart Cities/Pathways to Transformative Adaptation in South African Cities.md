@@ -46,7 +46,7 @@ The paper assesses different measures takes to improve water quality in Harare a
 - Develop a model that shows how population density around key waterways will change in future as scarcity increases
 	- Need to form governing rules (i.e. punishment for distance from key waterways, access to major city infrastructure etc.) - work with Anna to determine these
 	- Show how SA infrastructure will continue evolving if no intervention is imposed, and how development could be optimised or new waterways could be installed to combat the most susceptible areas
-- City expansion guided by criteria for transformative adaptation in South African cities - model to create a stable system [[Climate Change and South African Morphogenetic Growth]]
+- City expansion guided by criteria for transformative adaptation in South African cities - model to create a stable system [[Water Availability and South African Morphogenetic Growth]]
 	- Can I model 'trust' as a key criteria for agents?
 	- Can I model how settlements expand into one another, and how water scarcity changes as a result?
 	- Can I use Shapley values to prove that communities can all benefit from collaboration to tackle the 'silo mentality'?
