@@ -35,8 +35,11 @@ The paper assesses different measures takes to improve water quality in Harare a
 - Poor waste management
 ### Case Studies
 
-- The Sihlanzimvelo Stream Cleaning Programme
-	- Removing alien invasive plants and solid waste from Sihlanzimvelo Stream
+- The Sihlanzimvelo Stream Cleaning Programme: Removing alien invasive plants and solid waste from Sihlanzimvelo Stream
+- Harare Wetlands Advocacy Project: Improve citizen awareness of wetlands protection, influencing the adoption of environmental impact assessments
+- Palmiet Catchment Rehabilitation Project: Conservation, rehabilitation & restoration of natural systems within the Palmiet Catchment to improve resilience of communities living nearby
+- Aller River Pilot Project: Restore health of rivers in Durban (i.e. clearing invasive species)
+- Wize Wayz Water Case: 
 ## Limitations
 
 - The paper only explores 2 case studies that are, in themselves, quite different. Different communities are likely to adopt different attitudes
