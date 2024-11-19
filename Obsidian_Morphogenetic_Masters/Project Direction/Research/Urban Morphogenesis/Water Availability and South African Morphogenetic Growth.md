@@ -3,7 +3,7 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 
 - By 2030, urban water demand in South Africa is projected to exceed supply by 17% (2.7 billion m3), rising to 3.8 billion m3 when accounting for climate change impacts [Water Scarcity and Alternative Water Sources in Africa](https://www.tandfonline.com/doi/full/10.1080/1573062X.2022.2026984)
 - South African people are migrating to larger cities that already face water stress
-### Papers
+### Papers (Further Reading)
 - [[Pathways to Transformative Adaptation in South African Cities]]
 - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change to improve trust
 -  [Transformative or piecemeal? Changes in green space planning and governance in eleven European cities](https://www.tandfonline.com/doi/full/10.1080/09654313.2022.2139594)

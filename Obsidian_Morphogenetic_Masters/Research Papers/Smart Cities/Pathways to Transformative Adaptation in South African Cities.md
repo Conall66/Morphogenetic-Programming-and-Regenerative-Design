@@ -39,12 +39,12 @@ The paper assesses different measures takes to improve water quality in Harare a
 - Harare Wetlands Advocacy Project: Improve citizen awareness of wetlands protection, influencing the adoption of environmental impact assessments
 - Palmiet Catchment Rehabilitation Project: Conservation, rehabilitation & restoration of natural systems within the Palmiet Catchment to improve resilience of communities living nearby
 - Aller River Pilot Project: Restore health of rivers in Durban (i.e. clearing invasive species)
-- Wize Wayz Water Case: 
+- Wize Wayz Water Case: Build skillset in chemical materials production around Mbokodweni river
 ## Limitations
 
 - The paper only explores 2 case studies that are, in themselves, quite different. Different communities are likely to adopt different attitudes
 - These 2 cities are quite large - does not explore smaller settlement expansion
-
+- All explored case studies within 2 major cities are restorative measures - no exploration of future infrastructure changes
 ## Further Reading
 
  - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change to improve trust
