@@ -15,6 +15,7 @@ The paper assesses different measures takes to improve water quality in Harare a
 ![[Interdependent TA.jpg]]
 
 - "TA might best be attempted as a process of **gradual** re-imagining and restructuring of incremental adaptation efforts, which are sequenced and expanded, in scale and ambition, towards TA. The question then becomes **how approaches characterised by ‘quick, small wins’ can transition into larger, more complex approaches that are associated with large-scale, fundamental change**"
+- There exists a silo mentality, where individual institutions act in their own
 ### Important Criteria in Transformative Adaptation
 
 - Fundamental changes in though processes behind implementation
@@ -41,6 +42,7 @@ The paper assesses different measures takes to improve water quality in Harare a
 	- Show how SA infrastructure will continue evolving if no intervention is imposed, and how development could be optimised or new waterways could be installed to combat the most susceptible areas
 - City expansion guided by criteria for transformative adaptation in South African cities - model to create a stable system [[Water Networks and South African Morphogenetic Growth]]
 	- Can I model 'trust' as a key criteria for agents?
+	- Can I model how settlements expand into one another, and how water scarcity changes as a result?
 ## Questions
 
 - How is climate change going to induce more problems in South African settlements specifically?
