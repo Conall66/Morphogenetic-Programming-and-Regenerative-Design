@@ -55,7 +55,6 @@ Predictions state that by 2050, 1.5 billion people will live in African cities: 
 - [Open Source SA Toolkit](https://opendataza.gitbook.io/toolkit/open-data-resources/water-and-climate-data-resources) - seems to be open data sets on spatial land and infrastructure use as well as water and climate information
 - [Access to Water by Municipalities Time Series](https://www.dws.gov.za/niwis2/Sanitation/AccessToServices) - Information on access to sanitised water backlog on population by municipality over time (can use population information to show rate of migration towards urban environments)
 - [Urbanisation Over Time SA - Office for National Statistics](https://www.statista.com/statistics/1226106/urbanization-rate-in-africa/) - for the whole of SA rather than by region
-- 
 ## Key Assumptions
 
 1. Climate change has a significant effects on how cities and settlements evolve in South Africa
