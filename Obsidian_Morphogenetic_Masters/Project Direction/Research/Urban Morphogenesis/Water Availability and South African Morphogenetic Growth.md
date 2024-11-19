@@ -33,6 +33,10 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 1. Spaciotemporal data ([[GIS]])
 2. Existing datasets - food networks, water networks etc.
 3. Synthetic data - simulate city growth information with guidance from [[African Centre of Cities (ACC)]]
+### Useful Databases
+
+- [Slum Dwellers International Data Portal](https://sdinet.org/explore-our-data/country/?country=south-africa) - database has fragmented information on accessibility to prioritised development needs, water and most common diseases by slums across South Africa and other developing countries
+
 ## Key Assumptions
 
 1. Climate change has a significant effects on how cities and settlements evolve in South Africa
