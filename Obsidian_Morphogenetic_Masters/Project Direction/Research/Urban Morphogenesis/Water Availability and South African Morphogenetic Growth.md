@@ -9,7 +9,8 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 - Nearly 63% of urban areas in sub-Saharan Africa lack access to basic water and sanitation
 - <b><u>To increase water resilience, we need to change how cities are being built. Cities should be planned to meet water needs, using approaches that extend beyond the city limits and consider systems change throughout entire city-regions</u></b>
 - First, urban planning and management experts need to be informed of the risks to the natural water cycle and flow regimes, **placing the right incentives and regulations to manage city expansion**
-- ![[Service Gap Between Water and Urban Pops.png]]
+![[Service Gap Between Water and Urban Pops.png]]
+- Many South African cities are expanding outward into watersheds and cropland, depleting water resources and natural assets in the periphery
 ### Impact of Water Insecurity on Health
 
 ### Growth Rules
@@ -35,7 +36,7 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 3. Synthetic data - simulate city growth information with guidance from [[African Centre of Cities (ACC)]]
 ### Useful Databases
 
-- [Slum Dwellers International Data Portal](https://sdinet.org/explore-our-data/country/?country=south-africa) - database has fragmented information on accessibility to prioritised development needs, water availability and most common diseases by slums across South Africa and other developing countries
+- [Slum Dwellers International Data Portal](https://sdinet.org/explore-our-data/country/?country=south-africa) - database has fragmented information on prioritised development needs, water availability and most common diseases by slums across South Africa and other developing countries
 
 ## Key Assumptions
 
@@ -55,6 +56,7 @@ In partnership with the African Centre for Cities? Model how cities/settlements 
 	- We could show the expected distribution of the population and who is most likely to suffer?
 - Do the SA government already know where the most important places are to tackle water insecurity?
 	- Do they know the impact on larger urban areas if they don't address this?
+
 - #### Direction 2
 
 1. Model how the growth of major waterway networks seems to guide urban expansion in order to inform the development of future waterways towards poorer communities
