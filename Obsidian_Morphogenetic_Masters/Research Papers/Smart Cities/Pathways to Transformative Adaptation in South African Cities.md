@@ -4,6 +4,8 @@ This study explores how [[Transformative adaptation (TA)]], which addresses the 
 
 - In SA, the population is rapidly growing in towns and cities driving urban expansion
 - "**Population growth has outstripped job creation**, infrastructure expansion, property development, and public service provision, resulting in severe lack of public services, gainful employment, affordable housing and secure land tenure for many residents. These hardships create **high vulnerability to climate hazards** (e.g. heavy rainfall, intense heat, prolonged drought), and consequent impacts, e.g. flooded homes, the spread of diseases, food and water scarcity"
+- **Climatic hazards are expected to intensify** across much of the southern African region in the coming decades {...} that disproportionately affect the poorer communities
+- **"There are intensifying calls to transform cities in ways that foster social and spatial inclusion, equitable economic opportunities, environmental sustainability, and climate resilience"**
 - 
 ## Limitations
 
