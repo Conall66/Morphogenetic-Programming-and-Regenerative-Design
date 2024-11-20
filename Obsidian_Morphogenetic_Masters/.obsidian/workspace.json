@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Activity Log.md",
+                "file": "Primary Research/Interviews/Anna Taylor Interview 20_11_24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activity Log"
-            }
-          },
-          {
-            "id": "b54e5502242ebad8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Anna Taylor Interview 20_11_24"
             }
           },
           {
@@ -75,8 +63,7 @@
               "title": "Primary Sources"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,11 +202,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b54e5502242ebad8",
+  "active": "725914b846dc40db",
   "lastOpenFiles": [
+    "Primary Research/Anna Taylor.md",
+    "Documentation/Activity Log.md",
     "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
     "Primary Research/Interviews/Anna Taylor Interview 20_11_24.md",
-    "Documentation/Activity Log.md",
     "Project Direction/Research/Urban Morphogenesis/Water Availability and Southern African Morphogenetic Growth.md",
     "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
     "Primary Research/Primary Sources.md",
@@ -229,7 +217,6 @@
     "Reference Images/Service Gap Between Water and Urban Pops.png",
     "Project Direction/Research/Urban Morphogenesis/Water Availability and Urban Growth in South Africa.md",
     "Key Terms/Morphogenesis/GIS.md",
-    "Primary Research/Anna Taylor.md",
     "Primary Research/African Centre of Cities (ACC).md",
     "Primary Research/African Centre for Cities (ACC).md",
     "Reference Images/Interdependent TA.jpg",
