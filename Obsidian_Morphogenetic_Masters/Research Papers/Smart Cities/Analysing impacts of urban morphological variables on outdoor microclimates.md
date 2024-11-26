@@ -20,7 +20,7 @@ This paper aims to answer 4 key questions about urban sprawl in Southern Africa:
 - "The high rates of urbanisation in sub-Saharan Africa are associated with low per capita income"
 - Nigeria, the DRC, Egypt and Ethiopia are all experiencing outwards growth in land expansion
 
-- Key database to investigate **
+- Key database to investigate **Global Human Settlements Database**
 ## Limitations
 
 ## Further Reading
