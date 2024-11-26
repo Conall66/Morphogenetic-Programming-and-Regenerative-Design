@@ -14,7 +14,11 @@ This paper aims to answer 4 key questions about urban sprawl in Southern Africa:
 - "More contextual and locally responsive policies are vital if the urbanisation process is to be guided and managed sustainably and inclusively"
 - Over-simplified models often encourage movement away from expansion in larger settlements based on "sensational claims" to aid political agendas for example
 - Cities are expanding too quickly - compact urban development better utilises space
-- Densification of cities (increasing the number of people per $km^2$) offers a number of benrfits for spatial allocation, but can also increase strain 
+- Densification of cities (increasing the number of people per $km^2$) offers a number of benefits for spatial allocation, but can also increase strain on major infrastructure and drive the poor further towards the outskirts of the cities
+- "Approximately 70% of Africa's urban population {currently} lives in unplanned settlements"
+- African countries experiencing the most intense urbanisation include Nigeria, Ethiopia, and the DRC
+- "The high rates of urbanisation in sub-Saharan Africa are associated with low per capita income"
+- 
 ## Limitations
 
 ## Further Reading
