@@ -50,7 +50,21 @@
             }
           },
           {
-            "id": "c72083649b0dd872",
+            "id": "c1149fab3f29f91b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Terms/Morphogenesis/Transformative adaptation (TA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformative adaptation (TA)"
+            }
+          },
+          {
+            "id": "5b532bbdb54d0058",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,20 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "Pathways to Transformative Adaptation in South African Cities"
-            }
-          },
-          {
-            "id": "c1149fab3f29f91b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Direction/Research/Urban Morphogenesis/Water Availability and Southern African Morphogenetic Growth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Water Availability and Southern African Morphogenetic Growth"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "world resource",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,8 +217,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c1149fab3f29f91b",
+  "active": "5b532bbdb54d0058",
   "lastOpenFiles": [
+    "Key Terms/Morphogenesis/Transformative adaptation (TA).md",
+    "Project Direction/Ideation/Project Refinement/Exploration of Cities Expansion Implications.md",
+    "Project Direction/Research/Urban Morphogenesis/Water Availability and Southern African Morphogenetic Growth.md",
     "Primary Research/Primary Sources.md",
     "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
     "Research Papers/Morphogenetic Programming/Generative models of morphogenesis in developmental biology.md",
@@ -235,7 +237,6 @@
     "Primary Research/Anna Taylor.md",
     "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Project Direction/Research/Urban Morphogenesis/Understanding Population Growth Impact.md",
-    "Project Direction/Research/Urban Morphogenesis/Water Availability and Southern African Morphogenetic Growth.md",
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
     "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
     "Key Terms/Morphogenesis/Morphological Settlement Zone.md",
@@ -244,8 +245,6 @@
     "Primary Research/Interviews/Anna Taylor Interview 20_11_24.md",
     "Research Papers/Smart Cities/Flourishing Systems CCSIC.md",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
-    "Research Papers/Smart Cities/Agents cells and cities.md",
-    "Research Papers/Smart Cities/Crowd Modelling, A Tool for Shaping Urban Design.md",
     "Reference Images/UWR article graph v2-01.png",
     "Reference Images/Service Gap Between Water and Urban Pops.png",
     "Reference Images/Interdependent TA.jpg",
