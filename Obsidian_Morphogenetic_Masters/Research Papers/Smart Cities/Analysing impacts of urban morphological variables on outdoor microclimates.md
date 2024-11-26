@@ -1,7 +1,12 @@
 [Analysing impacts of urban morphological variables and density on outdoor microclimate for tropical cities](https://www.sciencedirect.com/science/article/pii/S0360132322008769)
 ## Summary
 
-This paper aims to answer 4 key quetsiosn
+This paper aims to answer 4 key questions about urban sprawl in Southern Africa:
+
+- What is the growth rate of cities in this region?
+- What is the size distribution of cities?
+- What is their rate of outward expansion?
+- What are the trends in urban density?
 
 ## Key Points
 
