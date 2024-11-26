@@ -18,6 +18,7 @@ This paper aims to answer 4 key questions about urban sprawl in Southern Africa:
 - "Approximately 70% of Africa's urban population {currently} lives in unplanned settlements"
 - African countries experiencing the most intense urbanisation include Nigeria, Ethiopia, and the DRC
 - "The high rates of urbanisation in sub-Saharan Africa are associated with low per capita income"
+- "Compared with the Global North, cities in the Global South appear to be experiencing more outward than inward expansion"
 - 
 ## Limitations
 
