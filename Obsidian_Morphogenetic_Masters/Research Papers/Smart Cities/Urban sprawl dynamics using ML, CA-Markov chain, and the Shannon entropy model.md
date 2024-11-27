@@ -12,6 +12,9 @@ The study investigates urban sprawl in Mbombela, South Africa, from 2003 to 2033
 - Machine learning models ([[Clue-S model]]) are more accurate than [[Agent based modelling (ABM) of morphogenetic systems]] is a small scale study 
 - SVM model separates support vectors into a hyperplane {...} The Gaussian radial basis function (RBF) outperformed the other two kernel types in performance and stability
 - McNemar's test for evaluating maps against one another
+- the SVM model exhibited an overall accuracy ranging from 96 to 99%
+
+![[40068_2024_348_Fig2_HTML.webp]]
 ## Limitations
 
 ## Datasets
