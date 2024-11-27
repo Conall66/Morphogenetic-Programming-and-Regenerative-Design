@@ -1,0 +1,1 @@
+The overall growth of the world’s population could add another 2.5 billion people to urban areas by 2050, with close to 90% of this increase taking place in Asia and Africa. 
