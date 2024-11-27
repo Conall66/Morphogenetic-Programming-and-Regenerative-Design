@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
+                "file": "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A new type of cities for liveable futures"
+              "title": "Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
+                "file": "Project Direction/Ideation/Project Refinement/Project Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A new type of cities for liveable futures"
+              "title": "Project Proposal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,34 +176,34 @@
       "graph:Open graph view": false
     }
   },
-  "active": "55daa589a904578f",
+  "active": "c70bc467bd8e01e7",
   "lastOpenFiles": [
+    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
+    "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
+    "Project Direction/Research/Urban Morphogenesis/Understanding Population Growth Impact.md",
+    "Key Terms/Morphogenesis/Transformative adaptation (TA).md",
+    "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
+    "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
+    "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
+    "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
+    "Research Papers/Smart Cities/Analysing impacts of urban morphological variables on outdoor microclimates.md",
     "Project Direction/Ideation/Project Refinement/Exploration of Cities Expansion Implications.md",
-    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Research Papers/Morphogenetic Programming/Agent based modelling (ABM) of morphogenetic systems.md",
     "Research Papers/Smart Cities/Forces shaping urban morphology in Southern Africa Today.md",
     "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
     "Project Direction/Technical/Shannon's Entropy Model.md",
     "Project Direction/Technical/Clue-S model.md",
     "Project Direction/Technical/Software List.md",
-    "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
-    "Key Terms/Morphogenesis/Transformative adaptation (TA).md",
     "Primary Research/Anna Taylor.md",
     "Project Direction/Research/Urban Morphogenesis/Water Availability and Southern African Morphogenetic Growth.md",
     "Primary Research/Primary Sources.md",
     "Research Papers/Morphogenetic Programming/Generative models of morphogenesis in developmental biology.md",
     "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
     "Research Papers/Smart Cities/Urban form and infrastructure, a morphological review (2014).md",
-    "Research Papers/Smart Cities/Analysing impacts of urban morphological variables on outdoor microclimates.md",
-    "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
     "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
     "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
-    "Project Direction/Research/Urban Morphogenesis/Understanding Population Growth Impact.md",
-    "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
-    "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
-    "Key Terms/Morphogenesis/Morphological Settlement Zone.md",
     "Reference Images/UWR article graph v2-01.png",
     "Reference Images/Service Gap Between Water and Urban Pops.png",
     "Reference Images/Interdependent TA.jpg",

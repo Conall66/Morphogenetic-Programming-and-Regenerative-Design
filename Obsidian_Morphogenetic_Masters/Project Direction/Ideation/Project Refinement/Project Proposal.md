@@ -1,1 +1,1 @@
-The overall growth of the world’s population could add another 2.5 billion people to urban areas by 2050, with close to 90% of this increase taking place in Asia and Africa. 
+Sub-Sharan Africa is set to account for 50% of urban growth by 2050 with the rapid population increase. Accessibility to sanitised water will continue to drop as climate change worsens, and the water industry must adapt accordingly. In this project, I propose the use of simulation tools to predict urban morphological changes in Sub-Saharan Africa and how that will affect demand across a range of 
