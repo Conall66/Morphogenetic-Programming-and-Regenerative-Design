@@ -7,6 +7,8 @@ The study investigates urban sprawl in Mbombela, South Africa, from 2003 to 2033
 ## Key Points
 
 - Used NASA geospatial imaging satellite to categorise morphology (LANDSAT) 
+- Sub-Saharan Africa (SSA) will account for 50% of global population growth by 2050
+- 
 
 ## Limitations
 
