@@ -9,10 +9,11 @@ The study investigates urban sprawl in Mbombela, South Africa, from 2003 to 2033
 - Used NASA geospatial imaging satellite to categorise morphology (LANDSAT) 
 - Sub-Saharan Africa (SSA) will account for 50% of global population growth by 2050
 - Improper urban land use planning has significantly impacted the loss of potentially productive agricultural land
-- Machine learning models ([[Clue-S model]]) are more accurate than agent based modelling is a small scale study 
+- Machine learning models ([[Clue-S model]]) are more accurate than [[Agent based modelling (ABM) of morphogenetic systems]] is a small scale study 
 ## Limitations
 
 ## Datasets
 
-- ArcGIS
+- Landsat 4–5 OLI/TIRS Collection 2
+- Landsat 8 OLI/TIRS Collection 2
 ## Further Reading
