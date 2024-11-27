@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
+                "file": "Project Direction/Technical/Clue-S model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model"
+              "title": "Clue-S model"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shannon's Entropy Model.md",
+                "file": "Project Direction/Technical/Shannon's Entropy Model.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Shannon's Entropy Model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,10 +174,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c0122a669ad1f9e0",
+  "active": "1167151cadbc5b3f",
   "lastOpenFiles": [
+    "Project Direction/Technical/Software List.md",
+    "Project Direction/Technical/Clue-S model.md",
+    "Project Direction/Technical/Shannon's Entropy Model.md",
     "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
-    "Shannon's Entropy Model.md",
     "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
     "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
     "Key Terms/Morphogenesis/Transformative adaptation (TA).md",
@@ -199,10 +200,8 @@
     "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
     "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
     "Key Terms/Morphogenesis/Morphological Settlement Zone.md",
-    "Project Direction/Technical/Software List.md",
     "Key Terms/Morphogenesis/Urban Sprawl.md",
     "Primary Research/Interviews/Anna Taylor Interview 20_11_24.md",
-    "Research Papers/Smart Cities/Flourishing Systems CCSIC.md",
     "Reference Images/UWR article graph v2-01.png",
     "Reference Images/Service Gap Between Water and Urban Pops.png",
     "Reference Images/Interdependent TA.jpg",
