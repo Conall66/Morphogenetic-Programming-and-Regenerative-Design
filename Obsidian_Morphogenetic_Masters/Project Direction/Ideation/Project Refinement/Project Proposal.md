@@ -4,3 +4,7 @@ Sub-Sharan Africa is set to account for 50% of urban growth by 2050 with the rap
 
 - Google Earth - can extract information from timeline, quality of information worsens as you go back in time, extracting urban morphological information will be difficult
 - World Human Settlement Database - 
+
+## Research
+
+- Water consumption patterns by morphological environment and urban density
