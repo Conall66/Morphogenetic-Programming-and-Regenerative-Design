@@ -2,4 +2,5 @@ Sub-Sharan Africa is set to account for 50% of urban growth by 2050 with the rap
 
 ## Datasets
 
-- Google Earth - 
+- Google Earth - can extract information from timeline, quality of information worsens as you go back in time, extracting urban morphological information will be difficult
+- 
