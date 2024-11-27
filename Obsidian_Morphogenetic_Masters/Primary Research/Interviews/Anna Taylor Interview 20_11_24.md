@@ -15,7 +15,12 @@
 ## Interview
 ### Key Points
 
-- Anna was keen on modelling how city expansion is going to influence water demand by region
+- Anna was keen on modelling how city expansion is going to influence water demand by region/morphological structure
+- The state often tries to impose laws on city growth, but the development of informal settlements underwrites a lot of those restrictions
+- Cities are looking to promote densification
+- Water scarcity is being exacerbated by climate change, but the sources come from far away from the major cities themselves
+- Tourism is driving rapid growth
+- 
 ### Transcription
 
 ![](file:///C:/Users/conal/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)**Templeman, Conall**   0:04  
