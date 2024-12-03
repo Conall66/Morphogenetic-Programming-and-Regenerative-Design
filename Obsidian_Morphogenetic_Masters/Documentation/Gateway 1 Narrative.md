@@ -7,6 +7,7 @@
 - Discuss mechanisms behind city expansion
 
 - Highlight why it will be important to outline demand for sanitised water in the future, with emphasis on smart city construction planning (policy reformation?). Talk about the lack of correspondence between water companies and urban planners.
+- CLEAR PROBLEM STATEMENT [[Project Proposal]]
 
 ## Morphogenetic Programming
 
