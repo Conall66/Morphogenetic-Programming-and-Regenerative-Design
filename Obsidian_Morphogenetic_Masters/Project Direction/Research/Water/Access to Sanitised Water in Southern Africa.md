@@ -1,6 +1,6 @@
 
 - The Food and Agriculture Organisation of the United Nations (FAO) estimates that in 2025, **1.8 billion people will be living in countries with absolute water scarcity, and two-thirds of the world’s population could be living in water-stressed conditions** [Greenpeace](https://www.greenpeace.org/africa/en/blogs/51757/water-crisis-in-south-africa/)
-- According to UN Water, physical water scarcity is exacerbated by rapidly growing urban areas which place heavy pressure on adjacent water resources 
+- According to UN Water, physical water scarcity is exacerbated by rapidly growing urban areas which place heavy pressure on adjacent water resources [[Water Scarcity - United Nations]]
 ## Population Rising
 
 [Data commons](https://datacommons.org/)
