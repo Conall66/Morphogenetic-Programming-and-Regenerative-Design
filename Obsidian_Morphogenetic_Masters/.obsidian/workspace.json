@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
+                "file": "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morphogenetic Urban Planning"
+              "title": "Bridging the gap between urban morphology and urban modelling"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "active": "5fea9218b560d1e5",
   "lastOpenFiles": [
+    "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
     "Untitled.canvas",
     "Project Direction/Research/Water/Access to Sanitised Water in Southern Africa.md",
     "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
