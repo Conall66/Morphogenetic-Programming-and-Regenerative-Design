@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Research/Water/Water Scarcity - United Nations.md",
+                "file": "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Water Scarcity - United Nations"
+              "title": "Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model"
+            }
+          },
+          {
+            "id": "431c21413f009b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/Smart Cities/Urban Sprawl Modelling Using Cellular Automata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Urban Sprawl Modelling Using Cellular Automata"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,10 +231,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7ca9ee4a498c7f23",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
-    "Project Direction/Research/Water/Access to Sanitised Water in Southern Africa.md",
+    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
+    "Research Papers/Smart Cities/Urban Sprawl Modelling Using Cellular Automata.md",
     "Project Direction/Research/Water/Water Scarcity - United Nations.md",
+    "Project Direction/Research/Water/Access to Sanitised Water in Southern Africa.md",
     "Project Direction/Technical/Datasets.md",
     "Project Direction/Research/Water",
     "Documentation/Activity Log.md",
@@ -239,14 +255,12 @@
     "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
     "Primary Research/Interviews/Anna Taylor Interview 20_11_24.md",
     "Project Direction/Ideation/Project Refinement/Project Proposal.md",
-    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Reference Images/40068_2024_348_Fig2_HTML.webp",
     "Key Terms/Morphogenesis/Definition of Morphogenesis.md",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
     "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
     "Project Direction/Research/Urban Morphogenesis/Understanding Population Growth Impact.md",
     "Key Terms/Morphogenesis/Transformative adaptation (TA).md",
-    "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
     "Reference Images/UWR article graph v2-01.png",
     "Reference Images/Service Gap Between Water and Urban Pops.png",
     "Reference Images/Interdependent TA.jpg",
