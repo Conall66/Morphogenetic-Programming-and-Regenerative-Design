@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "population",
+                "query": "EU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,8 +190,12 @@
   },
   "active": "bb04c8c417bc27fa",
   "lastOpenFiles": [
-    "Documentation/Gateway 1 Narrative.md",
+    "Project Direction/Technical/Clue-S model.md",
+    "Project Direction/Technical/Datasets.md",
+    "Project Direction/Research/Urban Morphogenesis/Water Availability and Southern African Morphogenetic Growth.md",
+    "Project Direction/Technical/Software List.md",
     "Documentation/Activity Log.md",
+    "Documentation/Gateway 1 Narrative.md",
     "Documentation/Module Criteria.md",
     "Research Papers/Smart Cities/Bridging the gap between urban morphology and urban modelling.md",
     "Research Papers/Smart Cities/Flourishing Systems CCSIC.md",
@@ -213,10 +217,6 @@
     "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
     "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
-    "Research Papers/Smart Cities/Morphogenetic Urban Planning.md",
-    "Project Direction/Ideation/Project Refinement/Exploration of Cities Expansion Implications.md",
-    "Research Papers/Morphogenetic Programming/Agent based modelling (ABM) of morphogenetic systems.md",
-    "Research Papers/Smart Cities/Forces shaping urban morphology in Southern Africa Today.md",
     "Reference Images/UWR article graph v2-01.png",
     "Reference Images/Service Gap Between Water and Urban Pops.png",
     "Reference Images/Interdependent TA.jpg",
