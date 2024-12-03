@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "7ca9ee4a498c7f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Direction/Research/Water/Water Scarcity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Water Scarcity"
+            }
+          },
+          {
             "id": "57028162f739aa65",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +217,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5fea9218b560d1e5",
+  "active": "7ca9ee4a498c7f23",
   "lastOpenFiles": [
-    "Project Direction/Technical/Datasets.md",
     "Project Direction/Research/Water/Access to Sanitised Water in Southern Africa.md",
+    "Project Direction/Research/Water/Water Scarcity.md",
+    "Project Direction/Technical/Datasets.md",
     "Project Direction/Research/Water",
     "Documentation/Activity Log.md",
     "Project Direction/Technical/Clue-S model.md",
@@ -232,7 +247,6 @@
     "Project Direction/Research/Urban Morphogenesis/Understanding Population Growth Impact.md",
     "Key Terms/Morphogenesis/Transformative adaptation (TA).md",
     "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
-    "Project Direction/Ideation/Project Refinement/Refined Project Ideas.md",
     "Reference Images/UWR article graph v2-01.png",
     "Reference Images/Service Gap Between Water and Urban Pops.png",
     "Reference Images/Interdependent TA.jpg",
