@@ -13,6 +13,9 @@
 
 ## Population Density
 
+[Department of Statistics SA](https://www.statssa.gov.za/) -population by municipality
+
+
 ## Water Sanitation
 
 [DWS Population with Reliable Water](https://www.dws.gov.za/niwis2/WaterSupplyReliability?AspxAutoDetectCookieSupport=1) - The data is extracted via Macro Planning processes and procedures directly from the Water Services Knowledge System database
