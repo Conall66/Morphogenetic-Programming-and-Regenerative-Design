@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,8 +203,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d88568cc680b69c5",
+  "active": "962f7f604e5813aa",
   "lastOpenFiles": [
+    "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Key Terms/Morphogenesis/Cellular Automata.md",
     "Project Direction/Technical/Datasets.md",
     "Research Papers/Smart Cities/Urban Expansion Simulated by Integrated Cellular Automata and Agent-Based Models.md",
@@ -213,7 +214,6 @@
     "Cellular Automata.md",
     "Project Direction/Research/Urban Morphogenesis/Evaluation of Modelling Techniques.md",
     "Research Papers/Morphogenetic Programming/Generative models of morphogenesis in developmental biology.md",
-    "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Key Terms/Morphogenesis/CLUE-S Model.md",
     "Reference Images/Overview-of-the-CLUE-s-modelling-procedure.png",
     "Key Terms/Morphogenesis/Morphological Settlement Zone.md",
