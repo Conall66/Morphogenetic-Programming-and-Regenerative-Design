@@ -22,8 +22,13 @@
 [[Cellular Automata]]
 ### How it Works?
 
-- Transition matrix determined by neighbouring states
+- Transition matrix determined by a function of neighbouring states, distance from key infrastructure (i.e. city epicentre)
 ### Additional Approaches
+
+- Markov informed model takes pre-existing states
+- Reinforcement learning punishes/updates transformation rules
+- Integration of ABM (velocities and repulsive/attractive forces)
+- Fuzziness accounts for cell uncertainty
 ### Accuracy?
 
 ### Advantages
