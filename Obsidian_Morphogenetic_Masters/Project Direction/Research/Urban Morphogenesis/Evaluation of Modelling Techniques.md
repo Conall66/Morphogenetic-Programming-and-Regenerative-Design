@@ -23,7 +23,7 @@
 ### How it Works?
 
 - Transition matrix determined by neighbouring states
-
+### Additional Approaches
 ### Accuracy?
 
 ### Advantages
