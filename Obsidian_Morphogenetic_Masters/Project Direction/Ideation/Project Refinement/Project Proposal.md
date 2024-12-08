@@ -44,16 +44,17 @@
 | Reliability  |      |     |
 ### Population Density
 
-| Features         | Department of Water & Sanitation           | XXX |
-| ---------------- | ------------------------------------------ | --- |
-| Geospatial       | Yes                                        |     |
-| Resolution       | Municipality                               |     |
-| Temporal         |                                            |     |
-| Accuracy         |                                            |     |
-| Data Quality     |                                            |     |
-| Verified         |                                            |     |
-| Reliability      |                                            |     |
-| Additional Notes | Can filter by population, or by households |     |
+| Features         | DWS Pop/Sanitised Water                    | DWS Drinking Water Quality |
+| ---------------- | ------------------------------------------ | -------------------------- |
+| Geospatial       | Yes                                        | Yes                        |
+| Resolution       | Municipality                               | Municipality               |
+| Temporal         |                                            | 2018-2024                  |
+| Accuracy         |                                            |                            |
+| Data Quality     |                                            |                            |
+| Verified         |                                            |                            |
+| Reliability      |                                            |                            |
+| Cost             | Free                                       |                            |
+| Additional Notes | Can filter by population, or by households |                            |
 ### Water Scarcity
 
 | Department of Water & Sanitation | XXX |
