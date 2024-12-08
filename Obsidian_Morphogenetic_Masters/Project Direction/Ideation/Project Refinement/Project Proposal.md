@@ -29,32 +29,33 @@
 4. Categories: How many types of morphology?
 5. Accuracy: What is the confidence level for the data provided (look at sample sizing)
 6. Data Quality: When exported, how much data cleaning will be involved?
-7. Verified: Has the dataset cropped up in previous research?
 8. Reliability: How reliable is the source?
 
-| Features     | GHSL | XXX |
-| ------------ | ---- | --- |
-| Geospatial   |      |     |
-| Resolution   |      |     |
-| Temporal     |      |     |
-| Categories   |      |     |
-| Accuracy     |      |     |
-| Data Quality |      |     |
-| Verified     |      |     |
-| Reliability  |      |     |
+### Morphology
+
+| Features     | GHSL | SA Stats                                                                                                                                                    |
+| ------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Geospatial   |      | Yes                                                                                                                                                         |
+| Resolution   |      | Municipality - does not show actual structure                                                                                                               |
+| Temporal     |      | 1994 - 2024                                                                                                                                                 |
+| Categories   |      | Urban household, rural household,                                                                                                                           |
+| Accuracy     |      |                                                                                                                                                             |
+| Data Quality |      |                                                                                                                                                             |
+| Reliability  |      | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |
+| Notes        |      | Info on number of households, household density, number of settlements<br><br>Helpful for verification of results                                           |
 ### Population Density
 
-| Features         | SA Stats     |
-| ---------------- | ------------ |
-| Geospatial       | Yes          |
-| Resolution       | Municipality |
-| Temporal         |              |
-| Accuracy         |              |
-| Data Quality     |              |
-| Reliability      |              |
-| Cost             |              |
-| Additional Notes |              |
-| Link             |              |
+| Features         | SA Stats                                                                                                                                                    |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Geospatial       | Yes                                                                                                                                                         |
+| Resolution       | Municipality                                                                                                                                                |
+| Temporal         |                                                                                                                                                             |
+| Accuracy         |                                                                                                                                                             |
+| Data Quality     |                                                                                                                                                             |
+| Reliability      |                                                                                                                                                             |
+| Cost             |                                                                                                                                                             |
+| Additional Notes |                                                                                                                                                             |
+| Link             | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |
 
 ### Water Scarcity
 
