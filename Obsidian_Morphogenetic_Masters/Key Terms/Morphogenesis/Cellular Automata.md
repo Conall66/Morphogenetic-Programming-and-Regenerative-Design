@@ -10,10 +10,15 @@ mass $m$, desired velocity $v^0_i$, direction $e^0_i$, actual velocity $v_i$, ti
 Extracts information on the neighbouring cells
 ### Von Neumann Neighbourhoods
 
+### Asynchronous vs Synchronous
 
+- Asynchronous CA models update subsets of the data at one time, allowing for the neighbouring cells to 'react'
+- Synchronous models change at once
 ### Fuzzy Cellular Automata
 
+### Markov-Informed Cellular Automata
 
+- Markov chains consider the previous states of the cells to determine more interesting patterns
 ## Advantages
 
 - The geospatial data we have is already divided into cells
