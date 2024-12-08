@@ -46,17 +46,17 @@
 | Notes                                                                                                                                             | Info on number of households, household density, number of settlements<br><br>Helpful for verification of results                                           |
 ### Population Density
 
-| Features         | SA Stats                                                                                                                                                    |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Geospatial       | Yes                                                                                                                                                         |
-| Resolution       | Municipality                                                                                                                                                |
-| Temporal         | 1994 - 2024                                                                                                                                                 |
-| Accuracy         | n/a                                                                                                                                                         |
-| Data Quality     | Seemingly 100%                                                                                                                                              |
-| Reliability      | Gov body SA                                                                                                                                                 |
-| Cost             | Free, public                                                                                                                                                |
-| Additional Notes | Population rural/urban distribution, settlements and households                                                                                             |
-| Link             | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |
+| Features         | SA Stats                                                                                                                                                    | GHSL                 |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| Geospatial       | Yes                                                                                                                                                         | Yes                  |
+| Resolution       | Municipality                                                                                                                                                | Up to 100$m^2$ cells |
+| Temporal         | 1994 - 2024                                                                                                                                                 |                      |
+| Accuracy         | n/a                                                                                                                                                         |                      |
+| Data Quality     | Seemingly 100%                                                                                                                                              |                      |
+| Reliability      | Gov body SA                                                                                                                                                 |                      |
+| Cost             | Free, public                                                                                                                                                |                      |
+| Additional Notes | Population rural/urban distribution, settlements and households                                                                                             |                      |
+| Link             | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |                      |
 ### Water Scarcity
 
 | Features         | DWS Drinking Water Quality                                                  | SA Stats                                                                                                                                                      |
