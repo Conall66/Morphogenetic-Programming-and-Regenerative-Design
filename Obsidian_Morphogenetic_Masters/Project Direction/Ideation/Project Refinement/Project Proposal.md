@@ -44,22 +44,19 @@
 | Reliability  |      |     |
 ### Population Density
 
-| Features         | DWS Pop/Sanitised Water                    | DWS Drinking Water Quality |
-| ---------------- | ------------------------------------------ | -------------------------- |
-| Geospatial       | Yes                                        | Yes                        |
-| Resolution       | Municipality                               | Municipality               |
-| Temporal         |                                            | 2018-2024                  |
-| Accuracy         |                                            |                            |
-| Data Quality     |                                            |                            |
-| Verified         |                                            |                            |
-| Reliability      |                                            |                            |
-| Cost             | Free                                       |                            |
-| Additional Notes | Can filter by population, or by households |                            |
 ### Water Scarcity
 
-| Department of Water & Sanitation | XXX |
-| -------------------------------- | --- |
-|                                  |     |
+| Features         | DWS Drinking Water Quality                                                  | SA Stats                                                                                                                                                      |
+| ---------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Geospatial       | Yes                                                                         | Yes                                                                                                                                                           |
+| Resolution       | Municipality                                                                | Municipality                                                                                                                                                  |
+| Temporal         | 2018-2024                                                                   | 1994 - 2024                                                                                                                                                   |
+| Accuracy         |                                                                             | Below 80% early years, 80 - 90% later years, 90 - 100% approaching 2024                                                                                       |
+| Data Quality     |                                                                             | Seemingly 100%                                                                                                                                                |
+| Reliability      |                                                                             | Government body based off census data                                                                                                                         |
+| Cost             |                                                                             |                                                                                                                                                               |
+| Additional Notes |                                                                             |                                                                                                                                                               |
+| Link             | [DWS Drinking Water Quality Compliance](https://www.dws.gov.za/niwis2/dwq2) | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=2&DataTopicDetailID=77&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=35) |
 ## Research
 
 - Water consumption patterns by morphological environment and urban density
