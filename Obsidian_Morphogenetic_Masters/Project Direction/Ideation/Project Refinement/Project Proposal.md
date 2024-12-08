@@ -46,8 +46,9 @@
 | Notes        |               | Info on number of households, household density, number of settlements<br><br>Helpful for verification of results                                           |
 #### Desired Format
 
-| x coordinates | y coordinates | cell state | year |
-| ---------------|
+| x coordinates | y coordinates | Area | cell state | year |
+| ------------- | ------------- | ---- | ---------- | ---- |
+|               |               |      |            |      |
  
 ### Population Density
 
