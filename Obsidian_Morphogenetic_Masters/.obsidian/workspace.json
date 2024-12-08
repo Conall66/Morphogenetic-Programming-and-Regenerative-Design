@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
+                "file": "Project Direction/Ideation/Project Refinement/Methodology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model"
+              "title": "Methodology"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Gateway 1 Narrative.md",
+                "file": "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gateway 1 Narrative"
+              "title": "Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Urban growth and water access in sub-Saharan Africa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +189,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7ca9ee4a498c7f23",
+  "active": "57028162f739aa65",
   "lastOpenFiles": [
+    "Documentation/Gateway 1 Narrative.md",
+    "Project Direction/Ideation/Project Refinement/Methodology.md",
+    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
     "Research Papers/Smart Cities/Urban Sprawl Modelling Using Cellular Automata.md",
-    "Project Direction/Ideation/Project Refinement/Methodology.md",
     "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Untitled.canvas",
     "Documentation/Module Criteria.md",
@@ -209,14 +212,12 @@
     "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
     "Project Direction/Research/Urban Morphogenesis/Urban Morphogenesis Explained.md",
     "Documentation/Activity Log.md",
-    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Primary Research/African Centre of Cities (ACC).md",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
     "Project Direction/Research/Water/Water Availability and Southern African Morphogenetic Growth.md",
     "Project Direction/Research/Water/Access to Sanitised Water in Southern Africa.md",
     "Project Direction/Research/Water/Water Scarcity - United Nations.md",
     "Project Direction/Technical/Datasets.md",
-    "Research Papers/Morphogenetic Programming/Programming Morphogenesis through Systems and Synthetic Biology (2019).md",
     "Project Direction/Research/Water",
     "Reference Images/40068_2024_348_Fig2_HTML.webp",
     "Reference Images/UWR article graph v2-01.png",
