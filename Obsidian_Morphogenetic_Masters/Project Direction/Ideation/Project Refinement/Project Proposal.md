@@ -21,14 +21,6 @@
 		1. Determine relationship between morphology, population density and water scarcity
 ## Datasets
 [[Datasets]]
-### Morphological
-
-- **[Global Human Settlement Layer Databases on Built Environments](https://human-settlement.emergency.copernicus.eu/datasets.php)**- Spatiotemporal data for the entire world on:
-	- Distribution of built-up non-residential buildings
-	- Distribution of building heights
-	- Delineated [[Morphological Settlement Zone]] (with information on the inner classification of the morphology and function of built environment)
-	- [Slum Dwellers International Data Portal](https://sdinet.org/explore-our-data/country/?country=south-africa) - database has fragmented information on prioritised development needs, water availability and most common diseases by slums across South Africa and other developing countries
-
 ### Assessment Criteria
 
 1. Geospatial: Is the data offered geospatial or flat?
@@ -52,15 +44,16 @@
 | Reliability  |      |     |
 ### Population Density
 
-| Features     | Department of Water & Sanitation | XXX |
-| ------------ | -------------------------------- | --- |
-| Geospatial   | Yes                              |     |
-| Resolution   | Municipality                     |     |
-| Temporal     |                                  |     |
-| Accuracy     |                                  |     |
-| Data Quality |                                  |     |
-| Verified     |                                  |     |
-| Reliability  |                                  |     |
+| Features         | Department of Water & Sanitation           | XXX |
+| ---------------- | ------------------------------------------ | --- |
+| Geospatial       | Yes                                        |     |
+| Resolution       | Municipality                               |     |
+| Temporal         |                                            |     |
+| Accuracy         |                                            |     |
+| Data Quality     |                                            |     |
+| Verified         |                                            |     |
+| Reliability      |                                            |     |
+| Additional Notes | Can filter by population, or by households |     |
 ### Water Scarcity
 
 | Department of Water & Sanitation | XXX |
