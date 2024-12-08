@@ -1,4 +1,3 @@
-
 ## Agent Based Modelling (ABM)
 
 ### How it Works?
@@ -20,8 +19,10 @@
 ### Disadvantages
 
 ## Cellular Automata
-
+[[Cellular Automata]]
 ### How it Works?
+
+- Transition matrix determined by neighbouring states
 
 ### Accuracy?
 
