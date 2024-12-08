@@ -1,6 +1,6 @@
 ## Machine Learning and Urbanisation
 
-- [[Clue-S model]]
+- [[Project Direction/Technical/Clue-S model]]
 ## Cellular Automata (Entities Models)
 
 - SLEUTH
