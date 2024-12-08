@@ -10,6 +10,7 @@ mass $m$, desired velocity $v^0_i$, direction $e^0_i$, actual velocity $v_i$, ti
 Extracts information on the neighbouring cells
 ### Von Neumann Neighbourhoods
 
+
 ### Fuzzy Cellular Automata
 
 
