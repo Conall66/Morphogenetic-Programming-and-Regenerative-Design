@@ -55,7 +55,7 @@
 | Data Quality     | Seemingly 100%                                                                                                                                              |                      |
 | Reliability      | Gov body SA                                                                                                                                                 |                      |
 | Cost             | Free, public                                                                                                                                                |                      |
-| Additional Notes | Population rural/urban distribution, settlements and households                                                                                             |                      |
+| Additional Notes | Population rural/urban distribution, settlements and households                                                                                             | Shapefiles provided  |
 | Link             | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |                      |
 ### Water Scarcity
 
