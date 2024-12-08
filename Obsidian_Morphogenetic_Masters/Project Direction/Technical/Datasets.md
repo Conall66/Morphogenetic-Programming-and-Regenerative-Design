@@ -8,7 +8,7 @@
 	- [Slum Dwellers International Data Portal](https://sdinet.org/explore-our-data/country/?country=south-africa) - database has fragmented information on prioritised development needs, water availability and most common diseases by slums across South Africa and other developing countries
 
 
-
+Visualisation of cellular data
 ![[Urban Morphology tid Visualisation.png | 400]]
 
 
