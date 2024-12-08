@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Research/Urban Morphogenesis/Evaluation of Modelling Techniques.md",
+                "file": "Research Papers/Smart Cities/Urban Sprawl Modelling Using Cellular Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluation of Modelling Techniques"
+              "title": "Urban Sprawl Modelling Using Cellular Automata"
             }
           },
           {
@@ -191,6 +191,7 @@
   },
   "active": "4fa22ec30582db35",
   "lastOpenFiles": [
+    "Project Direction/Research/Urban Morphogenesis/Evaluation of Modelling Techniques.md",
     "Research Papers/Morphogenetic Programming/Generative models of morphogenesis in developmental biology.md",
     "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Key Terms/Morphogenesis/CLUE-S Model.md",
