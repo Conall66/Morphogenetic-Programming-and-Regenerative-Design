@@ -15,6 +15,7 @@
 [[Methodology Summary]]
 
 1. Derive relationship between water scarcity and urban morphology
+	1. Morphology will be categorised into 
 ## Datasets
 
 - Google Earth - can extract information from timeline, quality of information worsens as you go back in time, extracting urban morphological information will be difficult
