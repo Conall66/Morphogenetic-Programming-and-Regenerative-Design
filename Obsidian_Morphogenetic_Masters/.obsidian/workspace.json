@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "fa97c45eaa557516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Project Proposal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Proposal"
-            }
-          },
-          {
             "id": "4fa22ec30582db35",
             "type": "leaf",
             "state": {
@@ -62,8 +48,23 @@
               "icon": "lucide-file",
               "title": "Gateway 1 Narrative"
             }
+          },
+          {
+            "id": "9bca3a9f0f20a66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +203,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7ca9ee4a498c7f23",
+  "active": "9bca3a9f0f20a66b",
   "lastOpenFiles": [
     "Project Direction/Technical/Datasets.md",
     "Project Direction/Ideation/Project Refinement/Project Proposal.md",
