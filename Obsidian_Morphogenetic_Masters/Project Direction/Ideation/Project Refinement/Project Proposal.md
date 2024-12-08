@@ -19,7 +19,7 @@
 	2. Water scarcity can be a percentage value (access to sanitised water by region)
 
 		1. Determine relationship between morphology, population density and water scarcity using one way anova test (Post-hoc Turkey) or Kruskal Wallis test (Post-hoc Dunne), depending on whether the data is normally distributed
-		2. Convert urban morphology data 
+		2. Convert urban morphology .tif data 
 ## Datasets
 [[Datasets]]
 ### Assessment Criteria
