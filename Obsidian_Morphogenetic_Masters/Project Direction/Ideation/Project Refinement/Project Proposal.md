@@ -40,8 +40,9 @@
 | Temporal     |      | 1994 - 2024                                                                                                                                                 |
 | Categories   |      | Urban town, rural village, metropolitan area, working town, farmland, fringe settlements, dense village etc.                                                |
 | Accuracy     |      | n/a                                                                                                                                                         |
-| Data Quality |      | Government body SA                                                                                                                                          |
-| Reliability  |      | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |
+| Data Quality |      | Seemingly 100%                                                                                                                                              |
+| Link         |      | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |
+| Reliability  |      |                                                                                                                                                             |
 | Notes        |      | Info on number of households, household density, number of settlements<br><br>Helpful for verification of results                                           |
 ### Population Density
 
@@ -50,13 +51,12 @@
 | Geospatial       | Yes                                                                                                                                                         |
 | Resolution       | Municipality                                                                                                                                                |
 | Temporal         | 1994 - 2024                                                                                                                                                 |
-| Accuracy         |                                                                                                                                                             |
-| Data Quality     |                                                                                                                                                             |
+| Accuracy         | n/a                                                                                                                                                         |
+| Data Quality     | Seemingly 100%                                                                                                                                              |
 | Reliability      | Gov body SA                                                                                                                                                 |
 | Cost             | Free, public                                                                                                                                                |
-| Additional Notes | Population rural/urban distribution                                                                                                                         |
+| Additional Notes | Population rural/urban distribution, settlements and households                                                                                             |
 | Link             | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |
-
 ### Water Scarcity
 
 | Features         | DWS Drinking Water Quality                                                  | SA Stats                                                                                                                                                      |
@@ -65,7 +65,7 @@
 | Resolution       | Municipality                                                                | Municipality                                                                                                                                                  |
 | Temporal         | 2018-2024                                                                   | 1994 - 2024                                                                                                                                                   |
 | Accuracy         |                                                                             | Below 80% early years, 80 - 90% later years, 90 - 100% approaching 2024                                                                                       |
-| Data Quality     |                                                                             | Seemingly 100%                                                                                                                                                |
+| Data Quality     | Seemingly 100%                                                              | Seemingly 100%                                                                                                                                                |
 | Reliability      | Can not access source, seems to be SA government                            | Government body based off census data                                                                                                                         |
 | Cost             | Free and public                                                             | Free and public                                                                                                                                               |
 | Additional Notes |                                                                             |                                                                                                                                                               |
