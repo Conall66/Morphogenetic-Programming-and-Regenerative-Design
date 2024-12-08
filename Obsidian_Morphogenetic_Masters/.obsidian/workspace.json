@@ -63,8 +63,7 @@
               "title": "Gateway 1 Narrative"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +202,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1eaa09b4c8a6763",
+  "active": "7ca9ee4a498c7f23",
   "lastOpenFiles": [
-    "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Project Direction/Technical/Datasets.md",
+    "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Project Direction/Ideation/Project Refinement/Methodology Summary.md",
     "Documentation/Gateway 1 Narrative.md",
