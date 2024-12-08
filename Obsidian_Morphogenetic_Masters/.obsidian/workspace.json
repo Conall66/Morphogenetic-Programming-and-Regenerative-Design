@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Methodology.md",
+                "file": "Project Direction/Ideation/Project Refinement/Methodology Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methodology"
+              "title": "Methodology Summary"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Urban growth and water access in sub-Saharan Africa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,11 +188,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "57028162f739aa65",
+  "active": "7ca9ee4a498c7f23",
   "lastOpenFiles": [
-    "Documentation/Gateway 1 Narrative.md",
-    "Project Direction/Ideation/Project Refinement/Methodology.md",
     "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
+    "Documentation/Gateway 1 Narrative.md",
+    "Project Direction/Ideation/Project Refinement/Methodology Summary.md",
     "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
     "Research Papers/Smart Cities/Urban Sprawl Modelling Using Cellular Automata.md",
     "Project Direction/Ideation/Project Refinement/Project Proposal.md",
