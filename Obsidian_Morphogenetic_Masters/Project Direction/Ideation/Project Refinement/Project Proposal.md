@@ -17,10 +17,9 @@
 1. Derive relationship between water scarcity and urban morphology
 	1. Morphology will be categorised into undeveloped land, residential land and built urban land, with information on the population density
 	2. Water scarcity can be a percentage value (access to sanitised water by region)
-
 		1. Determine relationship between morphology, population density and water scarcity using one way anova test (Post-hoc Turkey) or Kruskal Wallis test (Post-hoc Dunne), depending on whether the data is normally distributed
-		2. Convert urban morphology .tif data into data frame
-		3. Build 
+2. Convert urban morphology .tif data into data frame
+3. From temporal urban morphology data, derive transition rules for cellular automata model
 ## Datasets
 [[Datasets]]
 ### Assessment Criteria

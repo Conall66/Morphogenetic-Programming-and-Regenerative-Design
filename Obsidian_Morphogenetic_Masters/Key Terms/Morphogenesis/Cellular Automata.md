@@ -8,3 +8,5 @@ Agents have transition matrices that determine the likelihood that they move int
 
 ## Advantages
 
+- The geospatial data we have is already divided into cells
+- Simple rule based transition matrix reduces computational complexity
