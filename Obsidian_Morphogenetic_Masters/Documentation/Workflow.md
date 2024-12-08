@@ -6,6 +6,8 @@
 2. Key Points/Quotes
 3. Limitations
 4. Additional Reading
+
+Use notebook LM to compare papers and extract key findings quickly
 #### Research Methodology
 
 1. Highlight Major Ideas
