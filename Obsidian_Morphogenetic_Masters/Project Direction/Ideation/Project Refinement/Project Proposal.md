@@ -21,21 +21,42 @@
 		1. Determine relationship between morphology, population density and water scarcity
 ## Datasets
 [[Datasets]]
-### Spatiotemporal Data
+### Morphological
+
 - **[Global Human Settlement Layer Databases on Built Environments](https://human-settlement.emergency.copernicus.eu/datasets.php)**- Spatiotemporal data for the entire world on:
 	- Distribution of built-up non-residential buildings
 	- Distribution of building heights
 	- Delineated [[Morphological Settlement Zone]] (with information on the inner classification of the morphology and function of built environment)
 	- [Slum Dwellers International Data Portal](https://sdinet.org/explore-our-data/country/?country=south-africa) - database has fragmented information on prioritised development needs, water availability and most common diseases by slums across South Africa and other developing countries
 
-| GHSL | XXX |
-| ------|
+### Assessment Criteria
+
+1. Resolution
+
+| Features     | GHSL | XXX |
+| ------------ | ---- | --- |
+| Resolution   |      |     |
+| Temporal     |      |     |
+| Categories   |      |     |
+| Accuracy     |      |     |
+| Data Quality |      |     |
+| Geospatial   |      |     |
+| Verified     |      |     |
 ### Population Density
 
-| 
+| Features     | Department of Water & Sanitation | XXX |
+| ------------ | -------------------------------- | --- |
+| Resolution   |                                  |     |
+| Temporal     |                                  |     |
+| Accuracy     |                                  |     |
+| Data Quality |                                  |     |
+| Geospatial   |                                  |     |
+| Verified     |                                  |     |
 ### Water Scarcity
 
-
+| Department of Water & Sanitation | XXX |
+| -------------------------------- | --- |
+|                                  |     |
 ## Research
 
 - Water consumption patterns by morphological environment and urban density

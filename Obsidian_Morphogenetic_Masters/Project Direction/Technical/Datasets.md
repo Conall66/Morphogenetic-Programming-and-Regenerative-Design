@@ -1,4 +1,5 @@
 
+## Morphology
 - **[Global Human Settlement Layer Databases on Built Environments](https://human-settlement.emergency.copernicus.eu/datasets.php)**- Spatiotemporal data for the entire world on:
 	- Distribution of built-up non-residential buildings
 	- Distribution of building heights
@@ -8,7 +9,3 @@
 - [Open Source SA Toolkit](https://opendataza.gitbook.io/toolkit/open-data-resources/water-and-climate-data-resources) - seems to be open data sets on spatial land and infrastructure use as well as water and climate information
 - [Access to Water by Municipalities Time Series](https://www.dws.gov.za/niwis2/Sanitation/AccessToServices) - Information on access to sanitised water backlog on population by municipality over time (can use population information to show rate of migration towards urban environments)
 - [Urbanisation Over Time SA - Office for National Statistics](https://www.statista.com/statistics/1226106/urbanization-rate-in-africa/) - for the whole of SA rather than by region
-- **[Global Human Settlement Layer Databases on Built Environments](https://human-settlement.emergency.copernicus.eu/datasets.php)**- Spatiotemporal data for the entire world on:
-	- Distribution of built-up non-residential buildings
-	- Distribution of building heights
-	- Delineated [[Morphological Settlement Zone]] (with information on the inner classification of the morphology and function of built environment)
