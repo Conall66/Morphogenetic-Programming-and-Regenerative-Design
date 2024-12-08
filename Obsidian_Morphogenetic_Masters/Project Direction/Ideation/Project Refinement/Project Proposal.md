@@ -18,7 +18,7 @@
 	1. Morphology will be categorised into undeveloped land, residential land and built urban land, with information on the population density
 	2. Water scarcity will be a binary input
 
-		1. Determine relationship between morphology, population density and water scarcity, using a chi-squared test
+		1. Determine relationship between morphology, population density and water scarcity
 ## Datasets
 
 - Google Earth - can extract information from timeline, quality of information worsens as you go back in time, extracting urban morphological information will be difficult
