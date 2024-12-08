@@ -44,6 +44,18 @@
 | Reliability  |      |     |
 ### Population Density
 
+| Features         | SA Stats     |
+| ---------------- | ------------ |
+| Geospatial       | Yes          |
+| Resolution       | Municipality |
+| Temporal         |              |
+| Accuracy         |              |
+| Data Quality     |              |
+| Reliability      |              |
+| Cost             |              |
+| Additional Notes |              |
+| Link             |              |
+
 ### Water Scarcity
 
 | Features         | DWS Drinking Water Quality                                                  | SA Stats                                                                                                                                                      |
@@ -53,8 +65,8 @@
 | Temporal         | 2018-2024                                                                   | 1994 - 2024                                                                                                                                                   |
 | Accuracy         |                                                                             | Below 80% early years, 80 - 90% later years, 90 - 100% approaching 2024                                                                                       |
 | Data Quality     |                                                                             | Seemingly 100%                                                                                                                                                |
-| Reliability      |                                                                             | Government body based off census data                                                                                                                         |
-| Cost             |                                                                             |                                                                                                                                                               |
+| Reliability      | Can not access source, seems to be SA government                            | Government body based off census data                                                                                                                         |
+| Cost             | Free and public                                                             | Free and public                                                                                                                                               |
 | Additional Notes |                                                                             |                                                                                                                                                               |
 | Link             | [DWS Drinking Water Quality Compliance](https://www.dws.gov.za/niwis2/dwq2) | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=2&DataTopicDetailID=77&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=35) |
 ## Research
