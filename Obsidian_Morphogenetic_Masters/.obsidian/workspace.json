@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
+                "file": "Documentation/Activity Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model"
+              "title": "Activity Log"
             }
           },
           {
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2050",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +115,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,6 +204,7 @@
   },
   "active": "bb04c8c417bc27fa",
   "lastOpenFiles": [
+    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Primary Research/African Centre of Cities (ACC).md",
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
@@ -218,7 +218,6 @@
     "Research Papers/Morphogenetic Programming/Generative models of morphogenesis in developmental biology.md",
     "Research Papers/Smart Cities/Urban Sprawl Modelling Using Cellular Automata.md",
     "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
-    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Research Papers/Smart Cities/Forces shaping urban morphology in Southern Africa Today.md",
     "Research Papers/Smart Cities/Analysing impacts of urban morphological variables on outdoor microclimates.md",
     "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
