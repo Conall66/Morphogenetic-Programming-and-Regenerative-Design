@@ -31,27 +31,36 @@
 
 ### Assessment Criteria
 
-1. Resolution
+1. Geospatial: Is the data offered geospatial or flat?
+2. Resolution: What is the minimum accurate scale for data
+3. Temporal: How far back does the data span?
+4. Categories: How many types of morphology?
+5. Accuracy: What is the confidence level for the data provided (look at sample sizing)
+6. Data Quality: When exported, how much data cleaning will be involved?
+7. Verified: Has the dataset cropped up in previous research?
+8. Reliability: How reliable is the source?
 
 | Features     | GHSL | XXX |
 | ------------ | ---- | --- |
+| Geospatial   |      |     |
 | Resolution   |      |     |
 | Temporal     |      |     |
 | Categories   |      |     |
 | Accuracy     |      |     |
 | Data Quality |      |     |
-| Geospatial   |      |     |
 | Verified     |      |     |
+| Reliability  |      |     |
 ### Population Density
 
 | Features     | Department of Water & Sanitation | XXX |
 | ------------ | -------------------------------- | --- |
-| Resolution   |                                  |     |
+| Geospatial   | Yes                              |     |
+| Resolution   | Municipality                     |     |
 | Temporal     |                                  |     |
 | Accuracy     |                                  |     |
 | Data Quality |                                  |     |
-| Geospatial   |                                  |     |
 | Verified     |                                  |     |
+| Reliability  |                                  |     |
 ### Water Scarcity
 
 | Department of Water & Sanitation | XXX |
