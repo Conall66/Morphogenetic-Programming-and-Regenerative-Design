@@ -7,15 +7,16 @@ mass $m$, desired velocity $v^0_i$, direction $e^0_i$, actual velocity $v_i$, ti
 - Kappa value determines the accuracy of CA model
 
 ### Moore Neighbourhoods
-Extracts information on the neighbouring cells
+Extracts information on **8** neighbouring cells
 ### Von Neumann Neighbourhoods
-
+Extracts information on **4** neighbouring cells
 ### Asynchronous vs Synchronous
 
 - Asynchronous CA models update subsets of the data at one time, allowing for the neighbouring cells to 'react'
 - Synchronous models change at once
 ### Fuzzy Cellular Automata
 
+- Fuzzy states allow the cells to exist in multiple states at once (may be useful for communicating transitioning cells, or uncertainty in the results)
 ### Markov-Informed Cellular Automata
 
 - Markov chains consider the previous states of the cells to determine more interesting patterns
