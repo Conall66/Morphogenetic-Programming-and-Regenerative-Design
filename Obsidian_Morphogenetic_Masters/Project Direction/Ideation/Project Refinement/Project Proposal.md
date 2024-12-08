@@ -34,17 +34,17 @@
 
 ### Morphology
 
-| Features     | GHSL          | SA Stats                                                                                                                                                    |
-| ------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Geospatial   | Yes           | No                                                                                                                                                          |
-| Resolution   | Up to 100m    | Municipality - does not show actual structure                                                                                                               |
-| Temporal     | Epoch 5 Years | 1994 - 2024                                                                                                                                                 |
-| Categories   | Everything    | Urban town, rural village, metropolitan area, working town, farmland, fringe settlements, dense village etc.                                                |
-| Accuracy     | n/a           | n/a                                                                                                                                                         |
-| Data Quality |               | Seemingly 100%                                                                                                                                              |
-| Link         |               | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |
-| Reliability  |               |                                                                                                                                                             |
-| Notes        |               | Info on number of households, household density, number of settlements<br><br>Helpful for verification of results                                           |
+| Features     | GHSL                                                                        | SA Stats                                                                                                                                                    |
+| ------------ | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Geospatial   | Yes                                                                         | No                                                                                                                                                          |
+| Resolution   | Up to 100m                                                                  | Municipality - does not show actual structure                                                                                                               |
+| Temporal     | Epoch 5 Years                                                               | 1994 - 2024                                                                                                                                                 |
+| Categories   | Everything                                                                  | Urban town, rural village, metropolitan area, working town, farmland, fringe settlements, dense village etc.                                                |
+| Accuracy     | Very high - using geospatial satellite imaging and infrared analysis        | n/a                                                                                                                                                         |
+| Data Quality | Unknown                                                                     | Seemingly 100%                                                                                                                                              |
+| Link         | [GHSL](https://human-settlement.emergency.copernicus.eu/visualisation.php#) | [SA Stats](https://ws.dws.gov.za/wsks/spatial_OnTrack_leaf.aspx?SubjectAreaID=1&DataTopicDetailID=3&DisplayTypeId=7&PerspectiveID=0&LvlID=10&DataTopicID=1) |
+| Reliability  | High (European Union body)                                                  |                                                                                                                                                             |
+| Notes        | No knowledge of format for tif data                                         | Info on number of households, household density, number of settlements<br><br>Helpful for verification of results                                           |
 #### Desired Format
 
 | x coordinates | y coordinates | Area | cell state | year |
