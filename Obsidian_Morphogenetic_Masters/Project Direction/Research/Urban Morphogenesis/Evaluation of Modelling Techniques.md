@@ -30,6 +30,9 @@
 - Reinforcement learning punishes/updates transformation rules
 - Integration of ABM (velocities and repulsive/attractive forces)
 - Fuzziness accounts for cell uncertainty
+### Software Aid
+
+- TerrSET Land Change Modeler - 
 ### Accuracy?
 
 
