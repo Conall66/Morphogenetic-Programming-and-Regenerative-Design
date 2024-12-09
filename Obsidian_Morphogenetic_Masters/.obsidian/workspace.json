@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Research/Urban Morphogenesis/Evaluation of Modelling Techniques.md",
+                "file": "Research Papers/Morphogenetic Programming/Crowd Modelling, A Tool for Shaping Urban Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluation of Modelling Techniques"
+              "title": "Crowd Modelling, A Tool for Shaping Urban Design"
+            }
+          },
+          {
+            "id": "129c607bb454004a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Urban growth and water access in sub-Saharan Africa"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,13 +231,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d88568cc680b69c5",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
-    "Project Direction/Ideation/Project Refinement/Project Proposal.md",
+    "Research Papers/Smart Cities/Problem Contextualisation",
+    "Research Papers/Smart Cities/Urban Expansion Simulated by Integrated Cellular Automata and Agent-Based Models.md",
+    "Research Papers/Morphogenetic Programming/Crowd Modelling and Simulation Technologies.md",
+    "Research Papers/Smart Cities/Modelling",
+    "Research Papers/Morphogenetic Programming/Crowd Modelling, A Tool for Shaping Urban Design.md",
     "Project Direction/Research/Urban Morphogenesis/Evaluation of Modelling Techniques.md",
+    "Project Direction/Ideation/Project Refinement/Project Proposal.md",
     "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
     "Project Direction/Technical/Datasets.md",
-    "Research Papers/Smart Cities/Urban Expansion Simulated by Integrated Cellular Automata and Agent-Based Models.md",
     "Key Terms/Morphogenesis/Cellular Automata.md",
     "Research Papers/Smart Cities/Urban Sprawl Modelling Using Cellular Automata.md",
     "Project Direction/Technical/ArcGIS.md",
@@ -235,7 +253,6 @@
     "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
     "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
     "Research Papers/Morphogenetic Programming/Agent based modelling (ABM) of morphogenetic systems.md",
-    "Research Papers/Smart Cities/Crowd Modelling and Simulation Technologies.md",
     "Research Papers/Smart Cities/Urban form and infrastructure, a morphological review (2014).md",
     "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
     "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
@@ -246,9 +263,7 @@
     "Reference Images/ArcGIS Student Plan.png",
     "Reference Images/Urban Morphology tid Visualisation.png",
     "Project Direction/Ideation/Project Refinement/Methodology Summary.md",
-    "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
     "Untitled.canvas",
-    "Documentation/Module Criteria.md",
     "Project Direction/Research/Water",
     "Reference Images/40068_2024_348_Fig2_HTML.webp",
     "Reference Images/UWR article graph v2-01.png",
@@ -264,7 +279,6 @@
     "Research Papers/Smart Cities/Read",
     "Project Direction/Ideation/Project Refinement",
     "Project Direction/Ideation/Project Selection",
-    "Project Direction/Ideation/Project Selection",
-    "Research Papers/Morphogenetic Programming"
+    "Project Direction/Ideation/Project Selection"
   ]
 }
