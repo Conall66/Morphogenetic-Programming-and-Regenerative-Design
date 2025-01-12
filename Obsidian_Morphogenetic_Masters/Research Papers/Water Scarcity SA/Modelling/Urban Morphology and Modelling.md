@@ -14,5 +14,5 @@ This paper discusses the parallels between urban modelling and morphogenesis, an
 
 - M. R. G. Conzen (1960, pp. 3-10) - Study of land use
 - Batty, M. (2005) ‘Agents, cells, and cities: new representational models for simulating multiscale urban dynamics’
-- Luca D'Acci: [[A new type of cities for liveable futures]]
+- Luca D'Acci: [[Cities for liveable futures]]
 

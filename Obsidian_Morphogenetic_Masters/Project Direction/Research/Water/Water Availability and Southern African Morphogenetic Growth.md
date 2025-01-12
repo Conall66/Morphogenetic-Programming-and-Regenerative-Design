@@ -38,7 +38,7 @@ Predictions state that by 2050, 1.5 billion people will live in African cities: 
 
 - Water supply may be managed by the water utility, source water management may sit within national agencies, while management of water assets may sit with the environmental authorities. **Greater integration and coordination across agencies is essential**, and city leaders can harness new ways of working, bringing together actors vertically and horizontally, building local partnerships within cities and fostering integrated solutions across the entire watershed region [As Cities Grow Across Africa, They Must Plan for Water Security](https://www.wri.org/insights/cities-grow-across-africa-they-must-plan-water-security)
 ### Papers (Further Reading)
-- [[Pathways to Transformative Adaptation in South African Cities]]
+- [[Transformative Adaptation in SA]]
 - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change to improve trust
 -  [Transformative or piecemeal? Changes in green space planning and governance in eleven European cities](https://www.tandfonline.com/doi/full/10.1080/09654313.2022.2139594)
  - [Transformative adaptation to climate change for sustainable social-ecological systems](https://www.sciencedirect.com/science/article/pii/S1462901119305337)

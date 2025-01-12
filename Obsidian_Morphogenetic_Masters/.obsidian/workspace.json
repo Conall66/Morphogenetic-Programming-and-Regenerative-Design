@@ -11,88 +11,15 @@
             "id": "d1eaa09b4c8a6763",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Project Direction/Technical/Datasets.md",
-                "mode": "source",
-                "source": false
+                "file": "Reference Images/Table Benefits and Challenges Biomaterials.png"
               },
-              "icon": "lucide-file",
-              "title": "Datasets"
-            }
-          },
-          {
-            "id": "962f7f604e5813aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Key Terms/Morphogenesis/Cellular Automata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cellular Automata"
-            }
-          },
-          {
-            "id": "d88568cc680b69c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Papers/Morphogenetic Programming/Crowd Modelling, A Tool for Shaping Urban Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Crowd Modelling, A Tool for Shaping Urban Design"
-            }
-          },
-          {
-            "id": "129c607bb454004a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Papers/Smart Cities/Urban growth and water access in sub-Saharan Africa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Urban growth and water access in sub-Saharan Africa"
-            }
-          },
-          {
-            "id": "3e5e24ad22f7a3c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model"
-            }
-          },
-          {
-            "id": "cef63e70a747f58b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Direction/Ideation/Project Refinement/Project Proposal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Proposal"
+              "icon": "lucide-image",
+              "title": "Table Benefits and Challenges Biomaterials"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GIS",
+                "query": "morphogenesis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50247192382812
+    "width": 262.5024719238281
   },
   "right": {
     "id": "8a08806db67fb752",
@@ -231,38 +158,39 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6a8b7dec1e3f1550",
+  "active": "d1eaa09b4c8a6763",
   "lastOpenFiles": [
-    "Research Papers/Smart Cities/Problem Contextualisation",
-    "Research Papers/Smart Cities/Urban Expansion Simulated by Integrated Cellular Automata and Agent-Based Models.md",
-    "Research Papers/Morphogenetic Programming/Crowd Modelling and Simulation Technologies.md",
-    "Research Papers/Smart Cities/Modelling",
-    "Research Papers/Morphogenetic Programming/Crowd Modelling, A Tool for Shaping Urban Design.md",
-    "Project Direction/Research/Urban Morphogenesis/Evaluation of Modelling Techniques.md",
-    "Project Direction/Ideation/Project Refinement/Project Proposal.md",
-    "Research Papers/Smart Cities/Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model.md",
-    "Project Direction/Technical/Datasets.md",
-    "Key Terms/Morphogenesis/Cellular Automata.md",
-    "Research Papers/Smart Cities/Urban Sprawl Modelling Using Cellular Automata.md",
-    "Project Direction/Technical/ArcGIS.md",
-    "Cellular Automata.md",
-    "Research Papers/Morphogenetic Programming/Generative models of morphogenesis in developmental biology.md",
-    "Key Terms/Morphogenesis/CLUE-S Model.md",
+    "Reference Images/KondorWessels-Vastgoed_Habitat-Royale_benedenaanzicht_render-WAX.jpg",
+    "Research Papers/Biomaterials and Regenerative Design/Microbial self-healing in concrete.md",
+    "Research Papers/Biomaterials and Regenerative Design/Bio-mimetic building envelopes.md",
+    "Research Papers/Biomaterials and Regenerative Design/Biomaterials in the building sector.md",
+    "Research Papers/Water Scarcity SA/Modelling/Integrated Cellular Automata and ABM.md",
+    "Research Papers/Water Scarcity SA/Modelling/Urban sprawl ML, CA-Markov chain.md",
+    "Research Papers/Water Scarcity SA/Modelling/Urban Sprawl Modelling Using CA.md",
+    "Research Papers/Water Scarcity SA/Modelling/Agents cells and cities.md",
+    "Research Papers/Water Scarcity SA/Modelling/Cities for liveable futures.md",
+    "Research Papers/Water Scarcity SA/Modelling/Flourishing Systems CCSIC.md",
+    "Research Papers/Water Scarcity SA/Modelling/Urban Morphology and Modelling.md",
+    "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Urban Planning.md",
+    "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Programming/Crowd Modelling and Simulation Tech.md",
+    "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Programming/Crowd Modelling for Shaping Urban Design.md",
+    "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Programming/Morphogenesis in biology.md",
+    "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Programming/ABM of morphogenetic systems.md",
+    "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Programming/Morphogenesis in Synthetic Biology.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Urban Sprawl Microclimates.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Transformative Adaptation in SA.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Trade-offs between SDGs in systems of cities.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Urban form and infrastructure (2014).md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Urban Trajectories in SA.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Forces shaping urban morphology in SA.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Water Scarcity and Urban Growth.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Urban growth and water access in SSA.md",
+    "Documentation/Key Performance Indicies.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation",
+    "Research Papers/Water Scarcity SA/Modelling",
     "Reference Images/Overview-of-the-CLUE-s-modelling-procedure.png",
-    "Key Terms/Morphogenesis/Morphological Settlement Zone.md",
-    "Research Papers/Smart Cities/A new type of cities for liveable futures.md",
-    "Research Papers/Smart Cities/Trade-offs between sustainable development goals in systems of cities.md",
-    "Research Papers/Morphogenetic Programming/Agent based modelling (ABM) of morphogenetic systems.md",
-    "Research Papers/Smart Cities/Urban form and infrastructure, a morphological review (2014).md",
-    "Research Papers/Smart Cities/Pathways to Transformative Adaptation in South African Cities.md",
-    "Research Papers/Smart Cities/The trajectories of urbanisation in Southern Africa.md",
-    "Research Papers/Smart Cities/Analysing impacts of urban morphological variables on outdoor microclimates.md",
-    "Research Papers/Smart Cities/Forces shaping urban morphology in Southern Africa Today.md",
-    "Documentation/Gateway 1 Narrative.md",
-    "Documentation/Workflow.md",
     "Reference Images/ArcGIS Student Plan.png",
     "Reference Images/Urban Morphology tid Visualisation.png",
-    "Project Direction/Ideation/Project Refinement/Methodology Summary.md",
     "Untitled.canvas",
     "Project Direction/Research/Water",
     "Reference Images/40068_2024_348_Fig2_HTML.webp",
@@ -278,7 +206,6 @@
     "Untitled 1",
     "Research Papers/Smart Cities/Read",
     "Project Direction/Ideation/Project Refinement",
-    "Project Direction/Ideation/Project Selection",
     "Project Direction/Ideation/Project Selection"
   ]
 }

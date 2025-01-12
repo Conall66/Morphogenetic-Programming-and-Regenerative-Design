@@ -51,7 +51,7 @@ The paper assesses different measures takes to improve water quality in Harare a
  - [The role of adaptive capacity in incremental and transformative adaptation in three large U.S. Urban water systems](https://www.sciencedirect.com/science/article/pii/S0959378023000158)- demonstrates the importance of small projects for tackling climate change to improve trust
  - [Transformative or piecemeal? Changes in green space planning and governance in eleven European cities](https://www.tandfonline.com/doi/full/10.1080/09654313.2022.2139594)
  - [Transformative adaptation to climate change for sustainable social-ecological systems](https://www.sciencedirect.com/science/article/pii/S1462901119305337)
- - [[The trajectories of urbanisation in Southern Africa]]
+ - [[Urban Trajectories in SA]]
 ## Musings
 
 - Develop a model that shows how population density around key waterways will change in future as scarcity increases

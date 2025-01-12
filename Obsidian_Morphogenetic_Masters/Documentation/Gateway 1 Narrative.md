@@ -15,12 +15,12 @@
 - Break down the meaning of morphogenesis and urban sprawl
 - Highlight the importance of modelling urban sprawl, and how growth mechanisms vary based on size (densification vs rapid expansion)
 - Outline findings of existing research
-	- [[Urban sprawl dynamics using ML, CA-Markov chain, and the Shannon entropy model]]
-	- [[Forces shaping urban morphology in Southern Africa Today]]
-	- [[The trajectories of urbanisation in Southern Africa]]
-	- [[Pathways to Transformative Adaptation in South African Cities]]
+	- [[Urban sprawl ML, CA-Markov chain]]
+	- [[Forces shaping urban morphology in SA]]
+	- [[Urban Trajectories in SA]]
+	- [[Transformative Adaptation in SA]]
 	- [[Agents cells and cities]]
-	- [[Bridging the gap between urban morphology and urban modelling]]
+	- [[Urban Morphology and Modelling]]
 
 ## Methodology
 

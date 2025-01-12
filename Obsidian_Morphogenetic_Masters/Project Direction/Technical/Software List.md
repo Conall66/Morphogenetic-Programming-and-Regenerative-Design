@@ -12,7 +12,7 @@
 
 ## Agent Based Models
 
-[[Crowd Modelling and Simulation Technologies]]
+[[Crowd Modelling and Simulation Tech]]
 
 ### Crowd Modelling
 - ~~MASSIVE~~ - not much information on technical details of model, mainly for animation, difficult to adapt

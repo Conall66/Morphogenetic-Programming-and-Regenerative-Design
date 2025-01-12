@@ -1,7 +1,7 @@
 ## Existing Research
 
-- [[Crowd Modelling, A Tool for Shaping Urban Design]]
-- [[Crowd Modelling and Simulation Technologies]]
+- [[Crowd Modelling for Shaping Urban Design]]
+- [[Crowd Modelling and Simulation Tech]]
 ## Data Availability
 
 ## Model Evaluation

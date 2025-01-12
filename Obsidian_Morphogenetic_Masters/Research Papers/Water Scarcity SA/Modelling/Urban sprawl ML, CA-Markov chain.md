@@ -9,7 +9,7 @@ The study investigates urban sprawl in Mbombela, South Africa, from 2003 to 2033
 - Used NASA geospatial imaging satellite to categorise morphology (LANDSAT) 
 - Sub-Saharan Africa (SSA) will account for 50% of global population growth by 2050
 - Improper urban land use planning has significantly impacted the loss of potentially productive agricultural land
-- Machine learning models ([[Project Direction/Technical/Clue-S model]]) are more accurate than [[Agent based modelling (ABM) of morphogenetic systems]] is a small scale study 
+- Machine learning models ([[Project Direction/Technical/Clue-S model]]) are more accurate than [[ABM of morphogenetic systems]] is a small scale study 
 - SVM model separates support vectors into a hyperplane {...} The Gaussian radial basis function (RBF) outperformed the other two kernel types in performance and stability
 - McNemar's test for evaluating maps against one another
 - the SVM model exhibited an overall accuracy ranging from 96 to 99%
