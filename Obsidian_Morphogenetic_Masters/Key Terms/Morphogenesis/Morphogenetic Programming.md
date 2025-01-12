@@ -9,7 +9,7 @@ Inspired by the processes of biological growths (morphogenesis), morphogenetic p
 ## Where is it Useful?
 
 - Construction and architecture [[Regenerative Design Intro]]
-- [[Functional Structural Plant Modelling (FSPM) models]] for determining/predicting crop yields
+- [[FSPM]] for determining/predicting crop yields
 - Urban planning [[Smart Cities and Regenerative Design]]
 - Furniture
 ## Approaches

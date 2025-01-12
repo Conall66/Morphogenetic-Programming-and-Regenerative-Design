@@ -13,7 +13,7 @@
 Many companies seem to be using bio-materials to develop insulation etc. - nothing for construction purposes
 
 - [Biomason](https://biomason.com/) - calcium carbonate cement (no live modelling software)
-- [[Functional Structural Plant Modelling (FSPM) models]] are often used to estimate crop yields rather than biomaterials
+- [[FSPM]] are often used to estimate crop yields rather than biomaterials
 - 
 
 
