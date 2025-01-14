@@ -4,9 +4,10 @@
 - Evaluates existing and planned future water distribution networks (WDNs)
 - Assesses step by step stress levels with anticipated demand/loss in different scenarios
 - Highlights critical nodes
-- 
 ## Key Points
 
+### Methodology
+![[Entropy Model Urban Water Netowrks.jpg | 400]]
 ## Limitations
 
 ## Software
