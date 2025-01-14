@@ -6,6 +6,8 @@
 - Highlights critical nodes
 ## Key Points
 
+- Previous studies proved the high co-location between road and urban infrastructure networks, where about 80% of WDNs are located below 50% of the road networks (**we can assume then that most water ways are embedded below future road networks**)
+
 ### Methodology
 ![[Entropy Model Urban Water Netowrks.jpg | 400]]
 ## Limitations
