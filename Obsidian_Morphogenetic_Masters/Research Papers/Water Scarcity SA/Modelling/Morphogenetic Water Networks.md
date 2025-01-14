@@ -15,8 +15,12 @@
 ![[Entropy Model Urban Water Netowrks.jpg | 400]]
 ## Limitations
 
+- Stochastic predictions based on uncertainty of water network
+- Applied without prediction on morphological change
+- Does not explore implications on transport networks by optimising for water distributions and pipe sizing
+
 ## Software
 
 - **Dynamind** - an open source software written in C++ and developed at the Unit for Environmental Engineering of the University of Innsbruck. The software contains (1) a spanning tree based algorithm for designing a minimal operating new network layout, (2) an algorithm to create a cyclic structure for the purpose of network reliability and (3) an automated pipe-sizing algorithm to create WDN based on geographic information system (GIS) data as input
-- EPANET2 
+- **EPANET2** - Simulates peak demand and low water usage for each node in the system
 
