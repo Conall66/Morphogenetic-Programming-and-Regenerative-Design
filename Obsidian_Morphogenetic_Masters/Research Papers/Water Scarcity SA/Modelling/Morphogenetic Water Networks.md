@@ -8,9 +8,15 @@
 
 - Previous studies proved the high co-location between road and urban infrastructure networks, where about 80% of WDNs are located below 50% of the road networks (**we can assume then that most water ways are embedded below future road networks**)
 
+![[Road networks and waterways.jpg]]
+
+- 
 ### Methodology
 ![[Entropy Model Urban Water Netowrks.jpg | 400]]
 ## Limitations
 
 ## Software
+
+- **Dynamind** - an open source software written in C++ and developed at the Unit for Environmental Engineering of the University of Innsbruck. The software contains (1) a spanning tree based algorithm for designing a minimal operating new network layout, (2) an algorithm to create a cyclic structure for the purpose of network reliability and (3) an automated pipe-sizing algorithm to create WDN based on geographic information system (GIS) data as input
+- EPANET2 
 
