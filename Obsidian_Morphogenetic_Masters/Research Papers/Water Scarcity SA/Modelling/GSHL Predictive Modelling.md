@@ -51,8 +51,8 @@ each of these data products is discussed in full detail in Section 2.
 
 ## Input Data
 
-
-
+- GSHL - Pop and GSHL for populations and built up land
+- Geospatial development mask precludes land from development as a function of elevation, slope, surface water and protectionism (see )
 ## SSP
 
 The five SSPs span a wide range of possible future development pathways and
