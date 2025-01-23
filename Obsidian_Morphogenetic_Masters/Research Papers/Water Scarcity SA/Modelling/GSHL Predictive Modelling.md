@@ -51,3 +51,16 @@ each of these data products is discussed in full detail in Section 2.
 
 ## Input Data
 
+
+
+## SSP
+
+The five SSPs span a wide range of possible future development pathways and
+describe trends in demographics, human development, economy and lifestyle, policies
+and institutions, technology, and environment and natural resources. Trends are
+described for three broad country groups from the present through the end of the
+century...
+
+SSP2 represents the expected global development
+
+![[shared-socioeconomic-pathways-1000x761.jpg|300]]
