@@ -48,11 +48,12 @@ developed (i.e., through man-made structures or buildings). The starting point f
 these scenarios is the observed spatial distribution of the built-up land in 2014 at 1km
 resolution as characterized by the 2014 GHSL data. The process of developing
 each of these data products is discussed in full detail in Section 2.
-
 ## Input Data
 
 - GSHL - Pop and GSHL for populations and built up land
-- Geospatial development mask precludes land from development as a function of elevation, slope, surface water and protectionism (see )
+- Geospatial development mask precludes land from development as a function of elevation, slope, surface water and protectionism (see [Geo-development Mask](https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084003) )
+- [ESRI Water Bodies Dataset](https://www.arcgis.com/home/item.html?id=e750071279bf450cbd510454a80f2e63)
+- 
 ## SSP
 
 The five SSPs span a wide range of possible future development pathways and
