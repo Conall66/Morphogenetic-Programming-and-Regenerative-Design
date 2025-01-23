@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bcea61fdc0f9b2e0",
+  "active": "fc02f2f7c3a8076a",
   "lastOpenFiles": [
-    "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Water Networks.md",
     "Documentation/Activity Log.md",
+    "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Water Networks.md",
     "Research Papers/Water Scarcity SA/Modelling/Urban sprawl ML, CA-Markov chain.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Municipal Water Shortage.md",
     "Research Papers/Water Scarcity SA/Modelling/Urban Morphology and Modelling.md",
