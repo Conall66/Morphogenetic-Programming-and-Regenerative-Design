@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "UN SDGs Comparison"
             }
+          },
+          {
+            "id": "35ce8ee8ba1881b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,10 +213,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7d46b01edfb902bc",
+  "active": "35ce8ee8ba1881b4",
   "lastOpenFiles": [
-    "Research Papers/Water Scarcity SA/Problem Contextualisation/Trade-offs between SDGs in systems of cities.md",
     "Project Direction/Ideation/Project Refinement/UN SDGs Comparison.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Trade-offs between SDGs in systems of cities.md",
     "Primary Research/Primary Sources.md",
     "Key Terms/Morphogenesis/Degree of Urbanisation.md",
     "Research Papers/Water Scarcity SA/Modelling/GSHL Predictive Modelling.md",
