@@ -10,6 +10,7 @@
 
 ![[Water Consumption by Use.png]]
 
+![[Water Supply Cape.png | 500]]
 
 
 
