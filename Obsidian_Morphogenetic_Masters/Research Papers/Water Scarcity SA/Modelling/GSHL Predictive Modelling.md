@@ -65,6 +65,13 @@ empirical record to project what the future world might look like if observed sp
 explicit mathematical regularities continue. Future work could extend this (or another
 similar) approach to better assess the drivers of change in population and the built-
 environment.
+
+### Mathematics
+
+![[Gravity Based Maths.png]]
+![[Gravity Maths 2.png]]
+
+
 ## Input Data
 
 - GSHL - Pop and GSHL for populations and built up land
