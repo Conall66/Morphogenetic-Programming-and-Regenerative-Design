@@ -8,6 +8,11 @@
 - Projects targeting water demand typically yield faster results with low investment cost when compared with increasing water supply
 - The South African government has drastically risen tariffs on water consumption since the Day Zero disaster
 
+![[Water Consumption by Use.png]]
+
+
+
+
 ### Definitions
 
 - **Day Zero:** The estimated day on which reservoir levels supplying Cape Town fall below 13.5% of capacity - early 2018 estimated Cape Town would run out of water
