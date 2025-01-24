@@ -11,9 +11,7 @@
 ![[Water Consumption by Use.png]]
 
 ![[Water Supply Cape.png | 500]]
-
-
-
+- Non-surface water (such as groundwater) is consistently more expensive compared with rain-fed dams (R12 ($0.84) per 1000 litres (264.2 gallons) compared with R5 ($0.35) per 1000 litres (264.2 gallons). Surface water will likely remain the dominant source for Cape Town.
 ### Definitions
 
 - **Day Zero:** The estimated day on which reservoir levels supplying Cape Town fall below 13.5% of capacity - early 2018 estimated Cape Town would run out of water
@@ -22,3 +20,7 @@
 ## Limitations
 
 ## Further Research
+
+- Integrated Water Resource Planning Report
+- Ninham Shand, UWP Consulting. Western Cape Water Supply System Reconciliation Strategy Study. 2007
+- 
