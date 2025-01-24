@@ -19,8 +19,9 @@
 - **Indigent Households:** Households consisting of residents lacking the necessities of life, including sufficient water and basic sanitation
 ## Limitations
 
+- Paper does not demonstrate computational scenarios/outcomes of water investment going forward
+
 ## Further Research
 
 - Integrated Water Resource Planning Report
 - Ninham Shand, UWP Consulting. Western Cape Water Supply System Reconciliation Strategy Study. 2007
-- 
