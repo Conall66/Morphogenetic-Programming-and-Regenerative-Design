@@ -71,8 +71,6 @@ environment.
 ![[Gravity Based Maths.png|500]]
 ![[Gravity Maths 2.png|500]]
 
-
-
 ## Input Data
 
 - GSHL - Pop and GSHL for populations and built up land
@@ -90,3 +88,8 @@ century...
 SSP2 represents the expected global development
 
 ![[shared-socioeconomic-pathways-1000x761.jpg|300]]
+
+## Conclusion
+
+- This model effectively uses linear regression to predict whether any individual cell will change, according the the governing equation above which considers distance to other cells and the broader trend of urban growth patterns
+- This is conducted only on SSP2
