@@ -48,12 +48,29 @@ developed (i.e., through man-made structures or buildings). The starting point f
 these scenarios is the observed spatial distribution of the built-up land in 2014 at 1km
 resolution as characterized by the 2014 GHSL data. The process of developing
 each of these data products is discussed in full detail in Section 2.
+
+### Strengths and Weaknesses of Gravity Based Model
+
+Gravity-type models are particular well-suited to **capturing and
+modelling broad trends in spatial data**. As such, this approach will allow the user to
+specify a model that will replicate commonly observed patterns such as dispersion or
+concentration. Additionally, added complexity will allow for some assessment of local
+deviation from broad trends through examination of covariates. However, here we are
+only considering the influence of population and built-infrastructure on one another as
+evidenced by their co-variance over time. More simply, we are taking advantage of
+observed regularities in the co-evolution in population and built-up land to project
+both into the future. As such, **this model does not allow us to specifically comment on
+the drivers of population and/or built-up land change**. Instead, we are using the
+empirical record to project what the future world might look like if observed spatially
+explicit mathematical regularities continue. Future work could extend this (or another
+similar) approach to better assess the drivers of change in population and the built-
+environment.
 ## Input Data
 
 - GSHL - Pop and GSHL for populations and built up land
 - Geospatial development mask precludes land from development as a function of elevation, slope, surface water and protectionism (see [Geo-development Mask](https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084003) )
 - [ESRI Water Bodies Dataset](https://www.arcgis.com/home/item.html?id=e750071279bf450cbd510454a80f2e63)
-- 
+- National and territorial boundaries are taken from the Global Administrative Areas database
 ## SSP
 
 The five SSPs span a wide range of possible future development pathways and
