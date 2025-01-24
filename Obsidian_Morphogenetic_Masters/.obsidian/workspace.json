@@ -67,10 +67,14 @@
             "id": "35ce8ee8ba1881b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ICL - Day Zero Cape.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ICL - Day Zero Cape"
             }
           }
         ],
@@ -215,6 +219,7 @@
   },
   "active": "35ce8ee8ba1881b4",
   "lastOpenFiles": [
+    "ICL - Day Zero Cape.md",
     "Project Direction/Ideation/Project Refinement/UN SDGs Comparison.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Trade-offs between SDGs in systems of cities.md",
     "Primary Research/Primary Sources.md",
@@ -245,7 +250,6 @@
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Transformative Adaptation in SA.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Urban form and infrastructure (2014).md",
     "Key Terms/Morphogenesis/Definition of Morphogenesis.md",
-    "Key Terms/Morphogenesis/Zipf's Law.md",
     "Reference Images/Stigmergic Ecologies.jpg",
     "Reference Images/Share of Building Construction.png",
     "Reference Images/Table Benefits and Challenges Biomaterials.png",
