@@ -68,8 +68,9 @@ environment.
 
 ### Mathematics
 
-![[Gravity Based Maths.png]]
-![[Gravity Maths 2.png]]
+![[Gravity Based Maths.png|500]]
+![[Gravity Maths 2.png|500]]
+
 
 
 ## Input Data
