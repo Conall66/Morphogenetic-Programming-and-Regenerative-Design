@@ -5,7 +5,8 @@
 ## Key Points
 
 - The Western Cape Water Supply System (WCWSS) supplies water from these reservoirs via its distribution networks16 . When water restrictions have not applied, around 70% of the water supplied by WCWSS is allocated to urban and industrial users, with 30% for agricultural use.
-- 
+- Projects targeting water demand typically yield faster results with low investment cost when compared with increasing water supply
+- The South African government has drastically risen tariffs on water consumption since the Day Zero disaster
 
 ### Definitions
 
