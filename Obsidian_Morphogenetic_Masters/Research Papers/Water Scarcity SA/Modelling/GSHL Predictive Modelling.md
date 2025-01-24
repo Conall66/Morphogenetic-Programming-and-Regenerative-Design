@@ -92,4 +92,5 @@ SSP2 represents the expected global development
 ## Conclusion
 
 - This model effectively uses linear regression to predict whether any individual cell will change, according the the governing equation above which considers distance to other cells and the broader trend of urban growth patterns
-- This is conducted only on SSP2
+- This is conducted on all SSP scenarios
+- Ran on two case studies: Nigeria and Germany
