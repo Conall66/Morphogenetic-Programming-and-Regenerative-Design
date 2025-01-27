@@ -1,4 +1,6 @@
 
+**Use CA-Markov Chains to model ci**
+
 1. Use gravity based downscaling approach to determine the governing factors behind different types of growth in South Africa (i.e. population, potential earnings in informal settlements, urban centres etc.)
 	1. Specifically predict urban sprawl for informal settlements
 2. More interactive platform for monitoring city growth, assessing the prevalence of informal settlements, road and water infrastructure etc.
