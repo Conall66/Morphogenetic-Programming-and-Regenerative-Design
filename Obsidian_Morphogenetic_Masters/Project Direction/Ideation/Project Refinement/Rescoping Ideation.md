@@ -1,5 +1,7 @@
 
-**Use CA-Markov Chains to model ci**
+**Use CA-Markov Chains to model city expansion as a function of the population growth, modelled on predictions. Outline how city expansion will result in water scarcity, particularly for those in fringe settlements of the city. Propose allocation of investment accordingly, and model the impact.**
+
+## Options
 
 1. Use gravity based downscaling approach to determine the governing factors behind different types of growth in South Africa (i.e. population, potential earnings in informal settlements, urban centres etc.)
 	1. Specifically predict urban sprawl for informal settlements
@@ -12,11 +14,11 @@
 - This will result in rapid city growth, whether that occurs through densification or urban sprawl
 - Likely, this rapid population growth will 
 
-### What to Aim For
+## What to Aim For
 
 - Multiple studies showing continual growth for a particular case study, following the SSP outcomes
 
-### Potential Approach
+## Potential Approach
 
 1. Assess the impact of rapid population growth on urban sprawl
 2. Assess the disadvantages of urban sprawl, particularly for informal settlements
