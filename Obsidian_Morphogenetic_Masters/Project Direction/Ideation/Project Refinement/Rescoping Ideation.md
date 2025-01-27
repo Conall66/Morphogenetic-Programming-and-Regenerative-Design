@@ -18,4 +18,5 @@
 
 1. Assess the impact of rapid population growth on urban sprawl
 2. Assess the disadvantages of urban sprawl, particularly for informal settlements
-3. Model urban sprawl as a function of the population
+3. Model urban development/morphology as a function of the population
+4. Model projected water scarcity as a function of wealth inequality - map wealth inequality to water scarcity
