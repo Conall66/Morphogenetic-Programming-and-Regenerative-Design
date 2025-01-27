@@ -13,4 +13,9 @@
 ### What to Aim For
 
 - Multiple studies showing continual growth for a particular case study, following the SSP outcomes
-- 
+
+### Potential Approach
+
+1. Assess the impact of rapid population growth on urban sprawl
+2. Assess the disadvantages of urban sprawl, particularly for informal settlements
+3. Model urban sprawl as a function of the population
