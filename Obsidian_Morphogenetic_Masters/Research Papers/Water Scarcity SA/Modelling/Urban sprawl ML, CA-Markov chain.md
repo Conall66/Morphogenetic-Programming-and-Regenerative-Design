@@ -15,6 +15,11 @@ The study investigates urban sprawl in Mbombela, South Africa, from 2003 to 2033
 - the SVM model exhibited an overall accuracy ranging from 96 to 99%
 
 ![[40068_2024_348_Fig2_HTML.webp]]
+
+### Why Use CA-Markov?
+
+
+
 ## Limitations
 
 ## Datasets
