@@ -9,3 +9,8 @@
 - Urban populations are set to drastically spike between now and 2050 in sub-Saharan Africa
 - This will result in rapid city growth, whether that occurs through densification or urban sprawl
 - Likely, this rapid population growth will 
+
+### What to Aim For
+
+- Multiple studies showing continual growth for a particular case study, following the SSP outcomes
+- 
