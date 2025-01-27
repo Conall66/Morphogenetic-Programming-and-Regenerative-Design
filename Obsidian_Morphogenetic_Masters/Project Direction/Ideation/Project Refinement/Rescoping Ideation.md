@@ -1,4 +1,6 @@
 
 1. Use gravity based downscaling approach to determine the governing factors behind different types of growth in South Africa (i.e. population, potential earnings in informal settlements, urban centres etc.)
 	1. Specifically predict urban sprawl for informal settlements
-2. More interactive platform for uploading 
+2. More interactive platform for monitoring city growth, assessing the prevalence of informal settlements, road and water infrastructure etc.
+3. Assess the value of large scale water infrastructure investments vs gravity based alternatives from quality of life PoV - identifying where to optimally situate these
+4. 
