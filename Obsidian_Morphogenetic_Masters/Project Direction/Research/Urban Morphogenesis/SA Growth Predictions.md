@@ -18,6 +18,12 @@ The team is embarking on three initiatives to expand and enhance the intra-settl
 2. Extending the model across South Africa’s borders into directly neighbouring SADC countries to support decision making on intra-country migration, movement and shared country resource consumption.
 
 3. The current model is based on macro demographic models. To support scenario testing of planning and decision-making interventions, explicit push-pull factors need to be included in the model. Typical SA driving forces that need to be considered to undertake scenario planning are the impact that climate change, water availability, economic growth, infrastructure investment, service delivery and major government interventions will have on people’s movement patterns and the resultant growth/decline of settlements.
+
+### Economic Scenarios and Population Growth
+
+![[Economic Drivers for Growth.png | 300]] ![[Results of Economic Influence for Growth.png | 300]]
+
+
 ## Limitations
 
 - This website/research outlines what projected population growth and morphological growth mechanisms will look like provided no intervention whatsoever - can we create a mode showing the impact of certain investment (i.e. water infrastructure)
