@@ -11,7 +11,18 @@
 
 ![[Predicting Growth Methodology.png]]
 
+The team is embarking on three initiatives to expand and enhance the intra-settlement growth model:
+
+1. Making the model more dynamic and interactive, thereby allowing users to test various scenarios based on different policy and investment interventions at a national level. This interactive model will allow users to test national, provincial and regional policies and investment interventions in an online interactive platform.
+
+2. Extending the model across South Africa’s borders into directly neighbouring SADC countries to support decision making on intra-country migration, movement and shared country resource consumption.
+
+3. The current model is based on macro demographic models. To support scenario testing of planning and decision-making interventions, explicit push-pull factors need to be included in the model. Typical SA driving forces that need to be considered to undertake scenario planning are the impact that climate change, water availability, economic growth, infrastructure investment, service delivery and major government interventions will have on people’s movement patterns and the resultant growth/decline of settlements.
 ## Limitations
+
+- This website/research outlines what projected population growth and morphological growth mechanisms will look like provided no intervention whatsoever - can we create a mode showing the impact of certain investment (i.e. water infrastructure)
+- Build responsive models that continually update following migration patterns etc. - project infinitely into the future
+- Build a more computationally efficient machine learning approach?
 
 ## Further Notes
 
