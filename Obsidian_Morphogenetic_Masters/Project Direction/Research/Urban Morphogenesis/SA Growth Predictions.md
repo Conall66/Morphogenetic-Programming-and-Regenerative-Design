@@ -12,4 +12,4 @@ The objective of the research was to explicitly project the growth and decline o
 
 ## Further Notes
 
-[[Predicting Growth of Future SA Settlements]]
+[[Projecting Growth of Future SA Settlements]]
