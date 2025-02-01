@@ -6,3 +6,4 @@
 	- Threshold uncertainty value [25]%
 - Categorise fringe settlements from urban settlements and monitor the differences in growth rates between them
 - Follow the different SSP guidelines for population growth and predicted, worst case and best case climate scenarios
+- Outline existing water infrastructure map 
