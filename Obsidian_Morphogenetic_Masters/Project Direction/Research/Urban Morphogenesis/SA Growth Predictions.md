@@ -23,6 +23,7 @@ The team is embarking on three initiatives to expand and enhance the intra-settl
 - This website/research outlines what projected population growth and morphological growth mechanisms will look like provided no intervention whatsoever - can we create a mode showing the impact of certain investment (i.e. water infrastructure)
 - Build responsive models that continually update following migration patterns etc. - project infinitely into the future
 - Build a more computationally efficient machine learning approach?
+- Extend this approach for gravity based downscaling to other countries?
 
 ## Further Notes
 
