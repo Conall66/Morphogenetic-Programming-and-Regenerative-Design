@@ -47,6 +47,9 @@
 
 ## Additional Questions
 
+- Is it better to invest in upgrading slums/fringe settlements or upgrade water infrastructure
+- Why is the population in South Africa set to rise so drastically?
+
 
 ________________________________________________________________________
 
@@ -54,3 +57,6 @@ ________________________________________________________________________
 ## Alternative Suggestion
 
 - Reinforcement learning model governed by the same constraints (i.e. urban centres can not just emerge from nowhere - must be connected to existing infrastructure, must avoid borders, bodies of water etc.) and rewarded as it minimises transport distance, wealth inequality, water 
+	- Grid based categorisation of landscape (geospatial mask for natural resources, borders etc.) with road network? topography?
+	- Agents have the option to expand the city outwards, build up existing land, develop water infrastructure etc. (budget cost must be assigned per time step)
+	- Penalties: infringing on natural resources, increasing travel distance, expanding into flood prone areas, 
