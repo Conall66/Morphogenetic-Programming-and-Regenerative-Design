@@ -17,9 +17,7 @@ file:///C:/Users/conal/Downloads/paper65-1.pdf
 
 $Y_i^k = f\{Y_i, X_i, \Gamma_i, \epsilon_i^k\}$ - this model is missing the positive feedback mechanism of growth
 
-- Instead, small scale growth can be categorised through an action/reaction term, a diffusion term and an error term
-
-
+- Population density is measured as a function of distance to workplace and friction in 
 
 
 
