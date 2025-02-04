@@ -17,7 +17,10 @@ Visualisation of cellular data
 
 ## Population Density
 
-[Department of Statistics SA](https://www.statssa.gov.za/) -population by municipality
+- [Department of Statistics SA](https://www.statssa.gov.za/) -population by municipality
+- [Worldpop](https://www.worldpop.org/) - use a bottom up dataset: Here, sample data from as many trustworthy and recent survey datasets as possible are used with detailed geospatial datasets to build a statistical model to estimate population numbers and age/sex breakdowns in unsampled locations, together with measurements of uncertainty. This approach can also be used to fill gaps in a census where full enumeration is not possible due to conflict, poor access or financial limitations
+- 
+
 ## Water Sanitation
 
 [DWS Population with Reliable Water](https://www.dws.gov.za/niwis2/WaterSupplyReliability?AspxAutoDetectCookieSupport=1) - The data is extracted via Macro Planning processes and procedures directly from the Water Services Knowledge System database
