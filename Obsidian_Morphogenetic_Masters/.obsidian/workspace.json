@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Projecting Growth of Future SA Settlements"
             }
+          },
+          {
+            "id": "21bf3b0842a95d98",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -160,7 +174,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fb51cb8f190fd708",
+  "active": "21bf3b0842a95d98",
   "lastOpenFiles": [
     "Project Direction/Research/Urban Morphogenesis/SA Growth Predictions.md",
     "Reference Images/Results of Economic Influence for Growth.png",
