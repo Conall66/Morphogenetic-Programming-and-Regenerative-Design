@@ -15,12 +15,12 @@ Visualisation of cellular data
 - [Access to Water by Municipalities Time Series](https://www.dws.gov.za/niwis2/Sanitation/AccessToServices) - Information on access to sanitised water backlog on population by municipality over time (can use population information to show rate of migration towards urban environments)
 - [Urbanisation Over Time SA - Office for National Statistics](https://www.statista.com/statistics/1226106/urbanization-rate-in-africa/) - for the whole of SA rather than by region
 - [Settlement Data WorldPop](https://hub.worldpop.org/geodata/summary?id=17253) - available in 1 year increments from 2001 - 2020 but only has binary value (0-1)
-- 
 
 ## Population Density
 
 - [Department of Statistics SA](https://www.statssa.gov.za/) -population by municipality
-- [Worldpop](https://www.worldpop.org/) - use a bottom up dataset: Here, sample data from as many trustworthy and recent survey datasets as possible are used with detailed geospatial datasets to build a statistical model to estimate population numbers and age/sex breakdowns in unsampled locations, together with measurements of uncertainty. This approach can also be used to fill gaps in a census where full enumeration is not possible due to conflict, poor access or financial limitations
+- [Worldpop](https://www.worldpop.org/) - use a bottom up dataset: Here, sample data from as many trustworthy and recent survey datasets as possible are used with detailed geospatial datasets to build a statistical model to estimate population numbers and age/sex breakdowns in unsampled locations, together with measurements of uncertainty. This approach can also be used to fill gaps in a census where full enumeration is not possible due to conflict, poor access or financial limitations - **1km resolution, all of South Africa, 2000 - 2020 (1 year increments)**
+	- Limitations with global super-resolution population mapping efforts, such as WorldPop, stem from limited spatial coverage and resolution and acquisition period misalignment of input data (Lloyd et al., 2017)
 - 
 
 ## Water Sanitation
