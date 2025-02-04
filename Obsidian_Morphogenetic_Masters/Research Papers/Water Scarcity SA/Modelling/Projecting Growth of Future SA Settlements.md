@@ -16,6 +16,7 @@
 - The main components of population change are **births, deaths and migration**
 - Weeks (2012) argues that internal migration can change population size and distribution at a subnational level far more rapidly than either mortality or fertility
 - Chi & Marcouiller (2011) noted that the most important economic factors that influence the migration of the working age population are income and employment
+- **SPECTRUM** system used to model population distribution
 
 ### Urban Growth
 
