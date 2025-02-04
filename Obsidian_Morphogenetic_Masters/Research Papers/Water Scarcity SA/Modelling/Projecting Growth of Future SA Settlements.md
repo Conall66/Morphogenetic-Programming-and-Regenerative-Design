@@ -21,8 +21,6 @@
 
 ![[Elevation and Slope Thresholds.png]]
 
-
-
 ### Urban Growth
 
 - Modelling urban growth by granularising datasets: binary dasymetric modelling, three-class dasymetric modelling, globally fitted regression  modelling and locally fitted regression
