@@ -21,6 +21,7 @@
 9. Industry innovation and infrastructure
 10. Reduced inequalities
 11. Sustainable cities and communities
+	1. Access to affordable housing (upgrading slums)
 12. Responsible consumption and production
 13. Climate action
 14. Life below water (Sea life)
@@ -28,5 +29,6 @@
 16. Peace justice and strong institutions
 17. Partnerships for the goals
 
-## Potential Conflicts
+![[Sustainable Cities UN.png| 400]]
+
 

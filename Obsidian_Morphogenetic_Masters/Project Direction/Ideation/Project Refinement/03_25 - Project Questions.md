@@ -34,6 +34,8 @@
 
 ## Necessary Datasets
 
+[[Datasets]]
+
 - Population density by cell (dating back a minimum of 10 time steps)
 - Morphological breakdown by cell (dating back a minimum of 10 time steps)
 - Rainfall (dating back a minimum of 10 time steps)
@@ -43,10 +45,12 @@
 - Linking morphological development to SDGs
 - Show how densification drives wealth inequality, pushing poorer people out into the fringe settlements
 
+## Additional Questions
+
 
 ________________________________________________________________________
 
 
 ## Alternative Suggestion
 
-Reinforcement learning model governed by the same constraints (i.e. urban centres can not just emerge from nowhere - must be connected to existing infrastructure, must avoid borders, bodies of water etc.) and rewarded as it minimises transport distance, wealth inequality, water 
+- Reinforcement learning model governed by the same constraints (i.e. urban centres can not just emerge from nowhere - must be connected to existing infrastructure, must avoid borders, bodies of water etc.) and rewarded as it minimises transport distance, wealth inequality, water 
