@@ -13,7 +13,7 @@ file:///C:/Users/conal/Downloads/paper65-1.pdf
 
 - All urban models can be written as a function of independent and dependent variables, input parameters and random errors
 
-$Y_i^k = f\{Y_i, X_i, \Gamma_i, \epsilon_i^k\}$, 
+$Y_i^k = f\{Y_i, X_i, \Gamma_i, \epsilon_i^k\}$ - this model is missing the positive feedback mechanism of growth
 
 
 
