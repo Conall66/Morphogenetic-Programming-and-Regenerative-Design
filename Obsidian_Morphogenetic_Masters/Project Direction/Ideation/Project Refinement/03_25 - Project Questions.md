@@ -49,6 +49,8 @@
 
 - Is it better to invest in upgrading slums/fringe settlements or upgrade water infrastructure
 - Why is the population in South Africa set to rise so drastically?
+- South Africa loses about 37% of water through leaks - is it better to invest in repairing leaks, and if so where, rainwater/greywater treatment or to invest in new aquifiers/desalination plants?
+- Which modelling technique is more appropriate for 
 
 
 ________________________________________________________________________
