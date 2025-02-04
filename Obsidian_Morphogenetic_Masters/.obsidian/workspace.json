@@ -63,7 +63,8 @@
               "title": "Problems with Gravity Method"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,12 +204,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8813aa3ed6f6cf78",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
+    "Reference Images/Elevation and Slope Thresholds.png",
+    "Project Direction/Ideation/Project Refinement/03_25 - Project Questions.md",
     "Project Direction/Ideation/Project Refinement/UN SDGs Comparison.md",
     "Reference Images/Sustainable Cities UN.png",
     "Reference Images/Pasted image 20250204162237.png",
-    "Project Direction/Ideation/Project Refinement/03_25 - Project Questions.md",
     "Research Papers/Water Scarcity SA/Modelling/Projecting Growth of Future SA Settlements.md",
     "Reference Images/Pasted image 20250204162305.png",
     "Reference Images/Pasted image 20250204162253.png",
