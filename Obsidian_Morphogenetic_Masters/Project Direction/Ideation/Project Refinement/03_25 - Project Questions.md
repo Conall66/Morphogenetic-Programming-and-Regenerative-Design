@@ -1,3 +1,6 @@
+
+## Questions
+
 1. Are there any other papers plotting conflicting SDGs for urban development in South Africa, using gravity based downscaling to predict morphological development?
 	1. Are they looking at water scarcity specifically? Using climate models?
 2. Is the code for the Greenbook report open sourced? [[SA Growth Predictions]]
@@ -33,6 +36,10 @@
 	8. Novelty? (Is anyone else doing this)
 8. What is the project timeline?
 
+## Answers
+
+1. 
+
 ## Necessary Datasets
 
 [[Datasets]]
@@ -56,13 +63,14 @@
 ________________________________________________________________________
 
 
-## Alternative Suggestion
+## Alternative Suggestions
 
 - Reinforcement learning model governed by the same constraints (i.e. urban centres can not just emerge from nowhere - must be connected to existing infrastructure, must avoid borders, bodies of water etc.) and rewarded as it minimises transport distance, wealth inequality, water 
 	- Grid based categorisation of landscape (geospatial mask for natural resources, borders etc.) with road network? topography?
 	- Agents have the option to expand the city outwards, build up existing land, develop water infrastructure etc. (budget cost must be assigned per time step)
 	- Penalties: infringing on natural resources, increasing travel distance, expanding into flood prone areas
 	- Reward: proximity to water sources (would need existing network of water sources)
+- Model optimisation for different water related investment (aquifer, desalination, piping repairs etc.) forward projection of urban development
 
 ## Additional Questions
 
