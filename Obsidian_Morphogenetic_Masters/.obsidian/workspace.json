@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Water Scarcity SA/Modelling/Projecting Growth of Future SA Settlements.md",
+                "file": "Project Direction/Ideation/03_25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projecting Growth of Future SA Settlements"
-            }
-          },
-          {
-            "id": "21bf3b0842a95d98",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "03_25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,17 +161,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "21bf3b0842a95d98",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
+    "Documentation/Activity Log.md",
+    "Project Direction/Ideation/03_25.md",
+    "03",
+    "Research Papers/Water Scarcity SA/Modelling/Projecting Growth of Future SA Settlements.md",
     "Project Direction/Research/Urban Morphogenesis/SA Growth Predictions.md",
     "Reference Images/Results of Economic Influence for Growth.png",
     "Reference Images/Economic Drivers for Growth.png",
-    "Research Papers/Water Scarcity SA/Modelling/Projecting Growth of Future SA Settlements.md",
     "Project Direction/Research/Success Metrics/Success Criteria.md",
     "Research Papers/Water Scarcity SA/Modelling/Urban sprawl ML, CA-Markov chain.md",
     "Project Direction/Research/Water/Water Availability and SA Morphogenetic Growth.md",
     "Reference Images/Predicting Growth Methodology.png",
-    "Documentation/Activity Log.md",
     "Project Direction/Research/Success Metrics",
     "Project Direction/Ideation/Project Refinement/Rescoping Ideation.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Transformative Adaptation in SA.md",
@@ -220,7 +209,6 @@
     "Project Direction/Research/Urban Morphogenesis",
     "Reading",
     "Untitled 1",
-    "Research Papers/Smart Cities/Read",
-    "Project Direction/Ideation/Project Refinement"
+    "Research Papers/Smart Cities/Read"
   ]
 }
