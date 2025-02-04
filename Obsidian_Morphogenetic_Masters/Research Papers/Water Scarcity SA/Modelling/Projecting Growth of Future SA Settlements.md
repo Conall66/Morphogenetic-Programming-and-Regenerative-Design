@@ -10,6 +10,12 @@
 
 - In the context of urban geography, population change (growth or decline) is an inevitable phenomenon influenced by a variety of factors. These factors can be categorised into a number of broad components posited to impact population growth patterns, including **demographic characteristics, socio-economic conditions, transportation accessibility, biophysical conditions and natural amenities, as well as policies related to land use and development, with each component having many potential influential factors** (Chi & Marcouiller, 2011; Chi & Ventura, 2011a). Spatially and temporally, population change occurs in response to changes in the influential factors at a certain location in time (Chi & Ventura, 2011b)
 
+![[Pasted image 20250204162237.png]]
+![[Pasted image 20250204162253.png]]
+![[Pasted image 20250204162305.png]]
+- The main components of population change are **births, deaths and migration**
+-  
+
 ### Urban Growth
 
 - Modelling urban growth by granularising datasets: binary dasymetric modelling, three-class dasymetric modelling, globally fitted regression  modelling and locally fitted regression
