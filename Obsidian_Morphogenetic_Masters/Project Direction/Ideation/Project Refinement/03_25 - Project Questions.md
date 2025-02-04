@@ -75,3 +75,4 @@ ________________________________________________________________________
 ## Additional Questions
 
 - How does the water network in South Africa work?
+	- Proximity relationship?
