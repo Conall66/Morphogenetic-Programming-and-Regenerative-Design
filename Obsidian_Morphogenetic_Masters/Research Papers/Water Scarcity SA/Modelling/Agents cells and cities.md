@@ -3,6 +3,17 @@ file:///C:/Users/conal/Downloads/paper65-1.pdf
 ## Summary
 - This paper identified underlying rules in 3 different approaches to city expansion using AGM cellular automata
 - Policies should not be guided by any one type of modelling!
+## Key Information
+
+- Modelling techniques operate in static - dynamic systems and real life constantly evolves
+- First the model simulates local dynamics of movement of streets and buildings at small scale
+- Second the model simulates large scale using agents to grow a system of cities
+- Third the model generalises agents to cells
+### Methodology
+
+- All urban models can be written as a function of independent and dependent variables, input parameters and random errors
+
+
 
 ## Potential Future Development
 
