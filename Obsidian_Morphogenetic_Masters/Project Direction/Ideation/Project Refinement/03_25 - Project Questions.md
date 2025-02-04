@@ -6,6 +6,7 @@
 3. What are the differences between gravity based downscaling and Markov-CA?
 	1. Is it beneficial to implement a stochastic or deterministic approach?
 	2. Is it beneficial to model the potential chaotic nature (changes in morphological trajectories)?
+	3. Which modelling technique is more appropriate for population and which for urban morphology?
 4. How are water and urban morphology linked to one another?
 	1. How would optimising for access to water likely influence other SDGs [[UN SDGs Comparison]]?
 	2. Which climate models can we use to predict water availability going forward?
@@ -49,8 +50,7 @@
 
 - Is it better to invest in upgrading slums/fringe settlements or upgrade water infrastructure
 - Why is the population in South Africa set to rise so drastically?
-- South Africa loses about 37% of water through leaks - is it better to invest in repairing leaks, and if so where, rainwater/greywater treatment or to invest in new aquifiers/desalination plants?
-- Which modelling technique is more appropriate for 
+- South Africa loses about 37% of water through leaks - is it better to invest in repairing leaks, and if so where, rainwater/greywater treatment or to invest in new aquifers/desalination plants?
 
 
 ________________________________________________________________________
