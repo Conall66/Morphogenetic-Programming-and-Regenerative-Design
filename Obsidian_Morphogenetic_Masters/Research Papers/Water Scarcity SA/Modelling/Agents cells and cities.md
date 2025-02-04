@@ -1,7 +1,8 @@
 file:///C:/Users/conal/Downloads/paper65-1.pdf
 
 ## Summary
-This paper identified underlying rules in 3 different approaches to city expansion using AGM cellular automata
+- This paper identified underlying rules in 3 different approaches to city expansion using AGM cellular automata
+- Policies should not be guided by any one type of modelling!
 
 ## Potential Future Development
 
