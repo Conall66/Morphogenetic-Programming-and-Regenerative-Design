@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "03_25"
             }
+          },
+          {
+            "id": "20e178d79017a52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Direction/Research/Urban Morphogenesis/SA Growth Predictions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SA Growth Predictions"
+            }
           }
         ]
       }
@@ -161,13 +175,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6a8b7dec1e3f1550",
+  "active": "fb51cb8f190fd708",
   "lastOpenFiles": [
-    "Documentation/Activity Log.md",
-    "Project Direction/Ideation/03_25.md",
-    "03",
-    "Research Papers/Water Scarcity SA/Modelling/Projecting Growth of Future SA Settlements.md",
     "Project Direction/Research/Urban Morphogenesis/SA Growth Predictions.md",
+    "Research Papers/Water Scarcity SA/Modelling/Projecting Growth of Future SA Settlements.md",
+    "Project Direction/Ideation/03_25.md",
+    "Documentation/Activity Log.md",
+    "03",
     "Reference Images/Results of Economic Influence for Growth.png",
     "Reference Images/Economic Drivers for Growth.png",
     "Project Direction/Research/Success Metrics/Success Criteria.md",
