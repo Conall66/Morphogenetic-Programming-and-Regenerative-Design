@@ -19,8 +19,6 @@ $Y_i^k = f\{Y_i, X_i, \Gamma_i, \epsilon_i^k\}$ - this model is missing the posi
 
 - Population density is measured as a function of distance to workplace and friction in 
 
-
-
 ## Potential Future Development
 
 - Converting policies into constraints for cellular automata models ("Currently the extent to which CA/CS and agent-based models of urban systems can be fully implemented for policy applications is quite limited")
