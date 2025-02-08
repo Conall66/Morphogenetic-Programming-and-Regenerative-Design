@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Ideation/Project Refinement/UN SDGs Comparison.md",
+                "file": "Project Direction/Ideation/Project Refinement/03_25 - Project Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UN SDGs Comparison"
+              "title": "03_25 - Project Questions"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Problems with Gravity Method"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +204,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8813aa3ed6f6cf78",
+  "active": "fb51cb8f190fd708",
   "lastOpenFiles": [
-    "Project Direction/Ideation/Project Refinement/03_25 - Project Questions.md",
     "Project Direction/Ideation/Project Refinement/UN SDGs Comparison.md",
+    "Documentation/Activity Log.md",
+    "Project Direction/Ideation/Project Refinement/03_25 - Project Questions.md",
     "Project Direction/Research/Water/Water Availability and SA Morphogenetic Growth.md",
     "Research Papers/Water Scarcity SA/Modelling/Projecting Growth of Future SA Settlements.md",
     "Reference Images/Elevation and Slope Thresholds.png",
@@ -220,7 +222,6 @@
     "Key Terms/Morphogenesis/Toblers Law.md",
     "Research Papers/Water Scarcity SA/Modelling/Agents cells and cities.md",
     "Primary Research/Primary Sources.md",
-    "Documentation/Activity Log.md",
     "03",
     "Reference Images/Results of Economic Influence for Growth.png",
     "Reference Images/Economic Drivers for Growth.png",
