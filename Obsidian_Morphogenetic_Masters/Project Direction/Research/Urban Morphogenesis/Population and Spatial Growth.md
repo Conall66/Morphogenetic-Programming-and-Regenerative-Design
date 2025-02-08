@@ -11,4 +11,7 @@ costs and city sizes. Similarly, spatial diffusion theories argue that populatio
 spread outwards from a city centre to surrounding area, implying that population growth is
 spatially auto-correlated (Chi & Marcouiller, 2011). 
 
+The manner in which settlements are distributed across space is a dynamic reflection of the
+relationship and interaction between population, development and the environment.
+
 [[SA Growth Predictions]]
