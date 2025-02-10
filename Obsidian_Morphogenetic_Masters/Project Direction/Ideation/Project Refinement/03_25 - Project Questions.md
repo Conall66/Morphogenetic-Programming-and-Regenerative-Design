@@ -1,7 +1,7 @@
 
 ## Initial Idea
 
-Plot future SSP predictions for Cape Town evolution and map with it water scarcity [Future Global Urban Water Scarcity and Potential Solutions](https://www.nature.com/articles/s41467-021-25026-3), then create a new models showing planned water investment and potential optimised water investment (reinforcement learning model? Standard multi-variate optimisation?)
+Plot future SSP predictions for Cape Town evolution and map with it water scarcity [Future Global Urban Water Scarcity and Potential Solutions](https://www.nature.com/articles/s41467-021-25026-3), then create new models showing planned water investment and potential optimised water investment (reinforcement learning model? Standard multi-variate optimisation?)
 ## Questions
 
 1. Are there any other papers plotting conflicting SDGs for urban development in South Africa, using gravity based downscaling to predict morphological development?
@@ -42,7 +42,7 @@ Plot future SSP predictions for Cape Town evolution and map with it water scarci
 ## Answers
 
 1. [Peak Urban Project](https://www.africancentreforcities.net/programme/peak-urban/)
-	The Peak Urban project is 
+2. 
 
 ## Necessary Datasets
 
