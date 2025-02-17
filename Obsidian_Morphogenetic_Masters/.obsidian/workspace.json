@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Papers/Water Scarcity SA/Problem Contextualisation/Trade-offs between SDGs in systems of cities.md",
+                "file": "Project Direction/Research/Water/Cape Town Water Sources (GPT).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trade-offs between SDGs in systems of cities"
+              "title": "Cape Town Water Sources (GPT)"
             }
           },
           {
@@ -76,23 +76,9 @@
               "icon": "lucide-file",
               "title": "Cape Town Water Sources (GPT)"
             }
-          },
-          {
-            "id": "50eca131ec41a792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research Papers/Water Scarcity SA/Problem Contextualisation/Water Requirements Cape.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Water Requirements Cape"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,11 +218,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "50eca131ec41a792",
+  "active": "3db5b5e267859ec4",
   "lastOpenFiles": [
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Trade-offs between SDGs in systems of cities.md",
+    "Project Direction/Research/Water/Water Availability and SA Morphogenetic Growth.md",
+    "Project Direction/Research/Water/Dam Levels.md",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Water Requirements Cape.md",
     "Reference Images/Water Loss Cape.png",
     "Reference Images/Pasted image 20250217212328.png",
-    "Research Papers/Water Scarcity SA/Problem Contextualisation/Water Requirements Cape.md",
     "Project Direction/Research/Water/Cape Town Water Sources (GPT).md",
     "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
     "Project Direction/Research/Urban Morphogenesis/Evaluation of Modelling Techniques.md",
@@ -245,7 +234,6 @@
     "Project Direction/Research/Urban Morphogenesis/Problems with Gravity Method.md",
     "Project Direction/Research/Urban Morphogenesis/Population and Spatial Growth.md",
     "Project Direction/Research/Success Metrics/Success Criteria.md",
-    "Research Papers/Water Scarcity SA/Problem Contextualisation/Trade-offs between SDGs in systems of cities.md",
     "Documentation/Activity Log.md",
     "Project Direction/Ideation/Project Refinement/13_02_25 - Project Evaluation.md",
     "Project Direction/Ideation/Project Refinement/03_02_25 - Project Questions.md",
@@ -254,7 +242,6 @@
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Infrastructure Report 2023 SA.md",
     "Project Direction/Research/Water/Purifying Water - ChatGPT.md",
     "Project Direction/Research/Water/Water Scarcity - United Nations.md",
-    "Project Direction/Research/Water/Water Availability and SA Morphogenetic Growth.md",
     "Project Direction/Research/Water/Access to Sanitised Water in Southern Africa.md",
     "Research Papers/Water Scarcity SA/Modelling/Projecting Growth of Future SA Settlements.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Water & Informal Settlements.md",
@@ -267,7 +254,6 @@
     "Reference Images/Sustainable Cities UN.png",
     "Reference Images/Pasted image 20250204162237.png",
     "Reference Images/Pasted image 20250204162305.png",
-    "Reference Images/Pasted image 20250204162253.png",
     "Project Direction/Technical/Datasets.md",
     "Key Terms/Morphogenesis/Toblers Law.md",
     "03",

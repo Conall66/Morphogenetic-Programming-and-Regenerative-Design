@@ -17,3 +17,7 @@
 
 - Cape Town is vulnerable to **droughts**, such as the severe **2015–2018 water crisis**.
 - The city is investing in **alternative water sources**, including expanding groundwater extraction, improving wastewater recycling, and considering larger-scale desalination.
+
+[Cape Town Water Supply Distribution](https://www.researchgate.net/publication/262652877_Ensuring_water_supply_for_all_towns_and_villages_in_the_Eastern_Cape_and_Western_Cape_Provinces_of_South_Africa)
+
+[[Dam Levels]]
