@@ -11,4 +11,6 @@
 
 - Do I need to know what cities will look like first?
 - Can I get road networks dataset?
-- Does road networks data resemble wat
+- Does road networks data resemble waterways?
+- Do I need information on either city distribution or population distribution?
+- 
