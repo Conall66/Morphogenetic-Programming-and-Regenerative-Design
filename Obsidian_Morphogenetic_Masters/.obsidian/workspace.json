@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Cape Town Water Sources (GPT)"
             }
+          },
+          {
+            "id": "50eca131ec41a792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Papers/Water Scarcity SA/Problem Contextualisation/Water Requirements Cape.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Water Requirements Cape"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,8 +232,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "884f990025ad88e6",
+  "active": "50eca131ec41a792",
   "lastOpenFiles": [
+    "Reference Images/Water Loss Cape.png",
+    "Reference Images/Pasted image 20250217212328.png",
+    "Research Papers/Water Scarcity SA/Problem Contextualisation/Water Requirements Cape.md",
+    "Project Direction/Research/Water/Cape Town Water Sources (GPT).md",
     "Project Direction/Research/Urban Morphogenesis/Crowd Dynamics and Urban Morphogenesis.md",
     "Project Direction/Research/Urban Morphogenesis/Evaluation of Modelling Techniques.md",
     "Project Direction/Research/Urban Morphogenesis/Key Functional Growth Variables.md",
@@ -235,7 +253,6 @@
     "Research Papers/Water Scarcity SA/Modelling/Agents cells and cities.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Infrastructure Report 2023 SA.md",
     "Project Direction/Research/Water/Purifying Water - ChatGPT.md",
-    "Project Direction/Research/Water/Cape Town Water Sources (GPT).md",
     "Project Direction/Research/Water/Water Scarcity - United Nations.md",
     "Project Direction/Research/Water/Water Availability and SA Morphogenetic Growth.md",
     "Project Direction/Research/Water/Access to Sanitised Water in Southern Africa.md",
@@ -254,10 +271,7 @@
     "Project Direction/Technical/Datasets.md",
     "Key Terms/Morphogenesis/Toblers Law.md",
     "03",
-    "Reference Images/Results of Economic Influence for Growth.png",
-    "Research Papers/Water Scarcity SA/Modelling/Urban sprawl ML, CA-Markov chain.md",
     "Project Direction/Research/Success Metrics",
-    "Project Direction/Ideation/Project Refinement/Rescoping Ideation.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation",
     "Research Papers/Water Scarcity SA/Modelling",
     "Untitled.canvas",
