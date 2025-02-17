@@ -15,6 +15,7 @@ Visualisation of cellular data
 - [Access to Water by Municipalities Time Series](https://www.dws.gov.za/niwis2/Sanitation/AccessToServices) - Information on access to sanitised water backlog on population by municipality over time (can use population information to show rate of migration towards urban environments)
 - [Urbanisation Over Time SA - Office for National Statistics](https://www.statista.com/statistics/1226106/urbanization-rate-in-africa/) - for the whole of SA rather than by region
 - [Settlement Data WorldPop](https://hub.worldpop.org/geodata/summary?id=17253) - available in 1 year increments from 2001 - 2020 but only has binary value (0-1)
+- [City of Cape Town Open Data Portal](https://odp-cctegis.opendata.arcgis.com/search?tags=spatial%2520planning)
 
 ## Population Density
 
