@@ -9,3 +9,5 @@
 
 ### Project 1
 
+- Do I need to know what cities will look like first?
+- 
