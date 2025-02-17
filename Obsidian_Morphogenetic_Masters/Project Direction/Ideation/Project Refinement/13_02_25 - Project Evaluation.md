@@ -10,4 +10,5 @@
 ### Project 1
 
 - Do I need to know what cities will look like first?
-- 
+- Can I get road networks dataset?
+- Does road networks data resemble wat
