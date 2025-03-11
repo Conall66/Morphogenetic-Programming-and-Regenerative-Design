@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Activity Log.md",
+                "file": "Project Direction/Research/Success Metrics/Success Criteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activity Log"
+              "title": "Success Criteria"
             }
           }
         ]
@@ -163,8 +163,8 @@
   },
   "active": "8813aa3ed6f6cf78",
   "lastOpenFiles": [
-    "Project Direction/Ideation/Project Refinement/03_02_25 - Project Questions.md",
     "Documentation/Activity Log.md",
+    "Project Direction/Ideation/Project Refinement/03_02_25 - Project Questions.md",
     "Project Direction/Technical/Datasets.md",
     "Research Papers/Water Scarcity SA/Modelling/Urban Road and Pop Expansion.md",
     "Project Direction/Ideation/Project Refinement/13_02_25 - Project Evaluation.md",
