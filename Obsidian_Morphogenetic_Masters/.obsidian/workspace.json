@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "eb6cc83163ae5a30",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
             "id": "8813aa3ed6f6cf78",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "Urban Sprawl Microclimates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +175,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "eb6cc83163ae5a30",
+  "active": "2e5b68b22e89e2eb",
   "lastOpenFiles": [
     "Documentation/Activity Log.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Urban Sprawl Microclimates.md",
