@@ -15,8 +15,6 @@
 ![[Entropy Model Urban Water Netowrks.jpg | 400]]
 ## Limitations
 
-- Stochastic predictions based on uncertainty of water network
-- Applied without prediction on morphological change
 - Does not explore implications on transport networks by optimising for water distributions and pipe sizing
 
 ## Software
