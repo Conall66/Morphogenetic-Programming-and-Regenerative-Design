@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "genetic algo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e56c17607fa9ebd4",
+  "active": "ed176d0de5782b5e",
   "lastOpenFiles": [
     "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Water Networks.md",
     "Research Papers/Water Scarcity SA/Modelling/Urban Road and Pop Expansion.md",
