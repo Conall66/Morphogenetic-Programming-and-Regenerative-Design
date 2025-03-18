@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Direction/Research/Urban Morphogenesis/Population and Spatial Growth.md",
+                "file": "Documentation/Activity Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Population and Spatial Growth"
+              "title": "Activity Log"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Urban Sprawl Microclimates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genetic algo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,14 +189,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e56c17607fa9ebd4",
+  "active": "2e5b68b22e89e2eb",
   "lastOpenFiles": [
-    "Research Papers/Water Scarcity SA/Modelling/Urban Road and Pop Expansion.md",
+    "Project Direction/Research/Urban Morphogenesis/Population and Spatial Growth.md",
     "Research Papers/Water Scarcity SA/Modelling/Morphogenetic Water Networks.md",
+    "Research Papers/Water Scarcity SA/Modelling/Urban Road and Pop Expansion.md",
     "Research Papers/Water Scarcity SA/Modelling/GSHL Predictive Modelling.md",
     "Project Direction/Research/Water/Water Availability and SA Morphogenetic Growth.md",
     "Project Direction/Research/Urban Morphogenesis/Maths 15 Minute City.md",
-    "Project Direction/Research/Urban Morphogenesis/Population and Spatial Growth.md",
     "Documentation/Current Working Model Proposition.md",
     "Documentation/Activity Log.md",
     "Research Papers/Water Scarcity SA/Problem Contextualisation/Urban Sprawl Microclimates.md",
