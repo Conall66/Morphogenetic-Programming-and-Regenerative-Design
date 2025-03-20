@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "population",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +218,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "16104d48ba1c7423",
+  "active": "6a8b7dec1e3f1550",
   "lastOpenFiles": [
     "Research Papers/Water Scarcity SA/Modelling/Cities for liveable futures.md",
     "Documentation/Activity Log.md",
