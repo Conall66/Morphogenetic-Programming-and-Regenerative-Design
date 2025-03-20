@@ -23,7 +23,7 @@
 
 ### Urban Growth
 
-- Modelling urban growth by granularising datasets: binary dasymetric modelling, three-class dasymetric modelling, globally fitted regression  modelling and locally fitted regression
+- Modelling urban growth by granularising datasets: binary dasymetric modelling, three-class dasymetric modelling, globally fitted regression modelling and locally fitted regression
 - A number of authors have used **logistic regression** for modelling urban growth processes
 - **Kernel-based interpolation** methods are also widely used to estimate the probability of the population distribution based on the distance to the population centre. These models allocate population based on the exponential distance decay function, using the centroid of a source zone as a control point. A window is positioned over each control point, and in turn the source zone population is allocated to grid cells falling inside the window using a unique weighting based on the distance decay function between the source zone centroid and the grid cell (Li, 2010)
 - **Gravity based model**: A refined gravity model, often referred to in the literature as the IIASA methodology, was developed by the International Institute for Applied Systems Analysis (IIASA) to downscale generalised global population projections to a continuous gridded surface
