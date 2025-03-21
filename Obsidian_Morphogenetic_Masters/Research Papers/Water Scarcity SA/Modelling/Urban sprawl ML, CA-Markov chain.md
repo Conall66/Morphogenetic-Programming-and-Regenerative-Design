@@ -18,8 +18,6 @@ The study investigates urban sprawl in Mbombela, South Africa, from 2003 to 2033
 
 ### Why Use CA-Markov?
 
-
-
 ## Limitations
 
 ## Datasets
